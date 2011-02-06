@@ -1,0 +1,14 @@
+(dp1
+Vcon = sqlite3.connect(dbname)
+p2
+I587
+sVa = sh.col_values(0)
+p3
+I520
+sVsheet.cell_value(rowx=2, colx=3)
+p4
+I216
+sVglob.glob(path)
+p5
+I492
+s.

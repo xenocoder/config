@@ -1,0 +1,26 @@
+(dp1
+Vouttime=time.strftime("%Y-%m-%d %H:%M", tdate)
+p2
+I85
+sVint(lonraw[0:3])
+p3
+I303
+sVsheet.row_slice(1, start_colx=0,end_colx=12)
+p4
+I223
+sVyear = s[1][6:8]
+p5
+I678
+sVtype(sheets[0])
+p6
+I172
+sVspot
+p7
+I417
+sVcsv.register_dialect(lineterminator='\u005cr')
+p8
+I748
+sVu = unichr(0xb0)
+p9
+I288
+s.

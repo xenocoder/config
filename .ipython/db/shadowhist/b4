@@ -1,0 +1,17 @@
+(dp1
+VV4
+p2
+I147
+sVf = open('reviews_issue1.txt','r')
+p3
+I65
+sVfile.basename()
+p4
+I454
+sVfloat(r[0])
+p5
+I571
+sVexit
+p6
+I462
+s.

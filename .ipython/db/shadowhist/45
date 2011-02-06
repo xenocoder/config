@@ -1,0 +1,5 @@
+(dp1
+Vc.execute("select lonmean,latmean from turtles where eventid == 17710")
+p2
+I609
+s.

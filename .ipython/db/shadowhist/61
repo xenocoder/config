@@ -1,0 +1,20 @@
+(dp1
+Vlength(data)
+p2
+I17
+sVrun -d ReadSSM.py
+p3
+I586
+sVsheets[0].decode()
+p4
+I175
+sVif (str(sheets[1])[0:3]=='Bla'):
+p5
+I196
+sVa = data.fetchall()
+p6
+I599
+sVhelp datetime
+p7
+I229
+s.

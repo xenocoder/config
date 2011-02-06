@@ -1,0 +1,14 @@
+(dp1
+Vj=3
+p2
+I55
+sVlat = int(latraw[0:2]) + float(latraw[3:5])/60
+p3
+I317
+sVdata[239]
+p4
+I354
+sVinfile[:-4] + '_match.csv'
+p5
+I212
+s.

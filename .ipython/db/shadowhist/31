@@ -1,0 +1,17 @@
+(dp1
+Vclass excel_mac(csv.Dialect):
+p2
+I754
+sVlonmin = float(longitude[21:26])/60
+p3
+I103
+sVfiles[0]
+p4
+I500
+sVc.execute('''create table turtles (eventid int, date text, lonmean real, lon025 real, lon5 real, lon975 real, latmean real, lat025 real, lat5 real, lat975 real, bmode real, bmode1 real, gender text)''')
+p5
+I551
+sVc = sh.col_values(0)
+p6
+I522
+s.

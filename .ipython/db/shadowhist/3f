@@ -1,0 +1,8 @@
+(dp1
+Vc.execute('''create table turtles (eventid int, date text, lonmean real, lon025 real, lon5 real, lon975 real, latmean real, lat025 real, lat5 real, lat975 real, bmode real, bmode1 real, owners text, deploy text)''')
+p2
+I549
+sVstations=""
+p3
+I197
+s.

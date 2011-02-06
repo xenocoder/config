@@ -1,0 +1,11 @@
+(dp1
+Vdef open_it():
+p2
+I36
+sVrawdate = xlrd.xldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+p3
+I242
+sVs = line.split(',')
+p4
+I651
+s.

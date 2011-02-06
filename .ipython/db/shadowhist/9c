@@ -1,0 +1,17 @@
+(dp1
+Vrawdate[2]
+p2
+I243
+sVunichr('\u005cxb0')
+p3
+I284
+sVjunk[50:60]
+p4
+I118
+sVc = conn.cursor()
+p5
+I527
+sVint(s[1][6:8]) + 2000
+p6
+I681
+s.

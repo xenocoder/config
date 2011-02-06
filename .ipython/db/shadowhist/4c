@@ -1,0 +1,17 @@
+(dp1
+Vdata = c.execute("select * from turtles")
+p2
+I590
+sVif os.path.exists(btlfile):
+p3
+I346
+sVdata[spot+1]
+p4
+I426
+sVyear = s[1][5:7]
+p5
+I676
+sVgender = files[0][-5]
+p6
+I515
+s.

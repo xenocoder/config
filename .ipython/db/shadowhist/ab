@@ -1,0 +1,11 @@
+(dp1
+Vfloat(s[4][0:-1])
+p2
+I693
+sVfiles=os.listdir(dirs[0])
+p3
+I499
+sVa = data.fetchmany(2)
+p4
+I597
+s.

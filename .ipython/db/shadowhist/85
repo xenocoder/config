@@ -1,0 +1,17 @@
+(dp1
+Vdirs[0]
+p2
+I502
+sVx = range(6)
+p3
+I774
+sVs[2]
+p4
+I674
+sVdef proclat (lat, latcode):
+p5
+I701
+sVcsv.reader(file(infile, 'r'),lineterminator='\u005cr)
+p6
+I756
+s.

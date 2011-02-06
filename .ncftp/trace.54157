@@ -1,0 +1,17 @@
+SESSION STARTED at:  2010-02-25 19:38:15 HST -1000
+   Program Version:  NcFTP 3.1.9/190 Mar 24 2005, 07:18 PM
+   Library Version:  LibNcFTP 3.1.9 (March 19, 2005)
+        Process ID:  54157
+          Platform:  macosx10.6.1
+          Hostname:  Silverbox.local  (rc=2)
+          Terminal:  xterm-color
+19:38:15  Fw: firewall.local  Type: 0  User: ehowell  Pass: ********  Port: 21
+19:38:15  FwExceptions: .local,localhost,localdomain
+19:38:15  Resolving ftp.aviso.oceanobs.com/pub/oceano/AVISO/SSH/duacs/global/dt/upd...
+19:38:15  Connecting to 208.67.219.132...
+19:38:15  LibNcFTP 3.1.9 (March 19, 2005) compiled for macosx10.6.1
+19:38:15  Uname: Darwin|Silverbox.local|10.2.0|Darwin Kernel Version 10.2.0: Tue Nov  3 10:37:10 PST 2009; root:xnu-1486.2.11~1/RELEASE_I386|i386
+19:38:15  Sysinfo: Mac OS X 10.6.2 (Build 10C540)
+19:38:35  Could not connect to 208.67.219.132 -- try again later: Operation timed out.
+19:38:35  Retry Number: 1
+19:38:35  Redialing (try 1)...

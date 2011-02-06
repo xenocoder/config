@@ -1,0 +1,14 @@
+(dp1
+Vinfile = open(file,'r')
+p2
+I138
+sVimport array
+p3
+I465
+sV[int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[7][0:-1])]
+p4
+I695
+sVd = '%s-%s-%s'%(r[15],r[14],r[13])
+p5
+I550
+s.

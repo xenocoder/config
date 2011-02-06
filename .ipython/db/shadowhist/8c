@@ -1,0 +1,17 @@
+(dp1
+Vsearcher = fullalbum + "/*.mp3
+p2
+I431
+sVlonraw.decode('BOM')
+p3
+I279
+sVrow[0]
+p4
+I537
+sVchla_meas
+p5
+I272
+sVlon = proclon(float(s[5][0:-1]),s[5][-1])
+p6
+I722
+s.

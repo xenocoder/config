@@ -1,0 +1,32 @@
+(dp1
+Vc.execute('insert into turtles values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+p2
+I576
+sVappend = "T"
+p3
+I580
+sVtester[3]
+p4
+I657
+sVrun ReadSSM.py
+p5
+I585
+sVdate = d
+p6
+I559
+sVfile = "72490_2004.csv"
+p7
+I739
+sVfile.lower
+p8
+I451
+sVdef proclineW (data,c):
+p9
+I733
+sVlonraw
+p10
+I276
+sVlonraw.find(14)
+p11
+I296
+s.

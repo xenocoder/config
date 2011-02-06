@@ -1,0 +1,11 @@
+(dp1
+Vgetchla.py 'SE1003_chl_allstations.xls'
+p2
+I325
+sVc.commit
+p3
+I577
+sVbtlfile = 'CTD/Processed/%s_%02dc.btl'%(cruise,stano)
+p4
+I381
+s.

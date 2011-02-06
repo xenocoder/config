@@ -1,0 +1,17 @@
+(dp1
+Vfile.write('Station Year Month Day Longitude Latitude Bottle Depth Blank Range_b Rb Range_a Ra Chla_meas\u005cn')
+p2
+I323
+sVprint data[0]
+p3
+I591
+sVlatraw = sheet.cell_value(rowx=4,colx=4)
+p4
+I313
+sVxldate_as_tuple(sheet.cell_value(rowx=1, colx=4), 0)
+p5
+I227
+sVjunk.lower()
+p6
+I453
+s.

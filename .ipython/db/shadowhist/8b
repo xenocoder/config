@@ -1,0 +1,14 @@
+(dp1
+Vs[1][1:3]
+p2
+I684
+sVcd /Users/ehowell/Dropbox/
+p3
+I63
+sVlower(file)
+p4
+I450
+sV'%4d-%02d-%02dT12:00Z'%(r[14],r[13],r[11])
+p5
+I672
+s.

@@ -1,0 +1,8 @@
+(dp1
+Vos.linesep = '\u005cn'
+p2
+I744
+sVt = [int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[8][0:-1])]
+p3
+I724
+s.

@@ -1,0 +1,20 @@
+(dp1
+Vlatmin = float(latmin) / 60
+p2
+I95
+sVsheet.cell_value(rowx=4,colx=1)
+p3
+I332
+sVcruise.lower
+p4
+I340
+sVfor i in data[1:]:\u000a    if (j%3==0):\u000a        print i.split()[0]\u000a        j=j+1
+p5
+I62
+sVtemp.fromfile(fp, 399*267*33)
+p6
+I473
+sVfloat(s[7][0:-1])
+p7
+I712
+s.

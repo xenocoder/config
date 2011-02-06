@@ -1,0 +1,17 @@
+[core]
+	excludesfile = /Users/ehowell/.gitignore
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[user]
+	name = Greig Stormhammer
+	email = stormhammer@xenocoder.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[merge]
+	tool = opendiff

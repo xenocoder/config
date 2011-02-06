@@ -1,0 +1,11 @@
+(dp1
+Vf = open(btlfile)
+p2
+I375
+sVs = r.split(',')
+p3
+I720
+sVc.execute("select distinct(eventid) from turtles where eventid == 17710")
+p4
+I608
+s.

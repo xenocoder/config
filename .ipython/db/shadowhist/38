@@ -1,0 +1,17 @@
+(dp1
+Vlatitude
+p2
+I99
+sVsheet.cell_value(rowx=12, colx=6)
+p3
+I219
+sVproclon(float(s[5][0:-1]),s[5][-1])
+p4
+I705
+sVd = '%s-%s-%s'%(r[14],r[13],r[11])
+p5
+I554
+sVclass(r[14])
+p6
+I617
+s.

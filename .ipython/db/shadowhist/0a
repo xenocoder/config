@@ -1,0 +1,11 @@
+(dp1
+Vtestline
+p2
+I764
+sVd[data2[0][0]] = data2[0]
+p3
+I391
+sVc.execute("""insert into turtles values (int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+p4
+I568
+s.

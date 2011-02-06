@@ -1,0 +1,9507 @@
+info_begin
+format: 1
+mpd_version: 0.16.1
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: GarageBand
+mtime: 1289802511
+begin: GarageBand
+directory: IT Crowd.band
+mtime: 1248423956
+begin: GarageBand/IT Crowd.band
+directory: Media
+mtime: 1258608872
+begin: GarageBand/IT Crowd.band/Media
+song_begin: 01 The IT Crowd Theme.aif
+Time: 33
+mtime: 1248424145
+song_end
+end: GarageBand/IT Crowd.band/Media
+directory: Output
+mtime: 1248424226
+begin: GarageBand/IT Crowd.band/Output
+song_begin: Output.aif
+Time: 24
+mtime: 1248424226
+song_end
+end: GarageBand/IT Crowd.band/Output
+end: GarageBand/IT Crowd.band
+directory: My Song.band
+mtime: 1283743061
+begin: GarageBand/My Song.band
+directory: Media
+mtime: 1283743138
+begin: GarageBand/My Song.band/Media
+song_begin: JU_JU Hello_Again mukashikaraarubasho.aif
+Time: 312
+mtime: 1283743141
+song_end
+end: GarageBand/My Song.band/Media
+directory: Output
+mtime: 1283743211
+begin: GarageBand/My Song.band/Output
+song_begin: Output.aif
+Time: 312
+mtime: 1283743211
+song_end
+end: GarageBand/My Song.band/Output
+end: GarageBand/My Song.band
+end: GarageBand
+directory: Logic
+mtime: 1293086201
+begin: Logic
+directory: EZDrummer Template
+mtime: 1293086336
+begin: Logic/EZDrummer Template
+directory: Audio Files
+mtime: 1293086084
+begin: Logic/EZDrummer Template/Audio Files
+song_begin: Audio 1_01.wav
+Time: 15
+mtime: 1250231932
+song_end
+song_begin: Audio 1_03.wav
+Time: 92
+mtime: 1250231932
+song_end
+song_begin: Audio 1_04.wav
+Time: 101
+mtime: 1250231932
+song_end
+song_begin: bass_01.wav
+Time: 102
+mtime: 1250231934
+song_end
+song_begin: git 1#01.aif
+Time: 13
+mtime: 1293085826
+song_end
+song_begin: git 1#02.aif
+Time: 3
+mtime: 1293085843
+song_end
+song_begin: git 1#03.aif
+Time: 17
+mtime: 1293085870
+song_end
+song_begin: git 1#04.aif
+Time: 20
+mtime: 1293085914
+song_end
+song_begin: git 1#05.aif
+Time: 29
+mtime: 1293085959
+song_end
+song_begin: git 1#06.aif
+Time: 7
+mtime: 1293085986
+song_end
+song_begin: git 1#07.aif
+Time: 41
+mtime: 1293086036
+song_end
+song_begin: guitar 2_01.wav
+Time: 101
+mtime: 1250231932
+song_end
+song_begin: riff 2#01.aif
+Time: 12
+mtime: 1293086075
+song_end
+song_begin: riff 2#02.aif
+Time: 31
+mtime: 1293086115
+song_end
+end: Logic/EZDrummer Template/Audio Files
+end: Logic/EZDrummer Template
+directory: New riff
+mtime: 1291618285
+begin: Logic/New riff
+directory: Audio Files
+mtime: 1291618288
+begin: Logic/New riff/Audio Files
+song_begin: Git 1#01.aif
+Time: 1
+mtime: 1291617178
+song_end
+song_begin: New riff_2#01.aif
+Time: 27
+mtime: 1291617393
+song_end
+song_begin: New riff_4#01.aif
+Time: 1
+mtime: 1291618269
+song_end
+end: Logic/New riff/Audio Files
+end: Logic/New riff
+directory: NewSong1
+mtime: 1291013105
+begin: Logic/NewSong1
+directory: Audio Files
+mtime: 1291013108
+begin: Logic/NewSong1/Audio Files
+song_begin: Git 2#01.aif
+Time: 19
+mtime: 1291012364
+song_end
+song_begin: Git 2#02.aif
+Time: 31
+mtime: 1291012429
+song_end
+song_begin: Git 3#01.aif
+Time: 12
+mtime: 1291012597
+song_end
+song_begin: Git 3#02.aif
+Time: 35
+mtime: 1291012976
+song_end
+song_begin: NewSong1_1#02.aif
+Time: 4
+mtime: 1291011712
+song_end
+song_begin: NewSong1_1#03.aif
+Time: 4
+mtime: 1291011757
+song_end
+song_begin: NewSong1_1#06.aif
+Time: 4
+mtime: 1291012013
+song_end
+song_begin: NewSong1_1#07.aif
+Time: 7
+mtime: 1291012123
+song_end
+end: Logic/NewSong1/Audio Files
+end: Logic/NewSong1
+directory: Riffs dminor
+mtime: 1293086207
+begin: Logic/Riffs dminor
+directory: Audio Files
+mtime: 1293086207
+begin: Logic/Riffs dminor/Audio Files
+song_begin: git 1#01.aif
+Time: 13
+mtime: 1293085826
+song_end
+song_begin: git 1#02.aif
+Time: 3
+mtime: 1293085843
+song_end
+song_begin: git 1#03.aif
+Time: 17
+mtime: 1293085870
+song_end
+song_begin: git 1#04.aif
+Time: 20
+mtime: 1293085914
+song_end
+song_begin: git 1#05.aif
+Time: 29
+mtime: 1293085959
+song_end
+song_begin: git 1#06.aif
+Time: 7
+mtime: 1293085986
+song_end
+song_begin: git 1#07.aif
+Time: 41
+mtime: 1293086036
+song_end
+song_begin: riff 2#01.aif
+Time: 12
+mtime: 1293086075
+song_end
+song_begin: riff 2#02.aif
+Time: 31
+mtime: 1293086115
+song_end
+end: Logic/Riffs dminor/Audio Files
+end: Logic/Riffs dminor
+directory: TestSong
+mtime: 1290580606
+begin: Logic/TestSong
+directory: Audio Files
+mtime: 1290580631
+begin: Logic/TestSong/Audio Files
+song_begin: Git 2#01.aif
+Time: 19
+mtime: 1290405552
+song_end
+song_begin: Git 2#02.aif
+Time: 51
+mtime: 1290405638
+song_end
+song_begin: Git 2#03.aif
+Time: 12
+mtime: 1290406299
+song_end
+song_begin: Git Melody#01.aif
+Time: 10
+mtime: 1290405806
+song_end
+song_begin: Git Melody#02.aif
+Time: 50
+mtime: 1290406002
+song_end
+song_begin: Git Melody#03.aif
+Time: 51
+mtime: 1290406106
+song_end
+song_begin: Git Melody#04.aif
+Time: 1
+mtime: 1290406166
+song_end
+song_begin: Git Melody#05.aif
+Time: 52
+mtime: 1290406221
+song_end
+song_begin: TestSong_1#01.aif
+Time: 51
+mtime: 1290405411
+song_end
+song_begin: TestSong_3#01.aif
+Time: 51
+mtime: 1290406279
+song_end
+song_begin: TestSong_3#02.aif
+Time: 27
+mtime: 1290406348
+song_end
+song_begin: TestSong_3#03.aif
+Time: 26
+mtime: 1290406381
+song_end
+song_begin: TestSong_3#04.aif
+Time: 17
+mtime: 1290406402
+song_end
+song_begin: TestSong_3#06.aif
+Time: 51
+mtime: 1290406477
+song_end
+end: Logic/TestSong/Audio Files
+directory: Bounces
+mtime: 1290580630
+begin: Logic/TestSong/Bounces
+song_begin: TestSong.mp3
+Time: 47
+Artist: Evan Howell
+Title: TestSong
+Album: Home Studio Attempts 2010
+Track: 1
+Date: 2010-11-21T21:11
+mtime: 1290580655
+song_end
+song_begin: TestSong_newmix.mp3
+Time: 47
+Artist: Evan Howell
+Title: TestSong
+Album: Home Studio Attempts 2010
+Track: 1
+Date: 2010-11-23T20:36
+mtime: 1290580662
+song_end
+end: Logic/TestSong/Bounces
+end: Logic/TestSong
+end: Logic
+directory: Sounds
+mtime: 1240267100
+begin: Sounds
+song_begin: mentok.mp3
+Time: 3
+mtime: 1237537264
+song_end
+song_begin: wookah.mp3
+Time: 1
+Genre: Blues
+mtime: 1212081135
+song_end
+end: Sounds
+directory: XFER
+mtime: 1288374423
+begin: XFER
+directory: RAMONES - 28 ALBUMS
+mtime: 1258754450
+begin: XFER/RAMONES - 28 ALBUMS
+directory: Dee Dee Ramone - Greatest & Latest
+mtime: 1258754398
+begin: XFER/RAMONES - 28 ALBUMS/Dee Dee Ramone - Greatest & Latest
+song_begin: 01 Blitzkrieg Bop.mp3
+Time: 125
+Artist: Dee Dee Ramone
+Title: Blitzkrieg Bop
+Album: Greatest & Latest
+Track: 01
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 02 Timebomb.mp3
+Time: 117
+Artist: Dee Dee Ramone
+Title: Timebomb
+Album: Greatest & Latest
+Track: 02
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 03 Sheena Is A Punk Rocker.mp3
+Time: 159
+Artist: Dee Dee Ramone
+Title: Sheena Is A Punk Rocker
+Album: Greatest & Latest
+Track: 03
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 04 Motorbikin'.mp3
+Time: 170
+Artist: Dee Dee Ramone
+Title: Motorbikin'
+Album: Greatest & Latest
+Track: 04
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 05 I Wanna Be Sedated.mp3
+Time: 148
+Artist: Dee Dee Ramone
+Title: I Wanna Be Sedated
+Album: Greatest & Latest
+Track: 05
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 06 Cretin Hop.mp3
+Time: 119
+Artist: Dee Dee Ramone
+Title: Cretin Hop
+Album: Greatest & Latest
+Track: 06
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 07 Teenage Lobotomy.mp3
+Time: 117
+Artist: Dee Dee Ramone
+Title: Teenage Lobotomy
+Album: Greatest & Latest
+Track: 07
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 08 Gimme Gimme Schock Treatment.mp3
+Time: 96
+Artist: Dee Dee Ramone
+Title: Gimme Gimme Schock Treatment
+Album: Greatest & Latest
+Track: 08
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 09 Shakin All Over.mp3
+Time: 141
+Artist: Dee Dee Ramone
+Title: Shakin All Over
+Album: Greatest & Latest
+Track: 09
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 10 Come On Now.mp3
+Time: 168
+Artist: Dee Dee Ramone
+Title: Come On Now
+Album: Greatest & Latest
+Track: 10
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 11 Cathy's Clown.mp3
+Time: 180
+Artist: Dee Dee Ramone
+Title: Cathy's Clown
+Album: Greatest & Latest
+Track: 11
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754396
+song_end
+song_begin: 12 Pinhead.mp3
+Time: 175
+Artist: Dee Dee Ramone
+Title: Pinhead
+Album: Greatest & Latest
+Track: 12
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+song_begin: 13 Rockaway Beach.mp3
+Time: 131
+Artist: Dee Dee Ramone
+Title: Rockaway Beach
+Album: Greatest & Latest
+Track: 13
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+song_begin: 14 Fix Yourself Up.mp3
+Time: 162
+Artist: Dee Dee Ramone
+Title: Fix Yourself Up
+Album: Greatest & Latest
+Track: 14
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+song_begin: 15 Sidewalk Surfin.mp3
+Time: 171
+Artist: Dee Dee Ramone
+Title: Sidewalk Surfin
+Album: Greatest & Latest
+Track: 15
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+song_begin: 16 Beat On The Brat.mp3
+Time: 134
+Artist: Dee Dee Ramone
+Title: Beat On The Brat
+Album: Greatest & Latest
+Track: 16
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+song_begin: 17 Sidewalk Surfin (Instrumental).mp3
+Time: 132
+Artist: Dee Dee Ramone
+Title: Sidewalk Surfin (Instrumental)
+Album: Greatest & Latest
+Track: 17
+Date: 2000
+Genre: Punk Rock
+mtime: 1258754398
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Dee Dee Ramone - Greatest & Latest
+directory: Dee Dee Ramone - Live at the Spa Club
+mtime: 1258754400
+begin: XFER/RAMONES - 28 ALBUMS/Dee Dee Ramone - Live at the Spa Club
+song_begin: 01  Intro.mp3
+Time: 44
+Artist: Dee Dee Ramone
+Title: Track 1
+Album: Live At The Spa Club
+Track: 1
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 02  I don't wanna go down to the basement.mp3
+Time: 123
+Artist: Dee Dee Ramone
+Title: Track 2
+Album: Live At The Spa Club
+Track: 2
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 03  Loudmouth.mp3
+Time: 117
+Artist: Dee Dee Ramone
+Title: Track 3
+Album: Live At The Spa Club
+Track: 3
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 04  53rd & 3rd.mp3
+Time: 138
+Artist: Dee Dee Ramone
+Title: Track 4
+Album: Live At The Spa Club
+Track: 4
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 05  Beat on the brat.mp3
+Time: 136
+Artist: Dee Dee Ramone
+Title: Track 5
+Album: Live At The Spa Club
+Track: 5
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 06  Mr.Postman.mp3
+Time: 184
+Artist: Dee Dee Ramone
+Title: Track 6
+Album: Live At The Spa Club
+Track: 6
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 07  Born to lose.mp3
+Time: 147
+Artist: Dee Dee Ramone
+Title: Track 7
+Album: Live At The Spa Club
+Track: 7
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 08  Chinese rocks.mp3
+Time: 149
+Artist: Dee Dee Ramone
+Title: Track 8
+Album: Live At The Spa Club
+Track: 8
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 09  I wanna be sedated.mp3
+Time: 154
+Artist: Dee Dee Ramone
+Title: Track 9
+Album: Live At The Spa Club
+Track: 9
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 10  I don't care.mp3
+Time: 125
+Artist: Dee Dee Ramone
+Title: Track 10
+Album: Live At The Spa Club
+Track: 10
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 11  Horror hospital.mp3
+Time: 171
+Artist: Dee Dee Ramone
+Title: Track 11
+Album: Live At The Spa Club
+Track: 11
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 12  Blitzkrieg bop.mp3
+Time: 136
+Artist: Dee Dee Ramone
+Title: Track 12
+Album: Live At The Spa Club
+Track: 12
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 13  Pills.mp3
+Time: 141
+Artist: Dee Dee Ramone
+Title: Track 13
+Album: Live At The Spa Club
+Track: 13
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 14  Locomotion.mp3
+Time: 185
+Artist: Dee Dee Ramone
+Title: Track 14
+Album: Live At The Spa Club
+Track: 14
+Date: 2001
+Genre: Punk
+mtime: 1258754398
+song_end
+song_begin: 15  Outro.mp3
+Time: 78
+Artist: Dee Dee Ramone
+Title: Track 15
+Album: Live At The Spa Club
+Track: 15
+Date: 2001
+Genre: Punk
+mtime: 1258754400
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Dee Dee Ramone - Live at the Spa Club
+directory: Joey Ramone - Don't Worry About Me
+mtime: 1258754400
+begin: XFER/RAMONES - 28 ALBUMS/Joey Ramone - Don't Worry About Me
+song_begin: 01 What A Wonderful World.mp3
+Time: 143
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: What A Wonderful World
+Album: Don't Worry About Me
+Track: 1
+Date: 2002
+Genre: Punk Rock
+Composer: George David Weiss/Ramone,  Joey/Robert Thiele, Jr.
+mtime: 1258754400
+song_end
+song_begin: 02 Stop Thinking About It.mp3
+Time: 178
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Stop Thinking About It
+Album: Don't Worry About Me
+Track: 2
+Date: 2002
+Genre: Punk Rock
+Composer: Andy Shernoff/Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 03 Mr. Punchy.mp3
+Time: 156
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Mr. Punchy
+Album: Don't Worry About Me
+Track: 3
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 04 Maria Bartimoro.mp3
+Time: 238
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Maria Bartimoro
+Album: Don't Worry About Me
+Track: 4
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 05 Spirit In My House.mp3
+Time: 122
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Spirit In My House
+Album: Don't Worry About Me
+Track: 5
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 06 Venting (It's A Different World Today).mp3
+Time: 198
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Venting (It's A Different World Today)
+Album: Don't Worry About Me
+Track: 6
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 07 Like A Drug I Never Did Before.mp3
+Time: 124
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Like A Drug I Never Did Before
+Album: Don't Worry About Me
+Track: 7
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 08 Searching For Something.mp3
+Time: 252
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Searching For Something
+Album: Don't Worry About Me
+Track: 8
+Date: 2002
+Genre: Punk Rock
+Composer: Al Maddy/Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 09 I Got Knocked Down (But I'll Get Up).mp3
+Time: 222
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: I Got Knocked Down (But I'll Get Up)
+Album: Don't Worry About Me
+Track: 9
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+song_begin: 10 1969.mp3
+Time: 220
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: 1969
+Album: Don't Worry About Me
+Track: 10
+Date: 2002
+Genre: Punk Rock
+Composer: Dave Alexander/Iggy Pop/Ron Asheton/Scott Asheton
+mtime: 1258754400
+song_end
+song_begin: 11 Don't Worry About Me.mp3
+Time: 235
+Artist: Joey Ramone
+AlbumArtist: Joey Ramone
+Title: Don't Worry About Me
+Album: Don't Worry About Me
+Track: 11
+Date: 2002
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754400
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Joey Ramone - Don't Worry About Me
+directory: Ramones - Acid Eaters
+mtime: 1258754402
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Acid Eaters
+song_begin: 01 Journey To The Center Of The Mind.mp3
+Time: 173
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Journey To The Center Of The Mind
+Album: Acid Eaters
+Track: 1
+Date: 1993
+Genre: Punk Rock
+Composer: Steve Farmer/Ted Nugent
+mtime: 1258754400
+song_end
+song_begin: 02 Substitute.mp3
+Time: 196
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Substitute
+Album: Acid Eaters
+Track: 2
+Date: 1993
+Genre: Punk Rock
+Composer: Pete Townshend
+mtime: 1258754400
+song_end
+song_begin: 03 Out Of Time.mp3
+Time: 161
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Out Of Time
+Album: Acid Eaters
+Track: 3
+Date: 1993
+Genre: Punk Rock
+Composer: Keith Richards/Mick Jagger
+mtime: 1258754400
+song_end
+song_begin: 04 The Shape Of Things To Come.mp3
+Time: 107
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: The Shape Of Things To Come
+Album: Acid Eaters
+Track: 4
+Date: 1993
+Genre: Punk Rock
+Composer: Barry Mann/Cynthia Weil
+mtime: 1258754400
+song_end
+song_begin: 05 Somebody To Love.mp3
+Time: 152
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Somebody To Love
+Album: Acid Eaters
+Track: 5
+Date: 1993
+Genre: Punk Rock
+Composer: Darby Slick
+mtime: 1258754400
+song_end
+song_begin: 06 When I Was Young.mp3
+Time: 196
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: When I Was Young
+Album: Acid Eaters
+Track: 6
+Date: 1993
+Genre: Punk Rock
+Composer: Barry Jenkins/Daniel McCulloch/Eric Burdon/John Weider/Vic Briggs
+mtime: 1258754400
+song_end
+song_begin: 07 7 And 7 Is.mp3
+Time: 111
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: 7 And 7 Is
+Album: Acid Eaters
+Track: 7
+Date: 1993
+Genre: Punk Rock
+Composer: Arthur Lee
+mtime: 1258754402
+song_end
+song_begin: 08 My Back Pages.mp3
+Time: 148
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: My Back Pages
+Album: Acid Eaters
+Track: 8
+Date: 1993
+Genre: Punk Rock
+Composer: Bob Dylan
+mtime: 1258754402
+song_end
+song_begin: 09 Can't Seem To Make You Mine.mp3
+Time: 163
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Can't Seem To Make You Mine
+Album: Acid Eaters
+Track: 9
+Date: 1993
+Genre: Punk Rock
+Composer: Sky Saxon
+mtime: 1258754402
+song_end
+song_begin: 10 Have You Ever Seen The Rain.mp3
+Time: 142
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Have You Ever Seen The Rain
+Album: Acid Eaters
+Track: 10
+Date: 1993
+Genre: Punk Rock
+Composer: John Fogerty
+mtime: 1258754402
+song_end
+song_begin: 11 I Can't Control Myself.mp3
+Time: 176
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Can't Control Myself
+Album: Acid Eaters
+Track: 11
+Date: 1993
+Genre: Punk Rock
+Composer: Reg Presley
+mtime: 1258754402
+song_end
+song_begin: 12 Surf City.mp3
+Time: 147
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Surf City
+Album: Acid Eaters
+Track: 12
+Date: 1993
+Genre: Punk Rock
+Composer: Brian Wilson/Jan Berry
+mtime: 1258754402
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Acid Eaters
+directory: Ramones - Adios Amigos!
+mtime: 1258754402
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Adios Amigos!
+song_begin: 01 I Don't Want To Grow Up.mp3
+Time: 166
+Artist: Ramones
+Title: I Don't Want To Grow Up
+Album: ¡Adiós Amigos!
+Track: 01
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 02 Makin Monsters For My Friends.mp3
+Time: 156
+Artist: Ramones
+Title: Makin Monsters For My Friends
+Album: ¡Adiós Amigos!
+Track: 02
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 03 It's Not For Me To Know.mp3
+Time: 172
+Artist: Ramones
+Title: It's Not For Me To Know
+Album: ¡Adiós Amigos!
+Track: 03
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 04 The Crusher.mp3
+Time: 147
+Artist: Ramones
+Title: The Crusher
+Album: ¡Adiós Amigos!
+Track: 04
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 05 Life's A Gas.mp3
+Time: 214
+Artist: Ramones
+Title: Life's A Gas
+Album: ¡Adiós Amigos!
+Track: 05
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 06 Take The Pain Away.mp3
+Time: 163
+Artist: Ramones
+Title: Take The Pain Away
+Album: ¡Adiós Amigos!
+Track: 06
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 07 I Love You.mp3
+Time: 141
+Artist: Ramones
+Title: I Love You
+Album: ¡Adiós Amigos!
+Track: 07
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 08 Cretin Family.mp3
+Time: 130
+Artist: Ramones
+Title: Cretin Family
+Album: ¡Adiós Amigos!
+Track: 08
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 09 Have A Nice Day.mp3
+Time: 99
+Artist: Ramones
+Title: Have A Nice Day
+Album: ¡Adiós Amigos!
+Track: 09
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 10 Scattergun.mp3
+Time: 150
+Artist: Ramones
+Title: Scattergun
+Album: ¡Adiós Amigos!
+Track: 10
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 11 Got Alot To Say.mp3
+Time: 102
+Artist: Ramones
+Title: Got Alot To Say
+Album: ¡Adiós Amigos!
+Track: 11
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 12 She Talks To Rainbows.mp3
+Time: 195
+Artist: Ramones
+Title: She Talks To Rainbows
+Album: ¡Adiós Amigos!
+Track: 12
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 13 Born To Die In Berlin.mp3
+Time: 212
+Artist: Ramones
+Title: Born To Die In Berlin
+Album: ¡Adiós Amigos!
+Track: 13
+Date: 1995
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Adios Amigos!
+directory: Ramones - Animal Boy
+mtime: 1258754404
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Animal Boy
+song_begin: 01-Somebody Put Something In My Drink.mp3
+Time: 206
+Artist: Ramones
+Title: Somebody Put Something In My D
+Album: Animal Boy
+Track: 1
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754402
+song_end
+song_begin: 02-Animal Boy.mp3
+Time: 112
+Artist: Ramones
+Title: Animal Boy
+Album: Animal Boy
+Track: 2
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 03-Love Kills.mp3
+Time: 141
+Artist: Ramones
+Title: Love Kills
+Album: Animal Boy
+Track: 3
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 04-Apeman Hop.mp3
+Time: 124
+Artist: Ramones
+Title: Apeman Hop
+Album: Animal Boy
+Track: 4
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 05-She Belongs To Me.mp3
+Time: 289
+Artist: Ramones
+Title: She Belongs To Me
+Album: Animal Boy
+Track: 5
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 06-Crummy Stuff.mp3
+Time: 126
+Artist: Ramones
+Title: Crummy Stuff
+Album: Animal Boy
+Track: 6
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 07-My Brain Is Hanging Upside Down (Bonzo Goes To Bitburg).mp3
+Time: 293
+Artist: Ramones
+Title: My Brain Is Hanging Upside Dow
+Album: Animal Boy
+Track: 7
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 08-Mental Hell.mp3
+Time: 160
+Artist: Ramones
+Title: Mental Hell
+Album: Animal Boy
+Track: 8
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 09-Eat That Rat.mp3
+Time: 99
+Artist: Ramones
+Title: Eat That Rat
+Album: Animal Boy
+Track: 9
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 10-Freak Of Nature.mp3
+Time: 114
+Artist: Ramones
+Title: Freak Of Nature
+Album: Animal Boy
+Track: 10
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 11-Hair Of The Dog.mp3
+Time: 173
+Artist: Ramones
+Title: Hair Of The Dog
+Album: Animal Boy
+Track: 11
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+song_begin: 12-Something To Believe In.mp3
+Time: 307
+Artist: Ramones
+Title: Something To Believe In
+Album: Animal Boy
+Track: 12
+Date: 1978
+Genre: Punk Rock
+mtime: 1258754404
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Animal Boy
+directory: Ramones - Birthday Bash (Live - Whiskey A Go Go 1977)
+mtime: 1258754408
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Birthday Bash (Live - Whiskey A Go Go 1977)
+song_begin: 01-Track-01.mp3
+Time: 286
+Artist: Ramones
+Title: Track-01
+Album: Whiskey A Go Go LA
+Track: 1
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754404
+song_end
+song_begin: 02-Track-02.mp3
+Time: 268
+Artist: Ramones
+Title: Track-02
+Album: Whiskey A Go Go LA
+Track: 2
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 03-Track-03.mp3
+Time: 211
+Artist: Ramones
+Title: Track-03
+Album: Whiskey A Go Go LA
+Track: 3
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 04-Track-04.mp3
+Time: 152
+Artist: Ramones
+Title: Track-04
+Album: Whiskey A Go Go LA
+Track: 4
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 05-Track-05.mp3
+Time: 97
+Artist: Ramones
+Title: Track-05
+Album: Whiskey A Go Go LA
+Track: 5
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 06-Track-06.mp3
+Time: 272
+Artist: Ramones
+Title: Track-06
+Album: Whiskey A Go Go LA
+Track: 6
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 07-Track-07.mp3
+Time: 104
+Artist: Ramones
+Title: Track-07
+Album: Whiskey A Go Go LA
+Track: 7
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 08-Track-08.mp3
+Time: 196
+Artist: Ramones
+Title: Track-08
+Album: Whiskey A Go Go LA
+Track: 8
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 09-Track-09.mp3
+Time: 140
+Artist: Ramones
+Title: Track-09
+Album: Whiskey A Go Go LA
+Track: 9
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 10-Track-10.mp3
+Time: 205
+Artist: Ramones
+Title: Track-10
+Album: Whiskey A Go Go LA
+Track: 10
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 11-Track-11.mp3
+Time: 109
+Artist: Ramones
+Title: Track-11
+Album: Whiskey A Go Go LA
+Track: 11
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 12-Track-12.mp3
+Time: 242
+Artist: Ramones
+Title: Track-12
+Album: Whiskey A Go Go LA
+Track: 12
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 13-Track-13.mp3
+Time: 88
+Artist: Ramones
+Title: Track-13
+Album: Whiskey A Go Go LA
+Track: 13
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754406
+song_end
+song_begin: 14-Track-14.mp3
+Time: 121
+Artist: Ramones
+Title: Track-14
+Album: Whiskey A Go Go LA
+Track: 14
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754408
+song_end
+song_begin: 15-Track-15.mp3
+Time: 227
+Artist: Ramones
+Title: Track-15
+Album: Whiskey A Go Go LA
+Track: 15
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754408
+song_end
+song_begin: 16-Track-16.mp3
+Time: 74
+Artist: Ramones
+Title: Track-16
+Album: Whiskey A Go Go LA
+Track: 16
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754408
+song_end
+song_begin: 17-Track-17.mp3
+Time: 234
+Artist: Ramones
+Title: Track-17
+Album: Whiskey A Go Go LA
+Track: 17
+Date: 1977
+Genre: Punk
+Genre: Punk
+mtime: 1258754408
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Birthday Bash (Live - Whiskey A Go Go 1977)
+directory: Ramones - Brain Drain
+mtime: 1258754408
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Brain Drain
+song_begin: 01 I Believe In Miracles.mp3
+Time: 200
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Believe In Miracles
+Album: Brain Drain
+Track: 1
+Date: 1989
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754408
+song_end
+song_begin: 02 Zero Zero UFO.mp3
+Time: 145
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Zero Zero UFO
+Album: Brain Drain
+Track: 2
+Date: 1989
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754408
+song_end
+song_begin: 03 Don't Bust My Chops.mp3
+Time: 149
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Don't Bust My Chops
+Album: Brain Drain
+Track: 3
+Date: 1989
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754408
+song_end
+song_begin: 04 Punishment Fits The Crime.mp3
+Time: 185
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Punishment Fits The Crime
+Album: Brain Drain
+Track: 4
+Date: 1989
+Genre: Punk Rock
+Composer: Dee Dee Ramone/Richie Stotts
+mtime: 1258754408
+song_end
+song_begin: 05 All Screwed Up.mp3
+Time: 240
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: All Screwed Up
+Album: Brain Drain
+Track: 5
+Date: 1989
+Genre: Punk Rock
+Composer: Andy Shernoff/Daniel Rey/Joey Ramone/Marky Ramone
+mtime: 1258754408
+song_end
+song_begin: 06 Palisades Park.mp3
+Time: 140
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Palisades Park
+Album: Brain Drain
+Track: 6
+Date: 1989
+Genre: Punk Rock
+Composer: Chuck Barris
+mtime: 1258754408
+song_end
+song_begin: 07 Pet Sematary.mp3
+Time: 210
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Pet Sematary
+Album: Brain Drain
+Track: 7
+Date: 1989
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754408
+song_end
+song_begin: 08 Learn To Listen.mp3
+Time: 111
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Learn To Listen
+Album: Brain Drain
+Track: 8
+Date: 1989
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone/Johnny Ramone/Marky Ramone
+mtime: 1258754408
+song_end
+song_begin: 09 Can't Get You Outta My Mind.mp3
+Time: 202
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Can't Get You Outta My Mind
+Album: Brain Drain
+Track: 9
+Date: 1989
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754408
+song_end
+song_begin: 10 Ignorance Is Bliss.mp3
+Time: 159
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Ignorance Is Bliss
+Album: Brain Drain
+Track: 10
+Date: 1989
+Genre: Punk Rock
+Composer: Andy Shernoff/Joey Ramone
+mtime: 1258754408
+song_end
+song_begin: 11 Come Back, Baby.mp3
+Time: 241
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Come Back, Baby
+Album: Brain Drain
+Track: 11
+Date: 1989
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754408
+song_end
+song_begin: 11 Merry Christmas (I Don't Want To Fight Tonight).mp3
+Time: 125
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Merry Christmas (I Don't Want To Fight Tonight)
+Album: Brain Drain
+Track: 11
+Date: 1989
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754408
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Brain Drain
+directory: Ramones - End Of The Century
+mtime: 1258754410
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - End Of The Century
+song_begin: 01 Do You Remember Rock 'N' Roll Radio_.mp3
+Time: 232
+Artist: Ramones
+Title: Do You Remember Rock 'N' Roll Radio?
+Album: End Of The Century
+Track: 01
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 02 I'm Affected.mp3
+Time: 173
+Artist: Ramones
+Title: I'm Affected
+Album: End Of The Century
+Track: 02
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 03 Danny Says.mp3
+Time: 189
+Artist: Ramones
+Title: Danny Says
+Album: End Of The Century
+Track: 03
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 04 Chinese Rock.mp3
+Time: 151
+Artist: Ramones
+Title: Chinese Rocks
+Album: End Of The Century
+Track: 04
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 05 The Return Of Jackie And Judy.mp3
+Time: 194
+Artist: Ramones
+Title: The Return Of Jackie And Judy
+Album: End Of The Century
+Track: 05
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 06 Let's Go.mp3
+Time: 154
+Artist: Ramones
+Title: Let's Go
+Album: End Of The Century
+Track: 06
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 07 Baby, I Love You.mp3
+Time: 230
+Artist: Ramones
+Title: Baby, I Love You
+Album: End Of The Century
+Track: 07
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 08 I Can't Make It On Time.mp3
+Time: 153
+Artist: Ramones
+Title: I Can't Make It On Time
+Album: End Of The Century
+Track: 08
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 09 This Ain't Havana.mp3
+Time: 138
+Artist: Ramones
+Title: This Ain't Havana
+Album: End Of The Century
+Track: 09
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 10 Rock 'n' Roll High School.mp3
+Time: 161
+Artist: Ramones
+Title: Rock 'n' Roll High School
+Album: End Of The Century
+Track: 10
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 11 All The Way.mp3
+Time: 150
+Artist: Ramones
+Title: All The Way
+Album: End Of The Century
+Track: 11
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 12 High Risk Insurance.mp3
+Time: 128
+Artist: Ramones
+Title: High Risk Insurance
+Album: End Of The Century
+Track: 12
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - End Of The Century
+directory: Ramones - Halfway To Sanity
+mtime: 1258754412
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Halfway To Sanity
+song_begin: 01 I Wanna Live.mp3
+Time: 157
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Live
+Album: Halfway To Sanity
+Track: 1
+Date: 1987
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754410
+song_end
+song_begin: 02 Bop 'Til You Drop.mp3
+Time: 132
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Bop 'Til You Drop
+Album: Halfway To Sanity
+Track: 2
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 03 Garden Of Serenity.mp3
+Time: 147
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Garden Of Serenity
+Album: Halfway To Sanity
+Track: 3
+Date: 1987
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754410
+song_end
+song_begin: 04 Weasel Face.mp3
+Time: 111
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Weasel Face
+Album: Halfway To Sanity
+Track: 4
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754410
+song_end
+song_begin: 05 Go Lil' Camaro Go.mp3
+Time: 123
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Go Lil' Camaro Go
+Album: Halfway To Sanity
+Track: 5
+Date: 1987
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754410
+song_end
+song_begin: 06 I Know Better Now.mp3
+Time: 159
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Know Better Now
+Album: Halfway To Sanity
+Track: 6
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 07 Death Of Me.mp3
+Time: 160
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Death Of Me
+Album: Halfway To Sanity
+Track: 7
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 08 I Lost My Mind.mp3
+Time: 94
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Lost My Mind
+Album: Halfway To Sanity
+Track: 8
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 09 A Real Cool Time.mp3
+Time: 159
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: A Real Cool Time
+Album: Halfway To Sanity
+Track: 9
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 10 I'm Not Jesus.mp3
+Time: 176
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I'm Not Jesus
+Album: Halfway To Sanity
+Track: 10
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 11 Bye Bye Baby.mp3
+Time: 275
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Bye Bye Baby
+Album: Halfway To Sanity
+Track: 11
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+song_begin: 12 Worm Man.mp3
+Time: 114
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Worm Man
+Album: Halfway To Sanity
+Track: 12
+Date: 1987
+Genre: Punk Rock
+mtime: 1258754412
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Halfway To Sanity
+directory: Ramones - It's alive
+mtime: 1258754414
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - It's alive
+song_begin: 01 Rockaway Beach.mp3
+Time: 144
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Rockaway Beach
+Album: It's alive
+Track: 1
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 02 Teenage Lobotomy.mp3
+Time: 115
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Teenage Lobotomy
+Album: It's alive
+Track: 2
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 03 Blitzkrieg Bop.mp3
+Time: 125
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Blitzkrieg Bop
+Album: It's alive
+Track: 3
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 04 I Wanna Be Well.mp3
+Time: 143
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Be Well
+Album: It's alive
+Track: 4
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 05 Glad To See You Go.mp3
+Time: 111
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Glad To See You Go
+Album: It's alive
+Track: 5
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 06 Gimme Gimme Shock Treatment.mp3
+Time: 98
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Gimme Gimme Shock Treatment
+Album: It's alive
+Track: 6
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 07 You're Gonna Kill That Girl.mp3
+Time: 157
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: You're Gonna Kill That Girl
+Album: It's alive
+Track: 7
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 08 I Don't Care.mp3
+Time: 106
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Don't Care
+Album: It's alive
+Track: 8
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 09 Sheena Is A Punk Rocker.mp3
+Time: 136
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Sheena Is A Punk Rocker
+Album: It's alive
+Track: 9
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 10 Havana Affair.mp3
+Time: 95
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Havana Affair
+Album: It's alive
+Track: 10
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 11 Commando.mp3
+Time: 100
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Commando
+Album: It's alive
+Track: 11
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 12 Here Today, Gone Tomorrow.mp3
+Time: 175
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Here Today, Gone Tomorrow
+Album: It's alive
+Track: 12
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 13 Surfin' Bird.mp3
+Time: 140
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Surfin' Bird
+Album: It's alive
+Track: 13
+Date: 1978
+Genre: Punk Rock
+Composer: Al Frazier/Carl White/Sonny Harris/Turner Wilson
+mtime: 1258754412
+song_end
+song_begin: 14 Cretin Hop.mp3
+Time: 118
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Cretin Hop
+Album: It's alive
+Track: 14
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 15 Listen To My Heart.mp3
+Time: 100
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Listen To My Heart
+Album: It's alive
+Track: 15
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 16 California Sun.mp3
+Time: 105
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: California Sun
+Album: It's alive
+Track: 16
+Date: 1978
+Genre: Punk Rock
+Composer: Henry Glover/Morris Levy
+mtime: 1258754412
+song_end
+song_begin: 17 I Don't Wanna Walk Around With You.mp3
+Time: 85
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Don't Wanna Walk Around With You
+Album: It's alive
+Track: 17
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 18 Pinhead.mp3
+Time: 166
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Pinhead
+Album: It's alive
+Track: 18
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754412
+song_end
+song_begin: 19 Do You Wanna Dance_.mp3
+Time: 99
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Do You Wanna Dance?
+Album: It's alive
+Track: 19
+Date: 1978
+Genre: Punk Rock
+Composer: Bobby Freeman
+mtime: 1258754414
+song_end
+song_begin: 20 Chainsaw.mp3
+Time: 89
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Chainsaw
+Album: It's alive
+Track: 20
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 21 Today Your Love, Tomorrow The World.mp3
+Time: 126
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Today Your Love, Tomorrow The World
+Album: It's alive
+Track: 21
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 22 I Wanna Be A Good Boy.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Be A Good Boy
+Album: It's alive
+Track: 22
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 23 Judy Is A Punk.mp3
+Time: 74
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Judy Is A Punk
+Album: It's alive
+Track: 23
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 24 Suzy Is A Headbanger.mp3
+Time: 113
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Suzy Is A Headbanger
+Album: It's alive
+Track: 24
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 25 Let's Dance.mp3
+Time: 123
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Let's Dance
+Album: It's alive
+Track: 25
+Date: 1978
+Genre: Punk Rock
+Composer: Jim Lee
+mtime: 1258754414
+song_end
+song_begin: 26 Oh Oh I Love Her So.mp3
+Time: 100
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Oh Oh I Love Her So
+Album: It's alive
+Track: 26
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 27 Now I Wanna Sniff Some Glue.mp3
+Time: 78
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Now I Wanna Sniff Some Glue
+Album: It's alive
+Track: 27
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 28 We're A Happy Family.mp3
+Time: 126
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: We're A Happy Family
+Album: It's alive
+Track: 28
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - It's alive
+directory: Ramones - Leave home
+mtime: 1258754414
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Leave home
+song_begin: 01 Glad To See You Go.mp3
+Time: 133
+Artist: Ramones
+Title: Glad To See You Go
+Album: Leave Home
+Track: 01
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 02 Gimme Gimme Shock Treatment.mp3
+Time: 103
+Artist: Ramones
+Title: Gimme Gimme Shock Treatment
+Album: Leave Home
+Track: 02
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 03 I Remember You.mp3
+Time: 140
+Artist: Ramones
+Title: I Remember You
+Album: Leave Home
+Track: 03
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 04 Oh Oh I Love Her So.mp3
+Time: 126
+Artist: Ramones
+Title: Oh Oh I Love Her So
+Album: Leave Home
+Track: 04
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 05 Sheena Is A Punk Rocker.mp3
+Time: 169
+Artist: Ramones
+Title: Sheena Is A Punk Rocker
+Album: Leave Home
+Track: 05
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 06 Suzy Is A Headbanger.mp3
+Time: 133
+Artist: Ramones
+Title: Suzy Is A Headbanger
+Album: Leave Home
+Track: 06
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 07 Pinhead.mp3
+Time: 166
+Artist: Ramones
+Title: Pinhead
+Album: Leave Home
+Track: 07
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 08 Now I Wanna Be A Good Boy.mp3
+Time: 135
+Artist: Ramones
+Title: Now I Wanna Be A Good Boy
+Album: Leave Home
+Track: 08
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 09 Swallow My Pride.mp3
+Time: 129
+Artist: Ramones
+Title: Swallow My Pride
+Album: Leave Home
+Track: 09
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 10 What's Your Game.mp3
+Time: 158
+Artist: Ramones
+Title: What's Your Game
+Album: Leave Home
+Track: 10
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 11 California Sun (BMI).mp3
+Time: 127
+Artist: Ramones
+Title: California Sun (BMI)
+Album: Leave Home
+Track: 11
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 12 Commando.mp3
+Time: 115
+Artist: Ramones
+Title: Commando
+Album: Leave Home
+Track: 12
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 13 You're Gonna Kill That Girl.mp3
+Time: 163
+Artist: Ramones
+Title: You're Gonna Kill That Girl
+Album: Leave Home
+Track: 13
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+song_begin: 14 You Should Have Never Opened That Door.mp3
+Time: 116
+Artist: Ramones
+Title: You Should Have Never Opened That Door
+Album: Leave Home
+Track: 14
+Date: 1977
+Genre: Punk Rock
+mtime: 1258754414
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Leave home
+directory: Ramones - Loco Live
+mtime: 1258754418
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Loco Live
+song_begin: 01 The Good, The Bad, The Ugly.mp3
+Time: 119
+Artist: Ramones
+AlbumArtist: Ramones
+Title: The Good, The Bad, The Ugly
+Album: Loco Live
+Track: 1
+Date: 1991
+Genre: Punk Rock
+Composer: Ennio Morricone/The Ramones
+mtime: 1258754414
+song_end
+song_begin: 02 Durango 95.mp3
+Time: 47
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Durango 95
+Album: Loco Live
+Track: 2
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754414
+song_end
+song_begin: 03 Teenage Lobotomy.mp3
+Time: 92
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Teenage Lobotomy
+Album: Loco Live
+Track: 3
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 04 Psycho Therapy.mp3
+Time: 133
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Psycho Therapy
+Album: Loco Live
+Track: 4
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 05 Blitzkrieg Bop.mp3
+Time: 105
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Blitzkrieg Bop
+Album: Loco Live
+Track: 5
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 06 Rock And Roll Radio.mp3
+Time: 180
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Rock And Roll Radio
+Album: Loco Live
+Track: 6
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 07 I Believe In Miracles.mp3
+Time: 171
+Artist: Ramones
+AlbumArtist: Ramones
+Title: I Believe In Miracles
+Album: Loco Live
+Track: 7
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 08 Gimme Gimme Shock Treatment.mp3
+Time: 79
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Gimme Gimme Shock Treatment
+Album: Loco Live
+Track: 8
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 09 Rock And Roll High School.mp3
+Time: 110
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Rock And Roll High School
+Album: Loco Live
+Track: 9
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 10 I Wanna Be Sedated.mp3
+Time: 129
+Artist: Ramones
+AlbumArtist: Ramones
+Title: I Wanna Be Sedated
+Album: Loco Live
+Track: 10
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 11 The K.K.K. Took My Baby Away.mp3
+Time: 161
+Artist: Ramones
+AlbumArtist: Ramones
+Title: The KKK Took My Baby Away
+Album: Loco Live
+Track: 11
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 12 I Wanna Live.mp3
+Time: 139
+Artist: Ramones
+AlbumArtist: Ramones
+Title: I Wanna Live
+Album: Loco Live
+Track: 12
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 13 Bonzo Goes To Bitberg.mp3
+Time: 173
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Bonzo Goes To Bitberg
+Album: Loco Live
+Track: 13
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 14 Too Tough To Die.mp3
+Time: 135
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Too Tough To Die
+Album: Loco Live
+Track: 14
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 15 Sheena Is A Punk Rocker.mp3
+Time: 107
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Sheena Is A Punk Rocker
+Album: Loco Live
+Track: 15
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 16 Rockaway Beach.mp3
+Time: 123
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Rockaway Beach
+Album: Loco Live
+Track: 16
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 17 Pet Semetary.mp3
+Time: 176
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Pet Semetary
+Album: Loco Live
+Track: 17
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 18 Don't Bust My Chops.mp3
+Time: 137
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Don't Bust My Chops
+Album: Loco Live
+Track: 18
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 19 Palisades Park.mp3
+Time: 132
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Palisades Park
+Album: Loco Live
+Track: 19
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 20 Mama's Boy.mp3
+Time: 129
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Mama's Boy
+Album: Loco Live
+Track: 20
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 21 Animal Boy.mp3
+Time: 115
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Animal Boy
+Album: Loco Live
+Track: 21
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 22 Wart Hog.mp3
+Time: 95
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Wart Hog
+Album: Loco Live
+Track: 22
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 23 Surfin' Bird.mp3
+Time: 149
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Surfin' Bird
+Album: Loco Live
+Track: 23
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 24 Cretin Hop.mp3
+Time: 84
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Cretin Hop
+Album: Loco Live
+Track: 24
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 25 I Don't Wanna Walk Around With You.mp3
+Time: 71
+Artist: Ramones
+AlbumArtist: Ramones
+Title: I Don't Wanna Walk Around With You
+Album: Loco Live
+Track: 25
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 26 Today Your Love, Tomorrow The World.mp3
+Time: 103
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Today Your Love, Tomorrow The World
+Album: Loco Live
+Track: 26
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754416
+song_end
+song_begin: 27 Pinhead.mp3
+Time: 160
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Pinhead
+Album: Loco Live
+Track: 27
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 28 Somebody Put Something In My Drink.mp3
+Time: 158
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Somebody Put Something In My Drink
+Album: Loco Live
+Track: 28
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 29 Beat On The Brat.mp3
+Time: 135
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Beat On The Brat
+Album: Loco Live
+Track: 29
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 30 Judy Is A Punk.mp3
+Time: 115
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Judy Is A Punk
+Album: Loco Live
+Track: 30
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 31 Chinese Rocks.mp3
+Time: 123
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Chinese Rocks
+Album: Loco Live
+Track: 31
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 32 Love Kills.mp3
+Time: 117
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Love Kills
+Album: Loco Live
+Track: 32
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+song_begin: 33 Ignorance Is Bliss.mp3
+Time: 191
+Artist: Ramones
+AlbumArtist: Ramones
+Title: Ignorance Is Bliss
+Album: Loco Live
+Track: 33
+Date: 1991
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754418
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Loco Live
+directory: Ramones - Mondo Bizarro
+mtime: 1258754420
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Mondo Bizarro
+song_begin: 01 Censorshit.mp3
+Time: 193
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Censorshit
+Album: Mondo Bizarro
+Track: 1
+Date: 1992
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 02 The Job That Ate My Brain.mp3
+Time: 138
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: The Job That Ate My Brain
+Album: Mondo Bizarro
+Track: 2
+Date: 1992
+Genre: Punk Rock
+Composer: Garrett James Uhlenbrock/Marky Ramone
+mtime: 1258754418
+song_end
+song_begin: 03 Poison Heart.mp3
+Time: 244
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Poison Heart
+Album: Mondo Bizarro
+Track: 3
+Date: 1992
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754418
+song_end
+song_begin: 04 Anxiety.mp3
+Time: 124
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Anxiety
+Album: Mondo Bizarro
+Track: 4
+Date: 1992
+Genre: Punk Rock
+Composer: Garrett James Uhlenbrock/Marky Ramone
+mtime: 1258754418
+song_end
+song_begin: 05 Strength To Endure.mp3
+Time: 179
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Strength To Endure
+Album: Mondo Bizarro
+Track: 5
+Date: 1992
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754418
+song_end
+song_begin: 06 It's Gonna Be Alright.mp3
+Time: 200
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: It's Gonna Be Alright
+Album: Mondo Bizarro
+Track: 6
+Date: 1992
+Genre: Punk Rock
+Composer: Andy Shernoff/Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 07 Take It As It Comes.mp3
+Time: 128
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Take It As It Comes
+Album: Mondo Bizarro
+Track: 7
+Date: 1992
+Genre: Punk Rock
+Composer: Jim Morrison/John Densmore/Ray Manzarek/Robbie Krieger
+mtime: 1258754418
+song_end
+song_begin: 08 Main Man.mp3
+Time: 208
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Main Man
+Album: Mondo Bizarro
+Track: 8
+Date: 1992
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754418
+song_end
+song_begin: 09 Tomorrow She Goes Away.mp3
+Time: 162
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Tomorrow She Goes Away
+Album: Mondo Bizarro
+Track: 9
+Date: 1992
+Genre: Punk Rock
+Composer: Daniel Rey/Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 10 I Won't Let It Happen.mp3
+Time: 141
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Won't Let It Happen
+Album: Mondo Bizarro
+Track: 10
+Date: 1992
+Genre: Punk Rock
+Composer: Andy Shernoff/Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 11 Cabbies On Crack.mp3
+Time: 180
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Cabbies On Crack
+Album: Mondo Bizarro
+Track: 11
+Date: 1992
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 12 Heidi Is A Headcase.mp3
+Time: 167
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Heidi Is A Headcase
+Album: Mondo Bizarro
+Track: 12
+Date: 1992
+Genre: Punk Rock
+Composer: Daniel Rey/Joey Ramone
+mtime: 1258754418
+song_end
+song_begin: 13 Touring.mp3
+Time: 172
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Touring
+Album: Mondo Bizarro
+Track: 13
+Date: 1992
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754420
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Mondo Bizarro
+directory: Ramones - Pleasant Dreams
+mtime: 1258754420
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Pleasant Dreams
+song_begin: 01 We Want The Airwawes.mp3
+Time: 202
+Artist: Ramones
+Title: We Want The Airwawes
+Album: End Of The Century
+Track: 01
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 02 All's Quiet On The Eastern Front.mp3
+Time: 135
+Artist: Ramones
+Title: All's Quiet On The Eastern Front
+Album: End Of The Century
+Track: 02
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 03 The K.K.K. Took My Baby Away.mp3
+Time: 152
+Artist: Ramones
+Title: The KKK Took My Baby Away
+Album: End Of The Century
+Track: 03
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 04 Don't Go.mp3
+Time: 169
+Artist: Ramones
+Title: Don't Go
+Album: End Of The Century
+Track: 04
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 05 You Sound Like You're Sick.mp3
+Time: 163
+Artist: Ramones
+Title: You Sound Like You're Sick
+Album: End Of The Century
+Track: 05
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 06 It's Not My Place (In The 9 To 5 World).mp3
+Time: 204
+Artist: Ramones
+Title: It's Not My Place (In The 9 To 5 World)
+Album: End Of The Century
+Track: 06
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 07 She's A Sensation.mp3
+Time: 210
+Artist: Ramones
+Title: She's A Sensation
+Album: End Of The Century
+Track: 07
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 08 7-11.mp3
+Time: 219
+Artist: Ramones
+Title: 7-11
+Album: End Of The Century
+Track: 08
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 09 You Didn't Mean Anything To Me.mp3
+Time: 180
+Artist: Ramones
+Title: You Didn't Mean Anything To Me
+Album: End Of The Century
+Track: 09
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 10 Come On Now.mp3
+Time: 154
+Artist: Ramones
+Title: Come On Now
+Album: End Of The Century
+Track: 10
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 11 This Business Is Killing Me.mp3
+Time: 162
+Artist: Ramones
+Title: This Business Is Killing Me
+Album: End Of The Century
+Track: 11
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+song_begin: 12 Sitting In My Room.mp3
+Time: 151
+Artist: Ramones
+Title: Sitting In My Room
+Album: End Of The Century
+Track: 12
+Date: 1980
+Genre: Punk Rock
+mtime: 1258754420
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Pleasant Dreams
+directory: Ramones - Raising Hell
+mtime: 1258754424
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Raising Hell
+song_begin: 01-Track-01.mp3
+Time: 117
+Artist: Ramones
+Title: Track-01
+Album: Raisin Hell
+Track: 1
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754420
+song_end
+song_begin: 02-Track-02.mp3
+Time: 121
+Artist: Ramones
+Title: Track-02
+Album: Raisin Hell
+Track: 2
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754420
+song_end
+song_begin: 03-Track-03.mp3
+Time: 109
+Artist: Ramones
+Title: Track-03
+Album: Raisin Hell
+Track: 3
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754420
+song_end
+song_begin: 04-Track-04.mp3
+Time: 141
+Artist: Ramones
+Title: Track-04
+Album: Raisin Hell
+Track: 4
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754420
+song_end
+song_begin: 05-Track-05.mp3
+Time: 188
+Artist: Ramones
+Title: Track-05
+Album: Raisin Hell
+Track: 5
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 06-Track-06.mp3
+Time: 76
+Artist: Ramones
+Title: Track-06
+Album: Raisin Hell
+Track: 6
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 07-Track-07.mp3
+Time: 102
+Artist: Ramones
+Title: Track-07
+Album: Raisin Hell
+Track: 7
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 08-Track-08.mp3
+Time: 81
+Artist: Ramones
+Title: Track-08
+Album: Raisin Hell
+Track: 8
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 09-Track-09.mp3
+Time: 78
+Artist: Ramones
+Title: Track-09
+Album: Raisin Hell
+Track: 9
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 10-Track-10.mp3
+Time: 31
+Artist: Ramones
+Title: Track-10
+Album: Raisin Hell
+Track: 10
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 11-Track-11.mp3
+Time: 136
+Artist: Ramones
+Title: Track-11
+Album: Raisin Hell
+Track: 11
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 12-Track-12.mp3
+Time: 116
+Artist: Ramones
+Title: Track-12
+Album: Raisin Hell
+Track: 12
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 13-Track-13.mp3
+Time: 155
+Artist: Ramones
+Title: Track-13
+Album: Raisin Hell
+Track: 13
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 14-Track-14.mp3
+Time: 127
+Artist: Ramones
+Title: Track-14
+Album: Raisin Hell
+Track: 14
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 15-Track-15.mp3
+Time: 136
+Artist: Ramones
+Title: Track-15
+Album: Raisin Hell
+Track: 15
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 16-Track-16.mp3
+Time: 122
+Artist: Ramones
+Title: Track-16
+Album: Raisin Hell
+Track: 16
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 17-Track-17.mp3
+Time: 110
+Artist: Ramones
+Title: Track-17
+Album: Raisin Hell
+Track: 17
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 18-Track-18.mp3
+Time: 133
+Artist: Ramones
+Title: Track-18
+Album: Raisin Hell
+Track: 18
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 19-Track-19.mp3
+Time: 133
+Artist: Ramones
+Title: Track-19
+Album: Raisin Hell
+Track: 19
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 20-Track-20.mp3
+Time: 108
+Artist: Ramones
+Title: Track-20
+Album: Raisin Hell
+Track: 20
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 21-Track-21.mp3
+Time: 109
+Artist: Ramones
+Title: Track-21
+Album: Raisin Hell
+Track: 21
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 22-Track-22.mp3
+Time: 114
+Artist: Ramones
+Title: Track-22
+Album: Raisin Hell
+Track: 22
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754422
+song_end
+song_begin: 23-Track-23.mp3
+Time: 82
+Artist: Ramones
+Title: Track-23
+Album: Raisin Hell
+Track: 23
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 24-Track-24.mp3
+Time: 108
+Artist: Ramones
+Title: Track-24
+Album: Raisin Hell
+Track: 24
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 25-Track-25.mp3
+Time: 187
+Artist: Ramones
+Title: Track-25
+Album: Raisin Hell
+Track: 25
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 26-Track-26.mp3
+Time: 163
+Artist: Ramones
+Title: Track-26
+Album: Raisin Hell
+Track: 26
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 27-Track-27.mp3
+Time: 136
+Artist: Ramones
+Title: Track-27
+Album: Raisin Hell
+Track: 27
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 28-Track-28.mp3
+Time: 100
+Artist: Ramones
+Title: Track-28
+Album: Raisin Hell
+Track: 28
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 29-Track-29.mp3
+Time: 91
+Artist: Ramones
+Title: Track-29
+Album: Raisin Hell
+Track: 29
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+song_begin: 30-Track-30.mp3
+Time: 133
+Artist: Ramones
+Title: Track-30
+Album: Raisin Hell
+Track: 30
+Date: 1980
+Genre: Punk
+Genre: Punk
+mtime: 1258754424
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Raising Hell
+directory: Ramones - Ramones (Expanded)
+mtime: 1258754426
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Ramones (Expanded)
+song_begin: 01 Blitzkrieg Bop.mp3
+Time: 134
+Artist: Ramones
+Title: Blitzkrieg Bop
+Album: Ramones
+Track: 01
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 02 Beat On The Brat.mp3
+Time: 153
+Artist: Ramones
+Title: Beat On The Brat
+Album: Ramones
+Track: 02
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 03 Judy Is A Punk.mp3
+Time: 93
+Artist: Ramones
+Title: Judy Is A Punk
+Album: Ramones
+Track: 03
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 04 I Wanna Be Your Boyfriend.mp3
+Time: 145
+Artist: Ramones
+Title: I Wanna Be Your Boyfriend
+Album: Ramones
+Track: 04
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 05 Chain Saw.mp3
+Time: 117
+Artist: Ramones
+Title: Chain Saw
+Album: Ramones
+Track: 05
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 06 Now I Wanna Sniff Some Glue.mp3
+Time: 96
+Artist: Ramones
+Title: Now I Wanna Sniff Some Glue
+Album: Ramones
+Track: 06
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 07 I Don't Wanna Go Down To The Basement.mp3
+Time: 160
+Artist: Ramones
+Title: I Don't Wanna Go Down To The Basement
+Album: Ramones
+Track: 07
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 08 Loudmouth.mp3
+Time: 135
+Artist: Ramones
+Title: Loudmouth
+Album: Ramones
+Track: 08
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 09 Havana Affair.mp3
+Time: 117
+Artist: Ramones
+Title: Havana Affair
+Album: Ramones
+Track: 09
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 10 Listen To My Heart.mp3
+Time: 119
+Artist: Ramones
+Title: Listen To My Heart
+Album: Ramones
+Track: 10
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 11 53rd & 3rd.mp3
+Time: 141
+Artist: Ramones
+Title: 53rd & 3rd
+Album: Ramones
+Track: 11
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 12 Let's Dance.mp3
+Time: 112
+Artist: Ramones
+Title: Let's Dance
+Album: Ramones
+Track: 12
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 13 I Don't Wanna Walk Around With You.mp3
+Time: 103
+Artist: Ramones
+Title: I Don't Wanna Walk Around With You
+Album: Ramones
+Track: 13
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 14 Today Your Love, Tomorrow The World.mp3
+Time: 137
+Artist: Ramones
+Title: Today Your Love, Tomorrow The World
+Album: Ramones
+Track: 14
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754424
+song_end
+song_begin: 15 I Wanna Be Your Boyfriend (Demo).mp3
+Time: 182
+Artist: Ramones
+Title: I Wanna Be Your Boyfriend (Demo)
+Album: Ramones
+Track: 15
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 16 Judy Is A Punk (Demo).mp3
+Time: 97
+Artist: Ramones
+Title: Judy Is A Punk (Demo)
+Album: Ramones
+Track: 16
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 17 I Don't Care (Demo).mp3
+Time: 115
+Artist: Ramones
+Title: I Don't Care (Demo)
+Album: Ramones
+Track: 17
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 18 I Can't Be (Demo).mp3
+Time: 117
+Artist: Ramones
+Title: I Can't Be (Demo)
+Album: Ramones
+Track: 18
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 19 Now I Wanna Sniff Some Glue (Demo).mp3
+Time: 102
+Artist: Ramones
+Title: Now I Wanna Sniff Some Glue (Demo)
+Album: Ramones
+Track: 19
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 20 I Don't Wanna Be Tamed (Demo).mp3
+Time: 65
+Artist: Ramones
+Title: I Don't Wanna Be Tamed (Demo)
+Album: Ramones
+Track: 20
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 21 You Should Never Have Opened That Door (Demo).mp3
+Time: 114
+Artist: Ramones
+Title: You Should Never Have Opened That Door (Demo)
+Album: Ramones
+Track: 21
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+song_begin: 22 Blitzkrieg Bop (Single Version).mp3
+Time: 132
+Artist: Ramones
+Title: Blitzkrieg Bop (Single Version)
+Album: Ramones
+Track: 22
+Date: 1976
+Genre: Punk Rock
+mtime: 1258754426
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Ramones (Expanded)
+directory: Ramones - Road To Ruin
+mtime: 1258754428
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Road To Ruin
+song_begin: 01 I Just Want To Have Something To Do.mp3
+Time: 162
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Just Want To Have Something To Do
+Album: Road To Ruin
+Track: 1
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 02 I Wanted Everything.mp3
+Time: 199
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanted Everything
+Album: Road To Ruin
+Track: 2
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 03 Don't Come Close.mp3
+Time: 165
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Don't Come Close
+Album: Road To Ruin
+Track: 3
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 04 I Don't Want You.mp3
+Time: 147
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Don't Want You
+Album: Road To Ruin
+Track: 4
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 05 Needles & Pins (Bono_Nitzche).mp3
+Time: 142
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Needles & Pins (Bono/Nitzche)
+Album: Road To Ruin
+Track: 5
+Date: 1978
+Genre: Punk Rock
+Composer: Jack Nitzsche/Sonny Bono
+mtime: 1258754426
+song_end
+song_begin: 06 I'm Against It.mp3
+Time: 128
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I'm Against It
+Album: Road To Ruin
+Track: 6
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 07 I Wanna Be Sedated.mp3
+Time: 150
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Be Sedated
+Album: Road To Ruin
+Track: 7
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 08 Go Mental.mp3
+Time: 163
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Go Mental
+Album: Road To Ruin
+Track: 8
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 09 Questioningly.mp3
+Time: 202
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Questioningly
+Album: Road To Ruin
+Track: 9
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 10 She's The One.mp3
+Time: 133
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: She's The One
+Album: Road To Ruin
+Track: 10
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 11 Bad Brain.mp3
+Time: 145
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Bad Brain
+Album: Road To Ruin
+Track: 11
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+song_begin: 12 It's A Long Way Back.mp3
+Time: 141
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: It's A Long Way Back
+Album: Road To Ruin
+Track: 12
+Date: 1978
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754426
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Road To Ruin
+directory: Ramones - Rocket to Russia
+mtime: 1258754428
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Rocket to Russia
+song_begin: 01 Cretin Hop.mp3
+Time: 117
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Cretin Hop
+Album: Rocket To Russia
+Track: 1
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 02 Rockaway Beach.mp3
+Time: 127
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Rockaway Beach
+Album: Rocket To Russia
+Track: 2
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 03 Here Today , Gone Tomorrow.mp3
+Time: 170
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Here Today , Gone Tomorrow
+Album: Rocket To Russia
+Track: 3
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 04 Locket Love.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Locket Love
+Album: Rocket To Russia
+Track: 4
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 05 I Dont Care.mp3
+Time: 99
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Dont Care
+Album: Rocket To Russia
+Track: 5
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 06 Sheena Is a Punk Rocker.mp3
+Time: 170
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Sheena Is a Punk Rocker
+Album: Rocket To Russia
+Track: 6
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 07 We're a Happy Family.mp3
+Time: 151
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: We're a Happy Family
+Album: Rocket To Russia
+Track: 7
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 08 Teenage Lobotomy.mp3
+Time: 121
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Teenage Lobotomy
+Album: Rocket To Russia
+Track: 8
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 09 Do You Wanna Dance_.mp3
+Time: 116
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Do You Wanna Dance ?
+Album: Rocket To Russia
+Track: 9
+Date: 1977
+Genre: Punk Rock
+Composer: Bobby Freeman
+mtime: 1258754428
+song_end
+song_begin: 10 I Wanna Be Well.mp3
+Time: 148
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Be Well
+Album: Rocket To Russia
+Track: 10
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 11 I Can't give you Anything.mp3
+Time: 121
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Can't give you Anything
+Album: Rocket To Russia
+Track: 11
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 12 Ramona.mp3
+Time: 158
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Ramona
+Album: Rocket To Russia
+Track: 12
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+song_begin: 13 Surfin' Bird.mp3
+Time: 158
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Surfin' Bird
+Album: Rocket To Russia
+Track: 13
+Date: 1977
+Genre: Punk Rock
+Composer: Al Frazier/Carl White/Sonny Harris/Turner Wilson
+mtime: 1258754428
+song_end
+song_begin: 14 Why Is It Always This Way_.mp3
+Time: 135
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Why Is It Always This Way ?
+Album: Rocket To Russia
+Track: 14
+Date: 1977
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754428
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Rocket to Russia
+directory: Ramones - Subterranean Jungle
+mtime: 1258754430
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Subterranean Jungle
+song_begin: 01 Little Bit O' Soul.mp3
+Time: 163
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Little Bit O' Soul
+Album: Subterranean Jungle
+Track: 1
+Date: 1983
+Genre: Punk Rock
+Composer: John Shakespeare/Kenneth Hawker
+mtime: 1258754428
+song_end
+song_begin: 02 I Need Your Love.mp3
+Time: 187
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Need Your Love
+Album: Subterranean Jungle
+Track: 2
+Date: 1983
+Genre: Punk Rock
+Composer: Waxman, Bobby Dee
+mtime: 1258754428
+song_end
+song_begin: 03 Outsider.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Outsider
+Album: Subterranean Jungle
+Track: 3
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754428
+song_end
+song_begin: 04 What'd Ya Do_.mp3
+Time: 144
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: What'd Ya Do?
+Album: Subterranean Jungle
+Track: 4
+Date: 1983
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754428
+song_end
+song_begin: 05 Highest Trails Above.mp3
+Time: 130
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Highest Trails Above
+Album: Subterranean Jungle
+Track: 5
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754428
+song_end
+song_begin: 06 Somebody Like Me.mp3
+Time: 154
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Somebody Like Me
+Album: Subterranean Jungle
+Track: 6
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754428
+song_end
+song_begin: 07 Psycho Therapy.mp3
+Time: 154
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Psycho Therapy
+Album: Subterranean Jungle
+Track: 7
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone/Johnny Ramone
+mtime: 1258754428
+song_end
+song_begin: 08 Time Has Come Today.mp3
+Time: 265
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Time Has Come Today
+Album: Subterranean Jungle
+Track: 8
+Date: 1983
+Genre: Punk Rock
+Composer: Joseph Chambers/Willie Chambers
+mtime: 1258754428
+song_end
+song_begin: 09 My-my Kind Of A Girl.mp3
+Time: 212
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: My-my Kind Of A Girl
+Album: Subterranean Jungle
+Track: 9
+Date: 1983
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754430
+song_end
+song_begin: 10 In The Park.mp3
+Time: 157
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: In The Park
+Album: Subterranean Jungle
+Track: 10
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754430
+song_end
+song_begin: 11 Time Bomb.mp3
+Time: 129
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Time Bomb
+Album: Subterranean Jungle
+Track: 11
+Date: 1983
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754430
+song_end
+song_begin: 12 Everytime I Eat Vegetables It Makes Me Think Of You.mp3
+Time: 186
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Everytime I Eat Vegetables It Makes Me Think Of You
+Album: Subterranean Jungle
+Track: 12
+Date: 1983
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754430
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Subterranean Jungle
+directory: Ramones - Summer of 89
+mtime: 1258754434
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Summer of 89
+song_begin: 01-Durango 95, Blitzkrieg Bop.mp3
+Time: 123
+Artist: Ramones
+Title: Durango 95, Blitzkrieg Bop
+Album: European Tour, Summer Of '89
+Track: 1
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 02-Teenage Lobotomy.mp3
+Time: 97
+Artist: Ramones
+Title: Teenage Lobotomy
+Album: European Tour, Summer Of '89
+Track: 2
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 03-Psychotherapy.mp3
+Time: 117
+Artist: Ramones
+Title: Psychotherapy
+Album: European Tour, Summer Of '89
+Track: 3
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 04-Do You Remember Rock 'n Roll Radio.mp3
+Time: 191
+Artist: Ramones
+Title: Do You Remember Rock 'n Roll Radio
+Album: European Tour, Summer Of '89
+Track: 4
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 05-I Believe In Miracles.mp3
+Time: 174
+Artist: Ramones
+Title: I Believe In Miracles
+Album: European Tour, Summer Of '89
+Track: 5
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 06-Gimme Gimme Shock Treatment, Rock 'n Roll High School, I Wanna Be Sedated.mp3
+Time: 323
+Artist: Ramones
+Title: Gimme Gimme Shock Treatment, Rock 'n Roll High School, I Wanna Be Sedated
+Album: European Tour, Summer Of '89
+Track: 6
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 07-Beat On the Brat.mp3
+Time: 135
+Artist: Ramones
+Title: Beat On the Brat
+Album: European Tour, Summer Of '89
+Track: 7
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 08-Chinese Rock.mp3
+Time: 127
+Artist: Ramones
+Title: Chinese Rock
+Album: European Tour, Summer Of '89
+Track: 8
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 09-Bonzo Goes To Bitburg.mp3
+Time: 178
+Artist: Ramones
+Title: Bonzo Goes To Bitburg
+Album: European Tour, Summer Of '89
+Track: 9
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754430
+song_end
+song_begin: 10-Go Mental.mp3
+Time: 102
+Artist: Ramones
+Title: Go Mental
+Album: European Tour, Summer Of '89
+Track: 10
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 11-Sheena Is A Punk Rocker, Rockaway Beach.mp3
+Time: 215
+Artist: Ramones
+Title: Sheena Is A Punk Rocker, Rockaway Beach
+Album: European Tour, Summer Of '89
+Track: 11
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 12-Pet Sematary.mp3
+Time: 180
+Artist: Ramones
+Title: Pet Sematary
+Album: European Tour, Summer Of '89
+Track: 12
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 13-Don't Bust My Chops.mp3
+Time: 137
+Artist: Ramones
+Title: Don't Bust My Chops
+Album: European Tour, Summer Of '89
+Track: 13
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 14-She's the One.mp3
+Time: 107
+Artist: Ramones
+Title: She's the One
+Album: European Tour, Summer Of '89
+Track: 14
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 15-Mama's Boy, Animal Boy.mp3
+Time: 238
+Artist: Ramones
+Title: Mama's Boy, Animal Boy
+Album: European Tour, Summer Of '89
+Track: 15
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 16-Wart Hog.mp3
+Time: 98
+Artist: Ramones
+Title: Wart Hog
+Album: European Tour, Summer Of '89
+Track: 16
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 17-Surfin' Bird, Cretin Hop.mp3
+Time: 217
+Artist: Ramones
+Title: Surfin' Bird, Cretin Hop
+Album: European Tour, Summer Of '89
+Track: 17
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 18-I Don't Wanna Walk Around With You, Today Your Love,Tomorrow the World.mp3
+Time: 174
+Artist: Ramones
+Title: I Don't Wanna Walk Around With You, Today Your Love,Tomorrow the World
+Album: European Tour, Summer Of '89
+Track: 18
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 19-Pinhead.mp3
+Time: 116
+Artist: Ramones
+Title: Pinhead
+Album: European Tour, Summer Of '89
+Track: 19
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 20-I Wanna Live.mp3
+Time: 142
+Artist: Ramones
+Title: I Wanna Live
+Album: European Tour, Summer Of '89
+Track: 20
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 21-Somebody Put Something In My Drink, Let's Dance.mp3
+Time: 252
+Artist: Ramones
+Title: Somebody Put Something In My Drink, Let's Dance
+Album: European Tour, Summer Of '89
+Track: 21
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 22-Do You Wanna Dance.mp3
+Time: 96
+Artist: Ramones
+Title: Do You Wanna Dance
+Album: European Tour, Summer Of '89
+Track: 22
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754432
+song_end
+song_begin: 23-Palisades Park, We're A Happy Family.mp3
+Time: 208
+Artist: Ramones
+Title: Palisades Park, We're A Happy Family
+Album: European Tour, Summer Of '89
+Track: 23
+Date: 1990
+Genre: Punk
+Genre: Punk
+mtime: 1258754434
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Summer of 89
+directory: Ramones - The Chinese Wall
+mtime: 1258754436
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - The Chinese Wall
+song_begin: 01-Do You Remember Rock 'N' Roll Radio.mp3
+Time: 336
+Artist: Ramones
+Title: Do You Remember Rock 'N' Roll Radio
+Album: The chinese wall
+Track: 1
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 02-Blitzkrieg Bop.mp3
+Time: 122
+Artist: Ramones
+Title: Blitzkrieg Bop
+Album: The chinese wall
+Track: 2
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 03-This Business Is Killing Me.mp3
+Time: 140
+Artist: Ramones
+Title: This Business Is Killing Me
+Album: The chinese wall
+Track: 3
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 04-All's Quiet At The Eastern Front.mp3
+Time: 110
+Artist: Ramones
+Title: All's Quiet At The Eastern Front
+Album: The chinese wall
+Track: 4
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 05-Gimme, Gimme Shock Treatment.mp3
+Time: 131
+Artist: Ramones
+Title: Gimme, Gimme Shock Treatment
+Album: The chinese wall
+Track: 5
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 06-Rock 'N' Roll High School.mp3
+Time: 100
+Artist: Ramones
+Title: Rock 'N' Roll High School
+Album: The chinese wall
+Track: 6
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 07-I Wanna Be Sedated.mp3
+Time: 126
+Artist: Ramones
+Title: I Wanna Be Sedated
+Album: The chinese wall
+Track: 7
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 08-Beat On The Brat.mp3
+Time: 164
+Artist: Ramones
+Title: Beat On The Brat
+Album: The chinese wall
+Track: 8
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 09-The KKK Took My Baby Away.mp3
+Time: 131
+Artist: Ramones
+Title: The KKK Took My Baby Away
+Album: The chinese wall
+Track: 9
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 10-Commando.mp3
+Time: 90
+Artist: Ramones
+Title: Commando
+Album: The chinese wall
+Track: 10
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 11-Come On Now.mp3
+Time: 134
+Artist: Ramones
+Title: Come On Now
+Album: The chinese wall
+Track: 11
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 12-Suzy Is A Headbanger.mp3
+Time: 81
+Artist: Ramones
+Title: Suzy Is A Headbanger
+Album: The chinese wall
+Track: 12
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 13-Let's Dance.mp3
+Time: 149
+Artist: Ramones
+Title: Let's Dance
+Album: The chinese wall
+Track: 13
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 14-Needles & Pins.mp3
+Time: 121
+Artist: Ramones
+Title: Needles & Pins
+Album: The chinese wall
+Track: 14
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754434
+song_end
+song_begin: 15-I'm Affected.mp3
+Time: 178
+Artist: Ramones
+Title: I'm Affected
+Album: The chinese wall
+Track: 15
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754436
+song_end
+song_begin: 16-Chinese Rocks.mp3
+Time: 115
+Artist: Ramones
+Title: Chinese Rocks
+Album: The chinese wall
+Track: 16
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754436
+song_end
+song_begin: 17-Rockaway Beach.mp3
+Time: 98
+Artist: Ramones
+Title: Rockaway Beach
+Album: The chinese wall
+Track: 17
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754436
+song_end
+song_begin: 18-Teenage Lobotomy.mp3
+Time: 92
+Artist: Ramones
+Title: Teenage Lobotomy
+Album: The chinese wall
+Track: 18
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754436
+song_end
+song_begin: 19-Surfing Bird.mp3
+Time: 120
+Artist: Ramones
+Title: Surfing Bird
+Album: The chinese wall
+Track: 19
+Date: 1982
+Genre: Rock
+Genre: Rock
+mtime: 1258754436
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - The Chinese Wall
+directory: Ramones - Too Tough To Die
+mtime: 1258754438
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Too Tough To Die
+song_begin: 01 Mama's Boy.mp3
+Time: 131
+Artist: Ramones
+Title: Mama's Boy
+Album: Too Tough To Die
+Track: 01
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 02 I'm Not Afraid Of Live.mp3
+Time: 193
+Artist: Ramones
+Title: I'm Not Afraid Of Live
+Album: Too Tough To Die
+Track: 02
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 03 Too Tough To Die.mp3
+Time: 157
+Artist: Ramones
+Title: Too Tough To Die
+Album: Too Tough To Die
+Track: 03
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 04 Durango 95.mp3
+Time: 55
+Artist: Ramones
+Title: Durango 95
+Album: Too Tough To Die
+Track: 04
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 05 Wart Hog.mp3
+Time: 115
+Artist: Ramones
+Title: Wart Hog
+Album: Too Tough To Die
+Track: 05
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 06 Danger Zone.mp3
+Time: 129
+Artist: Ramones
+Title: Danger Zone
+Album: Too Tough To Die
+Track: 06
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 07 Chasing The Night.mp3
+Time: 268
+Artist: Ramones
+Title: Chasing The Night
+Album: Too Tough To Die
+Track: 07
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 08 Howling At The Moon (Sha-la-la).mp3
+Time: 247
+Artist: Ramones
+Title: Howling At The Moon (Sha-la-la)
+Album: Too Tough To Die
+Track: 08
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 09 Daytime Dilemma (Dangers Of Love).mp3
+Time: 273
+Artist: Ramones
+Title: Daytime Dilemma (Dangers Of Love)
+Album: Too Tough To Die
+Track: 09
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 10 Planet Earth 1988.mp3
+Time: 175
+Artist: Ramones
+Title: Planet Earth 1988
+Album: Too Tough To Die
+Track: 10
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 11 Human Kind.mp3
+Time: 162
+Artist: Ramones
+Title: Human Kind
+Album: Too Tough To Die
+Track: 11
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 12 Endless Vacation.mp3
+Time: 108
+Artist: Ramones
+Title: Endless Vacation
+Album: Too Tough To Die
+Track: 12
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+song_begin: 13 No Go.mp3
+Time: 185
+Artist: Ramones
+Title: No Go
+Album: Too Tough To Die
+Track: 13
+Date: 1984
+Genre: Punk Rock
+mtime: 1258754436
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Too Tough To Die
+directory: Ramones - We're outta here!
+mtime: 1258754440
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - We're outta here!
+song_begin: 01 Durango 95.mp3
+Time: 87
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Durango 95
+Album: We're Outta Here
+Track: 1
+Date: 1997
+Genre: Punk Rock
+Composer: Johnny Ramone
+mtime: 1258754438
+song_end
+song_begin: 02 Teenage Lobotomy.mp3
+Time: 90
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Teenage Lobotomy
+Album: We're Outta Here
+Track: 2
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 03 Psycho Therapy.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Psycho Therapy
+Album: We're Outta Here
+Track: 3
+Date: 1997
+Genre: Punk Rock
+Composer: Dee Dee Ramone/Johnny Ramone
+mtime: 1258754438
+song_end
+song_begin: 04 Blitzkrieg Bop.mp3
+Time: 96
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Blitzkrieg Bop
+Album: We're Outta Here
+Track: 4
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 05 Do You Remember Rock And Roll Radio.mp3
+Time: 180
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Do You Remember Rock And Roll Radio
+Album: We're Outta Here
+Track: 5
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 06 I Believe In Miracles.mp3
+Time: 162
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Believe In Miracles
+Album: We're Outta Here
+Track: 6
+Date: 1997
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754438
+song_end
+song_begin: 07 Gimme Gimme Shock Treatment.mp3
+Time: 76
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Gimme Gimme Shock Treatment
+Album: We're Outta Here
+Track: 7
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 08 Rock 'n' Roll High School.mp3
+Time: 110
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Rock 'n' Roll High School
+Album: We're Outta Here
+Track: 8
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 09 I Wanna Be Sedated.mp3
+Time: 124
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Wanna Be Sedated
+Album: We're Outta Here
+Track: 9
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 10 Spider-Man.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Spider-Man
+Album: We're Outta Here
+Track: 10
+Date: 1997
+Genre: Punk Rock
+Composer: Paul Francis Webster/Robert Harris
+mtime: 1258754438
+song_end
+song_begin: 11 The K.K.K. Took My Baby Away.mp3
+Time: 132
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: The KKK Took My Baby Away
+Album: We're Outta Here
+Track: 11
+Date: 1997
+Genre: Punk Rock
+Composer: Joey Ramone
+mtime: 1258754438
+song_end
+song_begin: 12 I Just Want To Have Something To Do.mp3
+Time: 129
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Just Want To Have Something To Do
+Album: We're Outta Here
+Track: 12
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 13 Commando.mp3
+Time: 81
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Commando
+Album: We're Outta Here
+Track: 13
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 14 Sheena Is A Punkrocker.mp3
+Time: 106
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Sheena Is A Punkrocker
+Album: We're Outta Here
+Track: 14
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 15 Rockaway Beach.mp3
+Time: 131
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Rockaway Beach
+Album: We're Outta Here
+Track: 15
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 16 Pet Sematary.mp3
+Time: 182
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Pet Sematary
+Album: We're Outta Here
+Track: 16
+Date: 1997
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754438
+song_end
+song_begin: 17 The Crusher.mp3
+Time: 129
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: The Crusher
+Album: We're Outta Here
+Track: 17
+Date: 1997
+Genre: Punk Rock
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754438
+song_end
+song_begin: 18 Love Kills.mp3
+Time: 119
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Love Kills
+Album: We're Outta Here
+Track: 18
+Date: 1997
+Genre: Punk Rock
+Composer: Dee Dee Ramone
+mtime: 1258754438
+song_end
+song_begin: 19 Do You Wanna Dance.mp3
+Time: 88
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Do You Wanna Dance
+Album: We're Outta Here
+Track: 19
+Date: 1997
+Genre: Punk Rock
+Composer: Bobby Freeman
+mtime: 1258754438
+song_end
+song_begin: 20 Someone Put Something In My Drink.mp3
+Time: 151
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Someone Put Something In My Drink
+Album: We're Outta Here
+Track: 20
+Date: 1997
+Genre: Punk Rock
+Composer: Richie Ramone
+mtime: 1258754438
+song_end
+song_begin: 21 I Don't Want You.mp3
+Time: 121
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Don't Want You
+Album: We're Outta Here
+Track: 21
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 22 Wart Hog.mp3
+Time: 93
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Wart Hog
+Album: We're Outta Here
+Track: 22
+Date: 1997
+Genre: Punk Rock
+Composer: Dee Dee Ramone/Johnny Ramone
+mtime: 1258754438
+song_end
+song_begin: 23 Cretin Hop.mp3
+Time: 82
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Cretin Hop
+Album: We're Outta Here
+Track: 23
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 24 R.A.M.O.N.E.S..mp3
+Time: 77
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: R.A.M.O.N.E.S.
+Album: We're Outta Here
+Track: 24
+Date: 1997
+Genre: Punk Rock
+Composer: Lemmy Kilmister/Michael Burston/Philip Anthony Campbell/Philip Taylor
+mtime: 1258754438
+song_end
+song_begin: 25 Today Your Love, Tomorrow The World.mp3
+Time: 100
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Today Your Love, Tomorrow The World
+Album: We're Outta Here
+Track: 25
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 26 Pinhead.mp3
+Time: 177
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Pinhead
+Album: We're Outta Here
+Track: 26
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754438
+song_end
+song_begin: 27 53RD & 3RD.mp3
+Time: 116
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: 53RD & 3RD
+Album: We're Outta Here
+Track: 27
+Date: 1997
+Genre: Punk Rock
+Composer: Doug Colvin/Jeff Hyman/John Cummings/Tommy Erdelyi
+mtime: 1258754440
+song_end
+song_begin: 28 Listen To Your Heart.mp3
+Time: 79
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Listen To Your Heart
+Album: We're Outta Here
+Track: 28
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754440
+song_end
+song_begin: 29 We're A Happy Family.mp3
+Time: 119
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: We're A Happy Family
+Album: We're Outta Here
+Track: 29
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754440
+song_end
+song_begin: 30 Chinese Rock.mp3
+Time: 152
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Chinese Rocks
+Album: We're Outta Here
+Track: 30
+Date: 1997
+Genre: Punk Rock
+Composer: Dee Dee Ramone/Richard Hell
+mtime: 1258754440
+song_end
+song_begin: 31 Beat On The Brat.mp3
+Time: 136
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Beat On The Brat
+Album: We're Outta Here
+Track: 31
+Date: 1997
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754440
+song_end
+song_begin: 32 Any Way You Want It.mp3
+Time: 193
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Any Way You Want It
+Album: We're Outta Here
+Track: 32
+Date: 1997
+Genre: Punk Rock
+Composer: Dave Clark
+mtime: 1258754440
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - We're outta here!
+directory: Ramones - Weaselface
+mtime: 1258754444
+begin: XFER/RAMONES - 28 ALBUMS/Ramones - Weaselface
+song_begin: 01-Rock Away Beach.mp3
+Time: 115
+Artist: Ramones
+Title: Rock Away Beach
+Album: Weaselface
+Track: 1
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 02-Commando.mp3
+Time: 121
+Artist: Ramones
+Title: Commando
+Album: Weaselface
+Track: 2
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 03-Here Today, Gone Tomorrow.mp3
+Time: 189
+Artist: Ramones
+Title: Here Today, Gone Tomorrow
+Album: Weaselface
+Track: 3
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 04-Surfin' Bird.mp3
+Time: 138
+Artist: Ramones
+Title: Surfin' Bird
+Album: Weaselface
+Track: 4
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 05-Cretin Hop.mp3
+Time: 108
+Artist: Ramones
+Title: Cretin Hop
+Album: Weaselface
+Track: 5
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 06-Listen To My Heart.mp3
+Time: 98
+Artist: Ramones
+Title: Listen To My Heart
+Album: Weaselface
+Track: 6
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 07-California Sun.mp3
+Time: 110
+Artist: Ramones
+Title: California Sun
+Album: Weaselface
+Track: 7
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 08-I Don't Wanna Walk Around With You.mp3
+Time: 89
+Artist: Ramones
+Title: I Don't Wanna Walk Around With You
+Album: Weaselface
+Track: 8
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 09-Pinhead.mp3
+Time: 244
+Artist: Ramones
+Title: Pinhead
+Album: Weaselface
+Track: 9
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 10-Suzy Is A Headbanger.mp3
+Time: 122
+Artist: Ramones
+Title: Suzy Is A Headbanger
+Album: Weaselface
+Track: 10
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754440
+song_end
+song_begin: 11-Chainsaw.mp3
+Time: 94
+Artist: Ramones
+Title: Chainsaw
+Album: Weaselface
+Track: 11
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 12-Today Your Love, Tomorrow The World.mp3
+Time: 133
+Artist: Ramones
+Title: Today Your Love, Tomorrow The World
+Album: Weaselface
+Track: 12
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 13-Psycho Therapy.mp3
+Time: 130
+Artist: Ramones
+Title: Psycho Therapy
+Album: Weaselface
+Track: 13
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 14-Blitzkrieg Bop.mp3
+Time: 125
+Artist: Ramones
+Title: Blitzkrieg Bop
+Album: Weaselface
+Track: 14
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 15-Do You Remember Rock'n Roll.mp3
+Time: 184
+Artist: Ramones
+Title: Do You Remember Rock'n Roll
+Album: Weaselface
+Track: 15
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 16-I Can't Make It On Time.mp3
+Time: 120
+Artist: Ramones
+Title: I Can't Make It On Time
+Album: Weaselface
+Track: 16
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 17-Chinese Rock.mp3
+Time: 124
+Artist: Ramones
+Title: Chinese Rock
+Album: Weaselface
+Track: 17
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 18-Weaselface.mp3
+Time: 93
+Artist: Ramones
+Title: Weaselface
+Album: Weaselface
+Track: 18
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 19-Rockaway Beach.mp3
+Time: 110
+Artist: Ramones
+Title: Rockaway Beach
+Album: Weaselface
+Track: 19
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 20-Garden Of Serenity.mp3
+Time: 130
+Artist: Ramones
+Title: Garden Of Serenity
+Album: Weaselface
+Track: 20
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 21-Today Your Love, Tomorrow The World.mp3
+Time: 103
+Artist: Ramones
+Title: Today Your Love, Tomorrow The World
+Album: Weaselface
+Track: 21
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 22-Pinhead.mp3
+Time: 113
+Artist: Ramones
+Title: Pinhead
+Album: Weaselface
+Track: 22
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 23-I Wanna Live.mp3
+Time: 140
+Artist: Ramones
+Title: I Wanna Live
+Album: Weaselface
+Track: 23
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 24-Somebody Put Something In My Drink.mp3
+Time: 160
+Artist: Ramones
+Title: Somebody Put Something In My Drink
+Album: Weaselface
+Track: 24
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 25-My Brain Is Hanging Upside Down.mp3
+Time: 192
+Artist: Ramones
+Title: My Brain Is Hanging Upside Down
+Album: Weaselface
+Track: 25
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754442
+song_end
+song_begin: 26-I Don't Wanna Go.mp3
+Time: 165
+Artist: Ramones
+Title: I Don't Wanna Go
+Album: Weaselface
+Track: 26
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754444
+song_end
+song_begin: 27-Loud Mouth.mp3
+Time: 132
+Artist: Ramones
+Title: Loud Mouth
+Album: Weaselface
+Track: 27
+Date: 1992
+Genre: Punk
+Genre: Punk
+mtime: 1258754444
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Ramones - Weaselface
+directory: Various - Rock 'n' Roll High School OST
+mtime: 1258754446
+begin: XFER/RAMONES - 28 ALBUMS/Various - Rock 'n' Roll High School OST
+song_begin: 01 Ramones - Rock 'n' Roll High School.mp3
+Time: 141
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Rock 'n' Roll High School
+Album: Rock 'n' Roll High School
+Track: 1
+Date: 1979
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754444
+song_end
+song_begin: 02 Ramones - I Want You Around.mp3
+Time: 184
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: I Want You Around
+Album: Rock 'n' Roll High School
+Track: 2
+Date: 1979
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754444
+song_end
+song_begin: 03 The Paley Brothers_Ramones - Come On Let's Go.mp3
+Time: 134
+Artist: The Paley Brothers/Ramones
+AlbumArtist: The Ramones
+Title: Come On Let's Go
+Album: Rock 'n' Roll High School
+Track: 3
+Date: 1979
+Genre: Punk Rock
+Composer: Ritchie Valens
+mtime: 1258754444
+song_end
+song_begin: 04 Ramones - Ramones Medley.mp3
+Time: 664
+Artist: Ramones
+AlbumArtist: The Ramones
+Title: Ramones Medley
+Album: Rock 'n' Roll High School
+Track: 4
+Date: 1979
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754444
+song_end
+song_begin: 05 Nick Lowe - So It Goes.mp3
+Time: 151
+Artist: Nick Lowe
+AlbumArtist: The Ramones
+Title: So It Goes
+Album: Rock 'n' Roll High School
+Track: 5
+Date: 1979
+Genre: Punk Rock
+Composer: Nick Lowe
+mtime: 1258754444
+song_end
+song_begin: 06 Brian Eno - Energy Fools The Magician.mp3
+Time: 125
+Artist: Brian Eno
+AlbumArtist: The Ramones
+Title: Energy Fools The Magician
+Album: Rock 'n' Roll High School
+Track: 6
+Date: 1979
+Genre: Punk Rock
+Composer: Brian Eno
+mtime: 1258754444
+song_end
+song_begin: 07 P.J. Soles - Rock 'n' Roll High School.mp3
+Time: 133
+Artist: P.J. Soles
+AlbumArtist: The Ramones
+Title: Rock 'n' Roll High School
+Album: Rock 'n' Roll High School
+Track: 7
+Date: 1979
+Genre: Punk Rock
+Composer: The Ramones
+mtime: 1258754444
+song_end
+song_begin: 08 Devo - Come Back Jonee.mp3
+Time: 227
+Artist: Devo
+AlbumArtist: The Ramones
+Title: Come Back Jonee
+Album: Rock 'n' Roll High School
+Track: 8
+Date: 1979
+Genre: Punk Rock
+Composer: Gerald V. Casale/Mark Mothersbaugh
+mtime: 1258754444
+song_end
+song_begin: 09 Eddie And The Hot Rods - Teenage Depression.mp3
+Time: 177
+Artist: Eddie And The Hot Rods
+AlbumArtist: The Ramones
+Title: Teenage Depression
+Album: Rock 'n' Roll High School
+Track: 9
+Date: 1979
+Genre: Punk Rock
+Composer: Dave Higgs
+mtime: 1258754444
+song_end
+song_begin: 10 Brownsville Station - Smocking In The Boys Room.mp3
+Time: 177
+Artist: Brownsville Station
+AlbumArtist: The Ramones
+Title: Smocking In The Boys Room
+Album: Rock 'n' Roll High School
+Track: 10
+Date: 1979
+Genre: Punk Rock
+Composer: Cub Koda/Michael Lutz
+mtime: 1258754444
+song_end
+song_begin: 11 Chuck Berry - School Days.mp3
+Time: 164
+Artist: Chuck Berry
+AlbumArtist: The Ramones
+Title: School Days
+Album: Rock 'n' Roll High School
+Track: 11
+Date: 1979
+Genre: Punk Rock
+Composer: Chuck Berry
+mtime: 1258754444
+song_end
+song_begin: 12 Todd Rundgren - A Dream Goes On Forever.mp3
+Time: 144
+Artist: Todd Rundgren
+AlbumArtist: The Ramones
+Title: A Dream Goes On Forever
+Album: Rock 'n' Roll High School
+Track: 12
+Date: 1979
+Genre: Punk Rock
+Composer: Todd Rundgren
+mtime: 1258754446
+song_end
+song_begin: 13 Alice Cooper - School's Out.mp3
+Time: 206
+Artist: Alice Cooper
+AlbumArtist: The Ramones
+Title: School's Out
+Album: Rock 'n' Roll High School
+Track: 13
+Date: 1979
+Genre: Punk Rock
+Composer: Alice Cooper/Dennis Dunaway/Glen Buxton/Michael Bruce/Neal Smith
+mtime: 1258754446
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Various - Rock 'n' Roll High School OST
+directory: Various - The Song Ramones The Same (A Tribute to the Ramones)
+mtime: 1258754450
+begin: XFER/RAMONES - 28 ALBUMS/Various - The Song Ramones The Same (A Tribute to the Ramones)
+song_begin: 01-Sahara Hotnights _ Rockaway Beach.mp3
+Time: 126
+Artist: Sahara Hotnights
+AlbumArtist: Various Artists
+Title: Rockaway Beach
+Album: The Song Ramones The Same
+Track: 1
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 02-Cool Millions _ The KKK Took My Baby Away.mp3
+Time: 142
+Artist: Cool Millions
+AlbumArtist: Various Artists
+Title: The KKK Took My Baby Away
+Album: The Song Ramones The Same
+Track: 2
+Date: 2002
+Genre: Punk
+Composer: Joey Ramone
+mtime: 1258754446
+song_end
+song_begin: 03-Sort Sol _ Blitzkrieg Bop.mp3
+Time: 161
+Artist: Sort Sol
+AlbumArtist: Various Artists
+Title: Blitzkrieg Bop
+Album: The Song Ramones The Same
+Track: 3
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 04-The Nomads ft. Kissettes _ I Remember You.mp3
+Time: 138
+Artist: The Nomads ft. Kissettes
+AlbumArtist: Various Artists
+Title: I Remember You
+Album: The Song Ramones The Same
+Track: 4
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 05-D.A.D. _ Havanna Affair.mp3
+Time: 117
+Artist: D.A.D.
+AlbumArtist: Various Artists
+Title: Havanna Affair
+Album: The Song Ramones The Same
+Track: 5
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 06-The Hellacopters _ What'd Ya Do_.mp3
+Time: 137
+Artist: The Hellacopters
+AlbumArtist: Various Artists
+Title: What'd Ya Do?
+Album: The Song Ramones The Same
+Track: 6
+Date: 2002
+Genre: Punk
+Composer: Joey Ramone
+mtime: 1258754446
+song_end
+song_begin: 07-Per Gessle _ I Wanna Be Your Boyfriend.mp3
+Time: 147
+Artist: Per Gessle
+AlbumArtist: Various Artists
+Title: I Wanna Be Your Boyfriend
+Album: The Song Ramones The Same
+Track: 7
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 08-Satirine _ Mama's Boy.mp3
+Time: 127
+Artist: Satirine
+AlbumArtist: Various Artists
+Title: Mama's Boy
+Album: The Song Ramones The Same
+Track: 8
+Date: 2002
+Genre: Punk
+Composer: Dee Dee Ramone/Johnny Ramone/Tommy Erdelyi
+mtime: 1258754446
+song_end
+song_begin: 09-The Dictators _ I Just Wanna Have Something To Do.mp3
+Time: 170
+Artist: The Dictators
+AlbumArtist: Various Artists
+Title: I Just Wanna Have Something To Do
+Album: The Song Ramones The Same
+Track: 9
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754446
+song_end
+song_begin: 10-Sator _ Mental Hell.mp3
+Time: 153
+Artist: Sator
+AlbumArtist: Various Artists
+Title: Mental Hell
+Album: The Song Ramones The Same
+Track: 10
+Date: 2002
+Genre: Punk
+Composer: Joey Ramone
+mtime: 1258754446
+song_end
+song_begin: 11-Whale _ Now I Wanna Sniff Some Glue.mp3
+Time: 192
+Artist: Whale
+AlbumArtist: Various Artists
+Title: Now I Wanna Sniff Some Glue
+Album: The Song Ramones The Same
+Track: 11
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754448
+song_end
+song_begin: 12-Wolf _ I'm Not Afraid Of Life.mp3
+Time: 243
+Artist: Wolf
+AlbumArtist: Various Artists
+Title: I'm Not Afraid Of Life
+Album: The Song Ramones The Same
+Track: 12
+Date: 2002
+Genre: Punk
+Composer: Dee Dee Ramone
+mtime: 1258754448
+song_end
+song_begin: 13-Wayne Kramer _ Bonzo Goes To Bitsburg.mp3
+Time: 259
+Artist: Wayne Kramer
+AlbumArtist: Various Artists
+Title: Bonzo Goes To Bitsburg
+Album: The Song Ramones The Same
+Track: 13
+Date: 2002
+Genre: Punk
+Composer: Dee Dee Ramone/Jean Beauvoir/Joey Ramone
+mtime: 1258754448
+song_end
+song_begin: 14-Toilet boys _ Carbona Not Glue.mp3
+Time: 102
+Artist: Toilet Boys
+AlbumArtist: Various Artists
+Title: Carbona Not Glue
+Album: The Song Ramones The Same
+Track: 14
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754448
+song_end
+song_begin: 15-Maryslim _ I Believe In Miracles.mp3
+Time: 212
+Artist: Maryslim
+AlbumArtist: Various Artists
+Title: I Believe In Miracles
+Album: The Song Ramones The Same
+Track: 15
+Date: 2002
+Genre: Punk
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754448
+song_end
+song_begin: 16-Wilmer X _ I Can't Make It On Time.mp3
+Time: 202
+Artist: Wilmer X
+AlbumArtist: Various Artists
+Title: I Can't Make It On Time
+Album: The Song Ramones The Same
+Track: 16
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754448
+song_end
+song_begin: 17-Danko Jones _ The Return Of Jackie And Judy.mp3
+Time: 182
+Artist: Danko Jones
+AlbumArtist: Various Artists
+Title: The Return Of Jackie And Judy
+Album: The Song Ramones The Same
+Track: 17
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754448
+song_end
+song_begin: 18-Backyard Babies _ Pet Semetary.mp3
+Time: 207
+Artist: Backyard Babies
+AlbumArtist: Various Artists
+Title: Pet Semetary
+Album: The Song Ramones The Same
+Track: 18
+Date: 2002
+Genre: Punk
+Composer: Daniel Rey/Dee Dee Ramone
+mtime: 1258754448
+song_end
+song_begin: 19-Jesse Malin _ Questioningly.mp3
+Time: 203
+Artist: Jesse Malin
+AlbumArtist: Various Artists
+Title: Questioningly
+Album: The Song Ramones The Same
+Track: 19
+Date: 2002
+Genre: Punk
+Composer: The Ramones
+mtime: 1258754450
+song_end
+end: XFER/RAMONES - 28 ALBUMS/Various - The Song Ramones The Same (A Tribute to the Ramones)
+directory: Various - We're A Happy Family (A Tribute to the Ramones)
+mtime: 1258754452
+begin: XFER/RAMONES - 28 ALBUMS/Various - We're A Happy Family (A Tribute to the Ramones)
+song_begin: 01-Various_Artists_-_Red_Hot_Chili_Peppers_-_Havana_Affair.mp3
+Time: 136
+Artist: Red Hot Chili Peppers
+AlbumArtist: Various Artists
+Title: Havana Affair
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 1
+Date: 2003
+Genre: Alternative
+mtime: 1258754450
+song_end
+song_begin: 02-Various_Artists_-_Rob_Zombie_-_Blitzkrieg_Bop.mp3
+Time: 163
+Artist: Rob Zombie
+AlbumArtist: Various Artists
+Title: Blitzkrieg Bop
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 2
+Date: 2003
+Genre: Alternative
+Composer: Doug Colvin/Jaffrey Hyman/John Cummings/Tommy Erdelyi
+mtime: 1258754450
+song_end
+song_begin: 03-Various_Artists_-_Eddie_Vedder_Zeke_-_I_Believe_In_Miracles.mp3
+Time: 181
+Artist: Eddie Vedder & Zeke
+AlbumArtist: Various Artists
+Title: I Believe In Miracles
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 3
+Date: 2003
+Genre: Alternative
+mtime: 1258754450
+song_end
+song_begin: 04-Various_Artists_-_Metallica_-_53rd_&_3rd.mp3
+Time: 141
+Artist: Metallica
+AlbumArtist: Various Artists
+Title: 53rd & 3rd
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 4
+Date: 2003
+Genre: Alternative
+Composer: Doug Colvin/Jeff Hyman/John Cummings/Thomas Edrelyi
+mtime: 1258754450
+song_end
+song_begin: 05-Various_Artists_-_U2_-_Beat_On_The_Brat.mp3
+Time: 155
+Artist: U2
+AlbumArtist: Various Artists
+Title: Beat On The Brat
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 5
+Date: 2003
+Genre: Alternative
+Composer: The Ramones
+mtime: 1258754450
+song_end
+song_begin: 06-Various_Artists_-_Kiss_-_Do_You_Remember_Rock_'N'_Roll_Radio.mp3
+Time: 214
+Artist: Kiss
+AlbumArtist: Various Artists
+Title: Do You Remember Rock 'N' Roll Radio
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 6
+Date: 2003
+Genre: Alternative
+mtime: 1258754450
+song_end
+song_begin: 07-Various_Artists_-_Marilyn_Manson_-_The_KKK_Took_My_Baby_Away.mp3
+Time: 224
+Artist: Marilyn Manson
+AlbumArtist: Various Artists
+Title: The KKK Took My Baby Away
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 7
+Date: 2003
+Genre: Alternative
+mtime: 1258754450
+song_end
+song_begin: 08-Various_Artists_-_Garbage_-_I_Just_Wanna_Have_Something_To_Do.mp3
+Time: 146
+Artist: Garbage
+AlbumArtist: Various Artists
+Title: I Just Wanna Have Something To Do
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 8
+Date: 2003
+Genre: Alternative
+mtime: 1258754450
+song_end
+song_begin: 09-Various_Artists_-_Green_Day_-_Outsider.mp3
+Time: 138
+Artist: Green Day
+AlbumArtist: Various Artists
+Title: Outsider
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 9
+Date: 2003
+Genre: Alternative
+Composer: Dee Dee Ramone
+mtime: 1258754452
+song_end
+song_begin: 10-Various_Artists_-_The_Pretenders_-_Something_To_Believe_In.mp3
+Time: 270
+Artist: The Pretenders
+AlbumArtist: Various Artists
+Title: Something To Believe In
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 10
+Date: 2003
+Genre: Alternative
+mtime: 1258754452
+song_end
+song_begin: 11-Various_Artists_-_Rancid_-_Sheena_Is_A_Punk_Rocker.mp3
+Time: 111
+Artist: Rancid
+AlbumArtist: Various Artists
+Title: Sheena Is A Punk Rocker
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 11
+Date: 2003
+Genre: Alternative
+mtime: 1258754452
+song_end
+song_begin: 12-Various_Artists_-_Pete_Yorn_-_I_Wanna_Be_Your_Boyfriend.mp3
+Time: 171
+Artist: Pete Yorn
+AlbumArtist: Various Artists
+Title: I Wanna Be Your Boyfriend
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 12
+Date: 2003
+Genre: Alternative
+Composer: The Ramones
+mtime: 1258754452
+song_end
+song_begin: 13-Various_Artists_-_The_Offspring_-_I_Wanna_Be_Sedated.mp3
+Time: 139
+Artist: The Offspring
+AlbumArtist: Various Artists
+Title: I Wanna Be Sedated
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 13
+Date: 2003
+Genre: Alternative
+mtime: 1258754452
+song_end
+song_begin: 14-Various_Artists_-_Rooney_-_Here_Today,_Gone_Tomorrow.mp3
+Time: 174
+Artist: Rooney
+AlbumArtist: Various Artists
+Title: Here Today, Gone Tomorrow
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 14
+Date: 2003
+Genre: Alternative
+mtime: 1258754452
+song_end
+song_begin: 15-Various_Artists_-_Tom_Waits_-_Return_Of_Jackie_&_Judy.mp3
+Time: 209
+Artist: Tom Waits
+AlbumArtist: Various Artists
+Title: Return Of Jackie & Judy
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 15
+Date: 2003
+Genre: Alternative
+Composer: The Ramones
+mtime: 1258754452
+song_end
+song_begin: 16-Various_Artists_-_Eddie_Vedder,_Zeke_-_Daytime_Dilemma(Dangers_Of_Love).mp3
+Time: 212
+Artist: Eddie Vedder & Zeke
+AlbumArtist: Various Artists
+Title: Daytime Dilemma (Dangers Of Love) - Bonus Track
+Album: Ramones Tribute Album - We're A Happy Family
+Track: 16
+Date: 2003
+Genre: Alternative
+mtime: 1258754452
+song_end
+playlist_begin: 00-Various_Artists_-_Ramones_Tribute_Album_-_We're_A_Happy_Family.m3u
+mtime: 1258754450
+playlist_end
+end: XFER/RAMONES - 28 ALBUMS/Various - We're A Happy Family (A Tribute to the Ramones)
+end: XFER/RAMONES - 28 ALBUMS
+directory: Rachmaninoff
+mtime: 1258752510
+begin: XFER/Rachmaninoff
+song_begin: Rachmaninoff - Prelude In C Minor.mp3
+Time: 190
+Artist: Rachmaninoff
+Genre: Classical
+mtime: 1258752510
+song_end
+song_begin: Rachmaninoff - Rhapsody on a Theme of Paganini.mp3
+Time: 163
+Artist: Rachmaninoff
+Genre: Classical
+mtime: 1258752510
+song_end
+song_begin: Rachmaninov - Prelude.mp2
+Time: 243
+Artist: Rachmaninoff
+Genre: Classical
+mtime: 1258752510
+song_end
+song_begin: Rachmaninoff romance.mp3
+Time: 331
+Artist: Rachmaninoff
+Title: Rachmaninoff romance
+Track: 1
+Genre: Classical
+mtime: 1258752510
+song_end
+end: XFER/Rachmaninoff
+directory: Stiff Little Fingers - All The Best (2 CDs)
+mtime: 1258754456
+begin: XFER/Stiff Little Fingers - All The Best (2 CDs)
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_01_-_Suspect_Device.mp3
+Time: 163
+Artist: Stiff Little Fingers
+Title: Suspect Device
+Album: All The Best (Disc 1)
+Track: 1/15
+mtime: 1258754452
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_02_-_Wasted_Life.mp3
+Time: 195
+Artist: Stiff Little Fingers
+Title: Wasted Life
+Album: All The Best (Disc 1)
+Track: 2/15
+mtime: 1258754452
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_03_-_Alternative_Ulster.mp3
+Time: 163
+Artist: Stiff Little Fingers
+Title: Alternative Ulster
+Album: All The Best (Disc 1)
+Track: 3/15
+mtime: 1258754452
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_04_-_78_RPM.mp3
+Time: 157
+Artist: Stiff Little Fingers
+Title: 78 RPM
+Album: All The Best (Disc 1)
+Track: 4/15
+mtime: 1258754452
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_05_-_Gotta_Gettaway.mp3
+Time: 216
+Artist: Stiff Little Fingers
+Title: Gotta Gettaway
+Album: All The Best (Disc 1)
+Track: 5/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_07_-_Straw_Dogs.mp3
+Time: 210
+Artist: Stiff Little Fingers
+Title: Straw Dogs
+Album: All The Best (Disc 1)
+Track: 7
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_08_-_You_Can't_Say_Crap_On_The_Radio.mp3
+Time: 169
+Artist: Stiff Little Fingers
+Title: You Can't Say Crap On The Radio
+Album: All The Best (Disc 1)
+Track: 8/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_09_-_At_The_Edge.mp3
+Time: 179
+Artist: Stiff Little Fingers
+Title: At The Edge
+Album: All The Best (Disc 1)
+Track: 9
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_10_-_Rinning_Bear_(Live).mp3
+Time: 195
+Artist: Stiff Little Fingers
+Title: Running Bear (Live)
+Album: All The Best (Disc 1)
+Track: 10
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_11_-_White_Christmas_(Live).mp3
+Time: 146
+Artist: Stiff Little Fingers
+Title: White Christmas (Live)
+Album: All The Best (Disc 1)
+Track: 11/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_12_-_Nobody's_Hero.mp3
+Time: 253
+Artist: Stiff Little Fingers
+Title: Nobody's Hero
+Album: All The Best (Disc 1)
+Track: 12/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_13_-_Tin_Soldier.mp3
+Time: 286
+Artist: Stiff Little Fingers
+Title: Tin Soldier
+Album: All The Best (Disc 1)
+Track: 13/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_14_-_Back_To_Front.mp3
+Time: 178
+Artist: Stiff Little Fingers
+Title: Back To Front
+Album: All The Best (Disc 1)
+Track: 14/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_15_-_Mr._Fire_Coal_Man.mp3
+Time: 299
+Artist: Stiff Little Fingers
+Title: Mr. Fire Coal Man
+Album: All The Best (Disc 1)
+Track: 15/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_1_-_06_-_Bloody_Sunday.mp3
+Time: 204
+Artist: Stiff Little Fingers
+Album: All The Best Disc 2
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_06_-_Sad_-_Eyed_People.mp3
+Time: 235
+Artist: Stiff Little Fingers
+Title: Sad Eyed People
+Album: All The Best Disc 2
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_07_-_Two_Guitars_Clash.mp3
+Time: 272
+Artist: Stiff Little Fingers
+Title: Two Guitars Clash
+Album: All The Best Disc 2
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_10_-_Good_For_Nothing.mp3
+Time: 164
+Artist: Stiff Little Fingers
+Title: Good_For_Nothing
+Album: All The Best Disc 2
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_01_-_Just_Fade_Away.mp3
+Time: 186
+Artist: Stiff Little Fingers
+Title: Just Fade Away
+Album: All The Best Disc 2
+Track: 1/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_02_-_Go_For_It.mp3
+Time: 188
+Artist: Stiff Little Fingers
+Title: Go For It
+Album: All The Best Disc 2
+Track: 2/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_03_-_Doesn't_Make_It_All_Right_(Live).mp3
+Time: 209
+Artist: Stiff Little Fingers
+Title: Doesn't Make It All Right (Live)
+Album: All The Best Disc 2
+Track: 3/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_04_-_Silver_Lining.mp3
+Time: 184
+Artist: Stiff Little Fingers
+Title: Silver Lining
+Album: All The Best Disc 2
+Track: 4/15
+mtime: 1258754454
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_05_-_Safe_As_Houses.mp3
+Time: 329
+Artist: Stiff Little Fingers
+Title: Safe As Houses
+Album: All The Best Disc 2
+Track: 5/15
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_08_-_Listen.mp3
+Time: 253
+Artist: Stiff Little Fingers
+Title: Listen
+Album: All The Best Disc 2
+Track: 8/15
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_09_-_That's_When_Your_Blood_Bumps.mp3
+Time: 224
+Artist: Stiff Little Fingers
+Title: That's When Your Blood Bumps
+Album: All The Best Disc 2
+Track: 9
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_11_-_Talkback.mp3
+Time: 171
+Artist: Stiff Little Fingers
+Title: Talkback
+Album: All The Best Disc 2
+Track: 11/15
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_12_-_Stands_To_Reason.mp3
+Time: 186
+Artist: Stiff Little Fingers
+Title: Stands To Reason
+Album: All The Best Disc 2
+Track: 12/15
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_13_-_Bits_Of_Kids.mp3
+Time: 216
+Artist: Stiff Little Fingers
+Title: Bits Of Kids
+Album: All The Best Disc 2
+Track: 13
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_14_-_Touch_And_Go.mp3
+Time: 202
+Artist: Stiff Little Fingers
+Title: Touch And Go
+Album: All The Best Disc 2
+Track: 14/15
+mtime: 1258754456
+song_end
+song_begin: Stiff_Little_Fingers_-_All_The_Best_Disc_2_-_15_-_The_Price_Of_Admission.mp3
+Time: 218
+Artist: Stiff Little Fingers
+Title: The Price Of Admission
+Album: All The Best Disc 2
+Track: 15/15
+mtime: 1258754456
+song_end
+end: XFER/Stiff Little Fingers - All The Best (2 CDs)
+directory: Tchaikovsky
+mtime: 1258752516
+begin: XFER/Tchaikovsky
+song_begin: Tchaikovsky - Concerto for Piano and Orchestra No 1.mp3
+Time: 1214
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752514
+song_end
+song_begin: Tchaikovsky - Dance of the Reed Flutes.mp3
+Time: 111
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752514
+song_end
+song_begin: Tchaikovsky - Marche Slave.mp3
+Time: 595
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752514
+song_end
+song_begin: Tchaikovsky - Serenade for String Orchestra.mp3
+Time: 233
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752514
+song_end
+song_begin: Tchaikovsky - Sleeping Beauty - The Lilly Fairy.mp3
+Time: 212
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752516
+song_end
+song_begin: Tchaikovsky - Swan Lake No. 10.mp3
+Time: 170
+Artist: Tchaikovsky
+mtime: 1258752516
+song_end
+song_begin: Tchaikovsky - Symphony No 6 Pathetique - Finale.mp3
+Time: 549
+Artist: Tchaikovsky
+Genre: Classical
+mtime: 1258752516
+song_end
+end: XFER/Tchaikovsky
+directory: buzzcocks
+mtime: 1258754394
+begin: XFER/buzzcocks
+directory: Buzzcocks-Another Music In A Different Kitchen(Darkside_RG)
+mtime: 1258754392
+begin: XFER/buzzcocks/Buzzcocks-Another Music In A Different Kitchen(Darkside_RG)
+song_begin: 01 - Fast Cars.mp3
+Time: 147
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Fast Cars
+Album: Another Music In A Different Kitchen
+Track: 1
+Date: 1978
+Genre: Punk Rock
+Composer: Howard Devoto/Pete Shelley/Steve Diggle
+mtime: 1258754388
+song_end
+song_begin: 02 - No Reply.mp3
+Time: 136
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: No Reply
+Album: Another Music In A Different Kitchen
+Track: 2
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754388
+song_end
+song_begin: 03 - You Tear Me Up.mp3
+Time: 147
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: You Tear Me Up
+Album: Another Music In A Different Kitchen
+Track: 3
+Date: 1978
+Genre: Punk Rock
+Composer: Howard Devoto/Pete Shelley
+mtime: 1258754388
+song_end
+song_begin: 04 - Get On Your Own.mp3
+Time: 147
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Get On Your Own
+Album: Another Music In A Different Kitchen
+Track: 4
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754388
+song_end
+song_begin: 05 - Love Battery.mp3
+Time: 130
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Love Battery
+Album: Another Music In A Different Kitchen
+Track: 5
+Date: 1978
+Genre: Punk Rock
+Composer: Howard Devoto/Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 06 - Sixteen.mp3
+Time: 218
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Sixteen
+Album: Another Music In A Different Kitchen
+Track: 6
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 07 - I Don't Mind.mp3
+Time: 138
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: I Don't Mind
+Album: Another Music In A Different Kitchen
+Track: 7
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 08 - Fiction Romance.mp3
+Time: 268
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Fiction Romance
+Album: Another Music In A Different Kitchen
+Track: 8
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 09 - Autonomy.mp3
+Time: 223
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Autonomy
+Album: Another Music In A Different Kitchen
+Track: 9
+Date: 1978
+Genre: Punk Rock
+Composer: Steve Diggle
+mtime: 1258754390
+song_end
+song_begin: 10 - I Need.mp3
+Time: 163
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: I Need
+Album: Another Music In A Different Kitchen
+Track: 10
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley/Steve Diggle
+mtime: 1258754390
+song_end
+song_begin: 11 - Moving Away From The Pulsebeat.mp3
+Time: 426
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Moving Away From The Pulsebeat
+Album: Another Music In A Different Kitchen
+Track: 11
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 12 - Orgasm Addict.mp3
+Time: 122
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Orgasm Addict
+Album: Another Music In A Different Kitchen
+Track: 12
+Date: 1978
+Genre: Punk Rock
+Composer: Howard Devoto/Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 13 - Whatever Happened To... .mp3
+Time: 134
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Whatever Happened To...?
+Album: Another Music In A Different Kitchen
+Track: 13
+Date: 1978
+Genre: Punk Rock
+Composer: Alan Dial/Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 14 - What Do I Get .mp3
+Time: 176
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: What Do I Get?
+Album: Another Music In A Different Kitchen
+Track: 14
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754390
+song_end
+song_begin: 15 - Oh Shit.mp3
+Time: 96
+Artist: Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Oh Shit
+Album: Another Music In A Different Kitchen
+Track: 15
+Date: 1978
+Genre: Punk Rock
+Composer: Pete Shelley
+mtime: 1258754392
+song_end
+playlist_begin: Buzzcocks - Another Music In A Different Kitchen.m3u
+mtime: 1258754392
+playlist_end
+end: XFER/buzzcocks/Buzzcocks-Another Music In A Different Kitchen(Darkside_RG)
+directory: The Buzzcocks-Love Bites-Another Music In A Different Kitchen
+mtime: 1258754394
+begin: XFER/buzzcocks/The Buzzcocks-Love Bites-Another Music In A Different Kitchen
+song_begin: 01 - The Buzzcocks - Fast Cars.mp3
+Time: 148
+Artist: The Buzzcocks
+Title: Fast Cars
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 1
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 02 - The Buzzcocks - No Reply.mp3
+Time: 136
+Artist: The Buzzcocks
+Title: No Reply
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 2
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 03 - The Buzzcocks - You Tear Me Up.mp3
+Time: 147
+Artist: The Buzzcocks
+Title: You Tear Me Up
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 3
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 04 - The Buzzcocks - Get On Our Own.mp3
+Time: 147
+Artist: The Buzzcocks
+Title: Get On Our Own
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 4
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 05 - The Buzzcocks - Love Battery.mp3
+Time: 130
+Artist: The Buzzcocks
+Title: Love Battery
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 5
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 06 - The Buzzcocks - Sixteen.mp3
+Time: 219
+Artist: The Buzzcocks
+Title: Sixteen
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 6
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 07 - The Buzzcocks - I Don't Mind.mp3
+Time: 138
+Artist: The Buzzcocks
+Title: I Don't Mind
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 7
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 08 - The Buzzcocks - Fiction Romance.mp3
+Time: 268
+Artist: The Buzzcocks
+Title: Fiction Romance
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 8
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 09 - The Buzzcocks - Autonomy.mp3
+Time: 224
+Artist: The Buzzcocks
+Title: Autonomy
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 9
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 10 - The Buzzcocks - I Need.mp3
+Time: 164
+Artist: The Buzzcocks
+Title: I Need
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 10
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 11 - The Buzzcocks - Moving Away From The Pulsebeat.mp3
+Time: 423
+Artist: The Buzzcocks
+Title: Moving Away From The Pulsebeat
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 11
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 12 - The Buzzcocks - Real World.mp3
+Time: 213
+Artist: The Buzzcocks
+Title: Real World
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 12
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 13 - The Buzzcocks - Ever Fallen In Love (With Someone You Shouldn't've)_.mp3
+Time: 163
+Artist: The Buzzcocks
+Title: Ever Fallen In Love (With Someone You Shouldn't've)?
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 13
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 14 - The Buzzcocks - Operator's Manual.mp3
+Time: 215
+Artist: The Buzzcocks
+Title: Operator's Manual
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 14
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754392
+song_end
+song_begin: 15 - The Buzzcocks - Nostalgia.mp3
+Time: 176
+Artist: The Buzzcocks
+Title: Nostalgia
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 15
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 16 - The Buzzcocks - Just Lust.mp3
+Time: 182
+Artist: The Buzzcocks
+Title: Just Lust
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 16
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 17 - The Buzzcocks - Sixteen Again.mp3
+Time: 198
+Artist: The Buzzcocks
+Title: Sixteen Again
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 17
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 18 - The Buzzcocks - Walking Distance.mp3
+Time: 123
+Artist: The Buzzcocks
+Title: Walking Distance
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 18
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 19 - The Buzzcocks - Love Is Lies.mp3
+Time: 193
+Artist: The Buzzcocks
+Title: Love Is Lies
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 19
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 20 - The Buzzcocks - Nothing Left.mp3
+Time: 269
+Artist: The Buzzcocks
+Title: Nothing Left
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 20
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 21 - The Buzzcocks - E.S.P..mp3
+Time: 288
+Artist: The Buzzcocks
+Title: E.S.P.
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 21
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 22 - The Buzzcocks - Late For The Train.mp3
+Time: 334
+Artist: The Buzzcocks
+Title: Late For The Train
+Album: Love Bites/Another Music In A Different Kitchen
+Track: 22
+Date: 1978
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+end: XFER/buzzcocks/The Buzzcocks-Love Bites-Another Music In A Different Kitchen
+directory: The Buzzcocks-Trade Test Transmissions
+mtime: 1258754396
+begin: XFER/buzzcocks/The Buzzcocks-Trade Test Transmissions
+song_begin: 01 - The Buzzcocks - Do It.mp3
+Time: 184
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Do It
+Album: Trade Test Transmissions
+Track: 1
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754394
+song_end
+song_begin: 02 - The Buzzcocks - Innocent.mp3
+Time: 214
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Innocent
+Album: Trade Test Transmissions
+Track: 2
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754394
+song_end
+song_begin: 03 - The Buzzcocks - T T T.mp3
+Time: 198
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: T T T
+Album: Trade Test Transmissions
+Track: 3
+Date: 1993
+Genre: Old School Punk
+mtime: 1258754394
+song_end
+song_begin: 04 - The Buzzcocks - Isolation.mp3
+Time: 238
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Isolation
+Album: Trade Test Transmissions
+Track: 4
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754394
+song_end
+song_begin: 05 - The Buzzcocks - Smile.mp3
+Time: 170
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Smile
+Album: Trade Test Transmissions
+Track: 5
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754394
+song_end
+song_begin: 06 - The Buzzcocks - Last To Know.mp3
+Time: 171
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Last To Know
+Album: Trade Test Transmissions
+Track: 6
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754394
+song_end
+song_begin: 07 - The Buzzcocks - When Love Turns Around.mp3
+Time: 146
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: When Love Turns Around
+Album: Trade Test Transmissions
+Track: 7
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754394
+song_end
+song_begin: 08 - The Buzzcocks - Never Gonna Give It Up.mp3
+Time: 169
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Never Gonna Give It Up
+Album: Trade Test Transmissions
+Track: 8
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754394
+song_end
+song_begin: 09 - The Buzzcocks - Energy.mp3
+Time: 217
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Energy
+Album: Trade Test Transmissions
+Track: 9
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754396
+song_end
+song_begin: 10 - The Buzzcocks - Palm Of Your Hand.mp3
+Time: 203
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Palm Of Your Hand
+Album: Trade Test Transmissions
+Track: 10
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754396
+song_end
+song_begin: 11 - The Buzzcocks - Alive Tonight.mp3
+Time: 229
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Alive Tonight
+Album: Trade Test Transmissions
+Track: 11
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754396
+song_end
+song_begin: 12 - The Buzzcocks - Who'll Help Me Forget_.mp3
+Time: 177
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Who'll Help Me Forget?
+Album: Trade Test Transmissions
+Track: 12
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754396
+song_end
+song_begin: 13 - The Buzzcocks - Unthinkable.mp3
+Time: 172
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Unthinkable
+Album: Trade Test Transmissions
+Track: 13
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754396
+song_end
+song_begin: 14 - The Buzzcocks - Crystal Night.mp3
+Time: 199
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Crystal Night
+Album: Trade Test Transmissions
+Track: 14
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754396
+song_end
+song_begin: 15 - The Buzzcocks - 369.mp3
+Time: 184
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: 369
+Album: Trade Test Transmissions
+Track: 15
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754396
+song_end
+song_begin: 16 - The Buzzcocks - All Over You.mp3
+Time: 206
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: All Over You
+Album: Trade Test Transmissions
+Track: 16
+Date: 1993
+Genre: Old School Punk
+Composer: Pete Shelley
+mtime: 1258754396
+song_end
+song_begin: 17 - The Buzzcocks - Inside.mp3
+Time: 150
+Artist: The Buzzcocks
+AlbumArtist: Buzzcocks
+Title: Inside
+Album: Trade Test Transmissions
+Track: 17
+Date: 1993
+Genre: Old School Punk
+Composer: Steve Diggle
+mtime: 1258754396
+song_end
+end: XFER/buzzcocks/The Buzzcocks-Trade Test Transmissions
+end: XFER/buzzcocks
+end: XFER
+directory: iTunes
+mtime: 1295178886
+begin: iTunes
+directory: iTunes Media
+mtime: 1283743223
+begin: iTunes/iTunes Media
+directory: Automatically Add to iTunes
+mtime: 1286667858
+begin: iTunes/iTunes Media/Automatically Add to iTunes
+directory: Not Added
+mtime: 1286667798
+begin: iTunes/iTunes Media/Automatically Add to iTunes/Not Added
+directory: 2010-10-09 23.42.45
+mtime: 1286667798
+begin: iTunes/iTunes Media/Automatically Add to iTunes/Not Added/2010-10-09 23.42.45
+song_begin: mentalhome_04.mp3
+Time: 315
+Artist: Mental Home
+Album: Demo 2002
+Genre: Metal
+mtime: 1226951068
+song_end
+song_begin: mentalhome_05.mp3
+Time: 187
+Artist: Mental Home
+Album: Demo 2002
+Genre: Metal
+mtime: 1226951068
+song_end
+end: iTunes/iTunes Media/Automatically Add to iTunes/Not Added/2010-10-09 23.42.45
+end: iTunes/iTunes Media/Automatically Add to iTunes/Not Added
+end: iTunes/iTunes Media/Automatically Add to iTunes
+directory: Music
+mtime: 1286667767
+begin: iTunes/iTunes Media/Music
+directory: Anacrusis
+mtime: 1282353734
+begin: iTunes/iTunes Media/Music/Anacrusis
+directory: Reason[Redo]
+mtime: 1282353734
+begin: iTunes/iTunes Media/Music/Anacrusis/Reason[Redo]
+song_begin: Stop_Me_(2009).mp3
+Time: 297
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 1
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598200
+song_end
+song_begin: Terrified_(2009).mp3
+Time: 214
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 2
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598208
+song_end
+song_begin: Not_Forgotten_(2009).mp3
+Time: 201
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 3
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598564
+song_end
+song_begin: Wrong_(2009).mp3
+Time: 176
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 4
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598562
+song_end
+song_begin: Killing_My_Mind_(2009).mp3
+Time: 179
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 6
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598214
+song_end
+song_begin: Afraid_To_Feel_(2009).mp3
+Time: 258
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 7
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598553
+song_end
+song_begin: Vital_(2009).mp3
+Time: 177
+Artist: Anacrusis
+Album: Reason[Redo]
+Track: 9
+Date: 2009
+Genre: Heavy Metal
+mtime: 1259598205
+song_end
+end: iTunes/iTunes Media/Music/Anacrusis/Reason[Redo]
+directory: Suffering Hour Revisited (demo)
+mtime: 1282353734
+begin: iTunes/iTunes Media/Music/Anacrusis/Suffering Hour Revisited (demo)
+song_begin: Fighting Evil (2009).mp3
+Time: 251
+Artist: Anacrusis
+AlbumArtist: ANACRUSIS
+Title: Fighting Evil (2009)
+Album: Suffering Hour Revisited (demo)
+Date: 2009
+Genre: Metal
+mtime: 1248976592
+song_end
+end: iTunes/iTunes Media/Music/Anacrusis/Suffering Hour Revisited (demo)
+directory: Unknown Album
+mtime: 1282353734
+begin: iTunes/iTunes Media/Music/Anacrusis/Unknown Album
+song_begin: Anacrusis Drum Samples.mp3
+Time: 192
+Artist: Anacrusis
+Genre: Other
+mtime: 1248976605
+song_end
+song_begin: Terrified (2009 Demo)-smpl.mp3
+Time: 221
+Artist: Anacrusis
+Genre: Other
+mtime: 1248976605
+song_end
+song_begin: Wrong (2009 Demo)-smpl.mp3
+Time: 167
+Artist: Anacrusis
+Genre: Other
+mtime: 1248976605
+song_end
+end: iTunes/iTunes Media/Music/Anacrusis/Unknown Album
+end: iTunes/iTunes Media/Music/Anacrusis
+directory: Arashi
+mtime: 1282353735
+begin: iTunes/iTunes Media/Music/Arashi
+directory: All the BEST! 1999-2009
+mtime: 1282353743
+begin: iTunes/iTunes Media/Music/Arashi/All the BEST! 1999-2009
+song_begin: 01 サクラ咲ケ.mp3
+Time: 299
+Artist: Arashi
+AlbumArtist: Arashi
+Title: サクラ咲ケ
+Album: All the BEST! 1999-2009
+Track: 1/15
+Date: 2009
+Genre: Japanese Pop & Rock
+mtime: 1272957632
+song_end
+song_begin: 03 きっと大丈夫.mp3
+Time: 292
+Artist: Arashi
+AlbumArtist: Arashi
+Title: きっと大丈夫
+Album: All the BEST! 1999-2009
+Track: 3/15
+Date: 2009
+Genre: Japanese Pop & Rock
+mtime: 1272957632
+song_end
+song_begin: 04 アオゾラペダル.mp3
+Time: 318
+Artist: Arashi
+AlbumArtist: Arashi
+Title: アオゾラペダル
+Album: All the BEST! 1999-2009
+Track: 4/15
+Date: 2009
+Genre: Japanese Pop & Rock
+mtime: 1272957632
+song_end
+song_begin: 1-01 A・RA・SHI.mp3
+Time: 267
+Artist: Arashi
+AlbumArtist: Arashi
+Title: A・RA・SHI
+Album: All the BEST! 1999-2009
+Track: 1/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-02 SUNRISE日本.mp3
+Time: 284
+Artist: Arashi
+AlbumArtist: Arashi
+Title: SUNRISE日本
+Album: All the BEST! 1999-2009
+Track: 2/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-03 HORIZON.mp3
+Time: 308
+Artist: Arashi
+AlbumArtist: Arashi
+Title: HORIZON
+Album: All the BEST! 1999-2009
+Track: 3/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-04 台風ジェネレーション -Typhoon Generation-.mp3
+Time: 300
+Artist: Arashi
+AlbumArtist: Arashi
+Title: 台風ジェネレーション -Typhoon Generation-
+Album: All the BEST! 1999-2009
+Track: 4/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-05 感謝カンゲキ雨嵐.mp3
+Time: 288
+Artist: Arashi
+AlbumArtist: Arashi
+Title: 感謝カンゲキ雨嵐
+Album: All the BEST! 1999-2009
+Track: 5/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-06 君のために僕がいる.mp3
+Time: 226
+Artist: Arashi
+AlbumArtist: Arashi
+Title: 君のために僕がいる
+Album: All the BEST! 1999-2009
+Track: 6/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-07 時代.mp3
+Time: 294
+Artist: Arashi
+AlbumArtist: Arashi
+Title: 時代
+Album: All the BEST! 1999-2009
+Track: 7/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-08 a Day in Our Life.mp3
+Time: 285
+Artist: Arashi
+AlbumArtist: Arashi
+Title: a Day in Our Life
+Album: All the BEST! 1999-2009
+Track: 8/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-09 ナイスな心意気.mp3
+Time: 240
+Artist: Arashi
+AlbumArtist: Arashi
+Title: ナイスな心意気
+Album: All the BEST! 1999-2009
+Track: 9/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-10 PIKA☆NCHI.mp3
+Time: 292
+Artist: Arashi
+AlbumArtist: Arashi
+Title: PIKA☆NCHI
+Album: All the BEST! 1999-2009
+Track: 10/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957630
+song_end
+song_begin: 1-11 とまどいながら.mp3
+Time: 254
+Artist: Arashi
+AlbumArtist: Arashi
+Title: とまどいながら
+Album: All the BEST! 1999-2009
+Track: 11/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957630
+song_end
+song_begin: 1-12 ハダシの未来.mp3
+Time: 281
+Artist: Arashi
+AlbumArtist: Arashi
+Title: ハダシの未来
+Album: All the BEST! 1999-2009
+Track: 12/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1272957632
+song_end
+song_begin: 1-13 言葉より大切なもの.mp3
+Time: 243
+Artist: Arashi
+AlbumArtist: Arashi
+Title: 言葉より大切なもの
+Album: All the BEST! 1999-2009
+Track: 13/17
+Date: 2009
+Genre: Japanese Pop & Rock
+Disc: 1/2
+mtime: 1282353743
+song_end
+end: iTunes/iTunes Media/Music/Arashi/All the BEST! 1999-2009
+end: iTunes/iTunes Media/Music/Arashi
+directory: B'z
+mtime: 1282353744
+begin: iTunes/iTunes Media/Music/B'z
+directory: B'z TV STYLE Ⅱ SONGLESS VERSION Original 15 Karaoke Version
+mtime: 1282353744
+begin: iTunes/iTunes Media/Music/B'z/B'z TV STYLE Ⅱ SONGLESS VERSION Original 15 Karaoke Version
+song_begin: 15 いつかのメリークリスマス.mp3
+Time: 337
+Artist: B'z
+AlbumArtist: B'z
+Title: いつかのメリークリスマス
+Album: B'z TV STYLE Ⅱ SONGLESS VERSION Original 15 Karaoke Version
+Track: 15/15
+Date: 1995
+Genre: Japanese Pop & Rock
+Disc: 1/1
+mtime: 1282353744
+song_end
+end: iTunes/iTunes Media/Music/B'z/B'z TV STYLE Ⅱ SONGLESS VERSION Original 15 Karaoke Version
+end: iTunes/iTunes Media/Music/B'z
+directory: Cephalopod Creator Myth
+mtime: 1286666763
+begin: iTunes/iTunes Media/Music/Cephalopod Creator Myth
+directory: Second Coming
+mtime: 1286666764
+begin: iTunes/iTunes Media/Music/Cephalopod Creator Myth/Second Coming
+song_begin: 01 Absolutely.mp3
+Time: 259
+Artist: Cephalopod Creator Myth
+Title: Absolutely
+Album: Second Coming
+Track: 1
+Date: 2007
+Genre: Alternative
+mtime: 1247378096
+song_end
+song_begin: 02 End of the Day.mp3
+Time: 197
+Artist: Cephalopod Creator Myth
+Title: End of the Day
+Album: Second Coming
+Track: 2
+Date: 2007
+Genre: Alternative
+mtime: 1247378098
+song_end
+song_begin: 03 Rolling.mp3
+Time: 249
+Artist: Cephalopod Creator Myth
+Title: Rolling
+Album: Second Coming
+Track: 3
+Date: 2007
+Genre: Alternative
+mtime: 1247378105
+song_end
+song_begin: 04 Soul & Transcendence.mp3
+Time: 180
+Artist: Cephalopod Creator Myth
+Title: Soul & Transcendence
+Album: Second Coming
+Track: 4
+Date: 2007
+Genre: Alternative
+mtime: 1247378105
+song_end
+song_begin: 05 Please Tell Me.mp3
+Time: 153
+Artist: Cephalopod Creator Myth
+Title: Please Tell Me
+Album: Second Coming
+Track: 5
+Date: 2007
+Genre: Alternative
+mtime: 1247378112
+song_end
+song_begin: 06 I'd Die.mp3
+Time: 216
+Artist: Cephalopod Creator Myth
+Title: I'd Die
+Album: Second Coming
+Track: 6
+Date: 2007
+Genre: Alternative
+mtime: 1247378114
+song_end
+song_begin: 07 To Be Light of Heart.mp3
+Time: 242
+Artist: Cephalopod Creator Myth
+Title: To Be Light of Heart
+Album: Second Coming
+Track: 7
+Date: 2007
+Genre: Alternative
+mtime: 1247378122
+song_end
+song_begin: 08 init 5.mp3
+Time: 204
+Artist: Cephalopod Creator Myth
+Title: init 5
+Album: Second Coming
+Track: 8
+Date: 2007
+Genre: Alternative
+mtime: 1247378122
+song_end
+song_begin: 09 Stop It.mp3
+Time: 176
+Artist: Cephalopod Creator Myth
+Title: Stop It
+Album: Second Coming
+Track: 9
+Date: 2007
+Genre: Alternative
+mtime: 1247378129
+song_end
+song_begin: 10 Sevenberry.mp3
+Time: 291
+Artist: Cephalopod Creator Myth
+Title: Sevenberry
+Album: Second Coming
+Track: 10
+Date: 2007
+Genre: Alternative
+mtime: 1247378133
+song_end
+song_begin: 11 Wires.mp3
+Time: 262
+Artist: Cephalopod Creator Myth
+Title: Wires
+Album: Second Coming
+Track: 11
+Date: 2007
+Genre: Alternative
+mtime: 1247378138
+song_end
+end: iTunes/iTunes Media/Music/Cephalopod Creator Myth/Second Coming
+directory: Trifecta
+mtime: 1282353749
+begin: iTunes/iTunes Media/Music/Cephalopod Creator Myth/Trifecta
+song_begin: 11 Are You Sagittarius (meddled with version).mp3
+Time: 62
+Artist: Cephalopod Creator Myth
+Album: Trifecta
+Date: 2009
+mtime: 1248975787
+song_end
+song_begin: 11 Are You Sagittarius - Snippet.mp3
+Time: 62
+Artist: Cephalopod Creator Myth
+Title: Are You Sagittarius - Snippet
+Album: Trifecta
+Track: 11
+Date: 2009
+Genre: Utter Crap
+mtime: 1248975723
+song_end
+end: iTunes/iTunes Media/Music/Cephalopod Creator Myth/Trifecta
+end: iTunes/iTunes Media/Music/Cephalopod Creator Myth
+directory: Compilations
+mtime: 1282353749
+begin: iTunes/iTunes Media/Music/Compilations
+directory: What a Wonderful World
+mtime: 1282353749
+begin: iTunes/iTunes Media/Music/Compilations/What a Wonderful World
+song_begin: 01 Wonderful Word.m4a
+Time: 271
+Title: Wonderful Word
+Artist: Israel Kamakawiwo'ole
+Album: What a Wonderful World
+Genre: Easy Listening
+Track: 1
+Disc: 1
+Date: 2007
+mtime: 1242287110
+song_end
+end: iTunes/iTunes Media/Music/Compilations/What a Wonderful World
+directory: invitation
+mtime: 1282353749
+begin: iTunes/iTunes Media/Music/Compilations/invitation
+song_begin: 01 invitation.mp3
+Time: 243
+Artist: 柴咲コウ
+AlbumArtist: 柴咲コウ
+Title: invitation
+Album: invitation
+Track: 1/4
+Date: 2006
+Genre: Japanese Pop & Rock
+Disc: 1/1
+mtime: 1267940282
+song_end
+end: iTunes/iTunes Media/Music/Compilations/invitation
+end: iTunes/iTunes Media/Music/Compilations
+directory: Crucible
+mtime: 1283826607
+begin: iTunes/iTunes Media/Music/Crucible
+directory: Souls Worn Thin
+mtime: 1283826608
+begin: iTunes/iTunes Media/Music/Crucible/Souls Worn Thin
+song_begin: 01 Empire of Scorn.mp3
+Time: 277
+Artist: Crucible
+Title: Empire of Scorn
+Album: Souls Worn Thin
+Track: 1/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380638
+song_end
+song_begin: 02 War on Peace.mp3
+Time: 184
+Artist: Crucible
+Title: War on Peace
+Album: Souls Worn Thin
+Track: 2/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380636
+song_end
+song_begin: 03 Escaping the Grid.mp3
+Time: 234
+Artist: Crucible
+Title: Escaping the Grid
+Album: Souls Worn Thin
+Track: 3/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380641
+song_end
+song_begin: 04 Souls Worn Thin.mp3
+Time: 318
+Artist: Crucible
+Title: Souls Worn Thin
+Album: Souls Worn Thin
+Track: 4/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380644
+song_end
+song_begin: 05 Sentenced to Death.mp3
+Time: 152
+Artist: Crucible
+Title: Sentenced to Death
+Album: Souls Worn Thin
+Track: 5/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380644
+song_end
+song_begin: 06 Isolation.mp3
+Time: 118
+Artist: Crucible
+Title: Isolation
+Album: Souls Worn Thin
+Track: 6/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380647
+song_end
+song_begin: 07 Get to Even.mp3
+Time: 279
+Artist: Crucible
+Title: Get to Even
+Album: Souls Worn Thin
+Track: 7/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380650
+song_end
+song_begin: 08 Rule the Deep.mp3
+Time: 139
+Artist: Crucible
+Title: Rule the Deep
+Album: Souls Worn Thin
+Track: 8/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380650
+song_end
+song_begin: 09 Less than a Man.mp3
+Time: 345
+Artist: Crucible
+Title: Less than a Man
+Album: Souls Worn Thin
+Track: 9/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380657
+song_end
+song_begin: 10 Gut Wrench.mp3
+Time: 51
+Artist: Crucible
+Title: Gut Wrench
+Album: Souls Worn Thin
+Track: 10/10
+Date: 2000
+Genre: Rock/Pop
+mtime: 1247380651
+song_end
+end: iTunes/iTunes Media/Music/Crucible/Souls Worn Thin
+end: iTunes/iTunes Media/Music/Crucible
+directory: Doom
+mtime: 1284450411
+begin: iTunes/iTunes Media/Music/Doom
+directory: Complicated Mind
+mtime: 1284450412
+begin: iTunes/iTunes Media/Music/Doom/Complicated Mind
+song_begin: 01 Complicated Mind.mp3
+Time: 402
+Artist: DOOM
+AlbumArtist: Doom
+Title: Complicated Mind
+Album: Complicated Mind
+Track: 1
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483865
+song_end
+song_begin: 02 Fall, Rise And....mp3
+Time: 324
+Artist: DOOM
+AlbumArtist: Doom
+Title: Fall, Rise And...
+Album: Complicated Mind
+Track: 2
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483865
+song_end
+song_begin: 03 The Boys Dog.mp3
+Time: 316
+Artist: DOOM
+AlbumArtist: Doom
+Title: The Boys Dog
+Album: Complicated Mind
+Track: 3
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 04 Bright Light.mp3
+Time: 297
+Artist: DOOM
+AlbumArtist: Doom
+Title: Bright Light
+Album: Complicated Mind
+Track: 4
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 05 Slave Of Heaven.mp3
+Time: 352
+Artist: DOOM
+AlbumArtist: Doom
+Title: Slave Of Heaven
+Album: Complicated Mind
+Track: 5
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 06 Kingdom Of Silkroad.mp3
+Time: 54
+Artist: DOOM
+AlbumArtist: Doom
+Title: Kingdom Of Silkroad
+Album: Complicated Mind
+Track: 6
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 07 Can't Break My Without You.mp3
+Time: 339
+Artist: DOOM
+AlbumArtist: Doom
+Title: Can't Break My Without You
+Album: Complicated Mind
+Track: 7
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 08 Painted Face.mp3
+Time: 285
+Artist: DOOM
+AlbumArtist: Doom
+Title: Painted Face
+Album: Complicated Mind
+Track: 8
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 09 Poor Boy Condition.mp3
+Time: 309
+Artist: DOOM
+AlbumArtist: Doom
+Title: Poor Boy Condition
+Album: Complicated Mind
+Track: 9
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+song_begin: 10 Nervous Break Down.mp3
+Time: 327
+Artist: DOOM
+AlbumArtist: Doom
+Title: Nervous Break Down
+Album: Complicated Mind
+Track: 10
+Date: 1988
+Genre: General Metal
+Composer: Doom
+mtime: 1284483866
+song_end
+end: iTunes/iTunes Media/Music/Doom/Complicated Mind
+end: iTunes/iTunes Media/Music/Doom
+directory: Evan Howell
+mtime: 1286667790
+begin: iTunes/iTunes Media/Music/Evan Howell
+directory: Home Studio Attempts
+mtime: 1286667788
+begin: iTunes/iTunes Media/Music/Evan Howell/Home Studio Attempts
+song_begin: 01 Soundtrack Try 1.mp3
+Time: 334
+Artist: Evan Howell
+Title: Soundtrack Try 1
+Album: Home Studio Attempts
+Track: 01/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951070
+song_end
+song_begin: 02 Dissonance.mp3
+Time: 136
+Artist: Evan Howell
+Title: Dissonance
+Album: Home Studio Attempts
+Track: 02/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951070
+song_end
+song_begin: 03 Elpish.mp3
+Time: 534
+Artist: Evan Howell
+Title: Elpish
+Album: Home Studio Attempts
+Track: 03/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951072
+song_end
+song_begin: 04 New One.mp3
+Time: 188
+Artist: Evan Howell
+Title: New One
+Album: Home Studio Attempts
+Track: 04/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951076
+song_end
+song_begin: 05 Bolty.mp3
+Time: 184
+Artist: Evan Howell
+Title: Bolty
+Album: Home Studio Attempts
+Track: 05/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951072
+song_end
+song_begin: 06 Meshuggah.mp3
+Time: 493
+Artist: Evan Howell
+Title: Meshuggah
+Album: Home Studio Attempts
+Track: 06/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951070
+song_end
+song_begin: 07 Crackersong.mp3
+Time: 260
+Artist: Evan Howell
+Title: Crackersong
+Album: Home Studio Attempts
+Track: 07/08
+Date: 2003
+Genre: Rock
+mtime: 1226951068
+song_end
+song_begin: 07 New Slow.mp3
+Time: 148
+Artist: Evan Howell
+Title: New Slow
+Album: Home Studio Attempts
+Track: 07/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951070
+song_end
+song_begin: 08 NIN Mix 1.mp3
+Time: 328
+Artist: Evan Howell
+Title: NIN Mix 1
+Album: Home Studio Attempts
+Track: 08/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951072
+song_end
+song_begin: 09 Assault on Precinct 13.mp3
+Time: 278
+Artist: Evan Howell
+Title: Assault on Precinct 13
+Album: Home Studio Attempts
+Track: 09/10
+Date: 2001
+Genre: Experimental
+mtime: 1226951076
+song_end
+song_begin: 10 Atmosphere.mp3
+Time: 1199
+Artist: Evan Howell
+Title: Atmosphere
+Album: Home Studio Attempts
+Track: 10
+Date: 2001
+Genre: Experimental
+Disc: 0
+mtime: 1226951076
+song_end
+end: iTunes/iTunes Media/Music/Evan Howell/Home Studio Attempts
+directory: Unknown Album
+mtime: 1286667798
+begin: iTunes/iTunes Media/Music/Evan Howell/Unknown Album
+song_begin: aom_mas_082202.mp3
+Time: 275
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951068
+song_end
+song_begin: autonomy_mas.mp3
+Time: 198
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: autonomy_mas_082002.mp3
+Time: 198
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951066
+song_end
+song_begin: dark-heroes.mp3
+Time: 421
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951066
+song_end
+song_begin: elpish.mp3
+Time: 543
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951062
+song_end
+song_begin: mentalhome_08.mp3
+Time: 344
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951066
+song_end
+song_begin: practice_120-140_week1.mp3
+Time: 468
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951062
+song_end
+song_begin: practice_120-140_week1_track2.mp3
+Time: 271
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951066
+song_end
+song_begin: practice_120-140_week1_track3.mp3
+Time: 291
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: practice_120-140_week1_track4.mp3
+Time: 208
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: s&t_roughmix_091202.mp3
+Time: 297
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951062
+song_end
+song_begin: sounds_85.mp3
+Time: 201
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: weezer_ripoff.mp3
+Time: 35
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: whathaveidone_roughmix_091202.mp3
+Time: 165
+Artist: Evan Howell
+Date: 2003
+Genre: Rock
+mtime: 1226951064
+song_end
+song_begin: 01 Erika.mp3
+Time: 348
+Artist: Evan Howell
+Title: Erika
+Track: 1/2
+Date: 2001
+mtime: 1258073366
+song_end
+end: iTunes/iTunes Media/Music/Evan Howell/Unknown Album
+end: iTunes/iTunes Media/Music/Evan Howell
+directory: GReeeeN
+mtime: 1282353750
+begin: iTunes/iTunes Media/Music/GReeeeN
+directory: 愛唄
+mtime: 1282353750
+begin: iTunes/iTunes Media/Music/GReeeeN/愛唄
+song_begin: 01 愛唄.mp3
+Time: 239
+Artist: GReeeeN
+Title: 愛唄
+Album: 愛唄
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267941504
+song_end
+end: iTunes/iTunes Media/Music/GReeeeN/愛唄
+end: iTunes/iTunes Media/Music/GReeeeN
+directory: JapanesePod101.com
+mtime: 1282353750
+begin: iTunes/iTunes Media/Music/JapanesePod101.com
+directory: Beginner Lesson
+mtime: 1282353754
+begin: iTunes/iTunes Media/Music/JapanesePod101.com/Beginner Lesson
+song_begin: 131 Ikeman.mp3
+Time: 798
+Artist: JapanesePod101.com
+Title: Ikeman
+Album: Beginner Lesson
+Track: 131
+Date: 2006
+Genre: Podcast
+mtime: 1216274872
+song_end
+song_begin: 187 B3_ Time Capsule 1.mp3
+Time: 1138
+Artist: JapanesePod101.com
+Title: B3: Time Capsule 1
+Album: Beginner Lesson
+Track: 187
+Genre: Podcast
+mtime: 1216275240
+song_end
+song_begin: 188 B3_ Time Capsule 2.mp3
+Time: 844
+Artist: JapanesePod101.com
+Title: B3: Time Capsule 2
+Album: Beginner Lesson
+Track: 188
+Date: 2008
+Genre: Podcast
+mtime: 1216275060
+song_end
+song_begin: 189 B3_ Time Capsule 3.mp3
+Time: 764
+Artist: JapanesePod101.com
+Title: B3: Time Capsule 3
+Album: Beginner Lesson
+Track: 189
+Date: 2008
+Genre: Podcast
+mtime: 1216275060
+song_end
+song_begin: 190 B3_ Time Capsule 4.mp3
+Time: 858
+Artist: JapanesePod101.com
+Title: B3: Time Capsule 4
+Album: Beginner Lesson
+Track: 190
+Date: 2008
+Genre: Podcast
+mtime: 1216275060
+song_end
+song_begin: 191 B3_ Time Capsule 5.mp3
+Time: 1140
+Artist: JapanesePod101.com
+Title: B3: Time Capsule 5
+Album: Beginner Lesson
+Track: 191
+Date: 2008
+Genre: Podcast
+mtime: 1216275060
+song_end
+song_begin: 192 Gomi-san in Mangaland 1.mp3
+Time: 1097
+Artist: JapanesePod101.com
+Title: Gomi-san in Mangaland 1
+Album: Beginner Lesson
+Track: 192
+Date: 2008
+Genre: Podcast
+mtime: 1216274877
+song_end
+song_begin: 193 Gomi-san in Mangaland 2.mp3
+Time: 1113
+Artist: JapanesePod101.com
+Title: Gomi-san in Mangaland 2
+Album: Beginner Lesson
+Track: 193
+Date: 2008
+Genre: Podcast
+mtime: 1216274878
+song_end
+song_begin: 194 Gomi-san in Mangaland 3.mp3
+Time: 1206
+Artist: JapanesePod101.com
+Title: Gomi-san in Mangaland 3
+Album: Beginner Lesson
+Track: 194
+Date: 2008
+Genre: Podcast
+mtime: 1282353754
+song_end
+end: iTunes/iTunes Media/Music/JapanesePod101.com/Beginner Lesson
+end: iTunes/iTunes Media/Music/JapanesePod101.com
+directory: JuJu
+mtime: 1283743276
+begin: iTunes/iTunes Media/Music/JuJu
+directory: Hello Again
+mtime: 1283743261
+begin: iTunes/iTunes Media/Music/JuJu/Hello Again
+song_begin: Hello Again.mp3
+Time: 312
+Artist: JuJu
+Title: Hello Again
+Album: Hello Again
+Date: 2010-09-05T17:17
+Composer: JuJu
+mtime: 1283743261
+song_end
+end: iTunes/iTunes Media/Music/JuJu/Hello Again
+directory: Wonderful Life
+mtime: 1283742635
+begin: iTunes/iTunes Media/Music/JuJu/Wonderful Life
+song_begin: 09 キミに会いに行こう.mp3
+Time: 323
+Artist: JUJU
+Title: キミに会いに行こう
+Album: Wonderful Life
+Track: 9
+Date: 2007
+Genre: (146)JPop
+mtime: 1267941604
+song_end
+end: iTunes/iTunes Media/Music/JuJu/Wonderful Life
+end: iTunes/iTunes Media/Music/JuJu
+directory: Man Parrish
+mtime: 1282353759
+begin: iTunes/iTunes Media/Music/Man Parrish
+directory: Man Parrish
+mtime: 1282353759
+begin: iTunes/iTunes Media/Music/Man Parrish/Man Parrish
+song_begin: 02 Beginning.mp3
+Time: 60
+Artist: Man Parrish
+Title: Beginning
+Album: Man Parrish
+Track: 2/12
+Date: 1984
+Genre: Electro
+mtime: 1284483895
+song_end
+song_begin: 03 Man Made.mp3
+Time: 294
+Artist: Man Parrish
+Title: Man Made
+Album: Man Parrish
+Track: 3/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 04 Together Again.mp3
+Time: 210
+Artist: Man Parrish
+Title: Together Again
+Album: Man Parrish
+Track: 4/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 05 Hip Hop Be Bop (Original).mp3
+Time: 185
+Artist: Man Parrish
+Title: Hip Hop Be Bop (Original)
+Album: Man Parrish
+Track: 5/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 06 Six Simple.mp3
+Time: 326
+Artist: Man Parrish
+Title: Six Simple
+Album: Man Parrish
+Track: 6/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 07 Techno Trax.mp3
+Time: 248
+Artist: Man Parrish
+Title: Techno Trax
+Album: Man Parrish
+Track: 7/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 08 Street Clap.mp3
+Time: 129
+Artist: Man Parrish
+Title: Street Clap
+Album: Man Parrish
+Track: 8/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 09 Heatstroke.mp3
+Time: 330
+Artist: Man Parrish
+Title: Heatstroke
+Album: Man Parrish
+Track: 9/12
+Date: 1984
+Genre: Electro
+mtime: 1284483896
+song_end
+song_begin: 10 Home Boys.mp3
+Time: 260
+Artist: Man Parrish
+Title: Home Boys
+Album: Man Parrish
+Track: 10/12
+Date: 1984
+Genre: Electro
+mtime: 1284483897
+song_end
+song_begin: 11 Hip Hop Be Bop (Techno Remix).mp3
+Time: 341
+Artist: Man Parrish
+Title: Hip Hop Be Bop (Techno Remix)
+Album: Man Parrish
+Track: 11/12
+Date: 1984
+Genre: Electro
+mtime: 1284483897
+song_end
+end: iTunes/iTunes Media/Music/Man Parrish/Man Parrish
+end: iTunes/iTunes Media/Music/Man Parrish
+directory: Megadeth
+mtime: 1282353759
+begin: iTunes/iTunes Media/Music/Megadeth
+directory: Countdown To Extinction [Bonus Tracks]
+mtime: 1282353759
+begin: iTunes/iTunes Media/Music/Megadeth/Countdown To Extinction [Bonus Tracks]
+song_begin: 01 Skin O' My Teeth.mp3
+Time: 196
+Artist: Megadeth
+Title: Skin O' My Teeth
+Album: Countdown To Extinction [Bonus Tracks]
+Track: 1/15
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+Disc: 1/1
+mtime: 1242455050
+song_end
+song_begin: 02 Symphony Of Destruction.mp3
+Time: 247
+Artist: Megadeth
+Title: Symphony Of Destruction
+Album: Countdown To Extinction [Bonus Tracks]
+Track: 2/15
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+Disc: 1/1
+mtime: 1242455051
+song_end
+song_begin: 03 Architecture Of Aggression.mp3
+Time: 220
+Artist: Megadeth
+Title: Architecture Of Aggression
+Album: Countdown To Extinction [Bonus Tracks]
+Track: 3/15
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine, David Ellefson
+Disc: 1/1
+mtime: 1242455052
+song_end
+song_begin: 04 Foreclosure Of A Dream.mp3
+Time: 263
+Artist: Megadeth
+Title: Foreclosure Of A Dream
+Album: Countdown To Extinction [Bonus Tracks]
+Track: 4/15
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+Disc: 1/1
+mtime: 1242455053
+song_end
+song_begin: 05 Sweating Bullets.mp3
+Time: 327
+Artist: Megadeth
+Title: Sweating Bullets
+Album: Countdown To Extinction [Bonus Tracks]
+Track: 5/15
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+Disc: 1/1
+mtime: 1282353759
+song_end
+end: iTunes/iTunes Media/Music/Megadeth/Countdown To Extinction [Bonus Tracks]
+end: iTunes/iTunes Media/Music/Megadeth
+directory: Mental Home
+mtime: 1284860988
+begin: iTunes/iTunes Media/Music/Mental Home
+directory: Black Art
+mtime: 1284860988
+begin: iTunes/iTunes Media/Music/Mental Home/Black Art
+song_begin: 01 Under the Wing (of Gamayun).mp3
+Time: 433
+Artist: Mental Home
+Title: Under the Wing (of Gamayun)
+Album: Black Art
+Track: 01
+Date: 1997
+Genre: Metal
+mtime: 1284861033
+song_end
+song_begin: 02 The Plague Omen.mp3
+Time: 388
+Artist: Mental Home
+Title: The Plague Omen
+Album: Black Art
+Track: 02
+Date: 1997
+Genre: Metal
+mtime: 1284861034
+song_end
+song_begin: 03 Into the Realms of Marena.mp3
+Time: 356
+Artist: Mental Home
+Title: Into the Realms of Marena
+Album: Black Art
+Track: 03
+Date: 1997
+Genre: Metal
+mtime: 1284861035
+song_end
+song_begin: 04 Silent Remembrance.mp3
+Time: 331
+Artist: Mental Home
+Title: Silent Remembrance
+Album: Black Art
+Track: 04
+Date: 1997
+Genre: Metal
+mtime: 1284861035
+song_end
+song_begin: 05 In the Shades of Inspiration.mp3
+Time: 176
+Artist: Mental Home
+Title: In the Shades of Inspiration
+Album: Black Art
+Track: 05
+Date: 1997
+Genre: Metal
+mtime: 1284861036
+song_end
+song_begin: 06 Pagan Freedom.mp3
+Time: 323
+Artist: Mental Home
+Title: Pagan Freedom
+Album: Black Art
+Track: 06
+Date: 1997
+Genre: Metal
+mtime: 1284861036
+song_end
+song_begin: 07 Winter Art.mp3
+Time: 270
+Artist: Mental Home
+Title: Winter Art
+Album: Black Art
+Track: 07
+Date: 1997
+Genre: Metal
+mtime: 1284861036
+song_end
+song_begin: 08 On a Hand of the Universe.mp3
+Time: 493
+Artist: Mental Home
+Title: On a Hand of the Universe
+Album: Black Art
+Track: 08
+Date: 1997
+Genre: Metal
+mtime: 1284861038
+song_end
+song_begin: 09 Tides of Time.mp3
+Time: 423
+Artist: Mental Home
+Title: Tides of Time
+Album: Black Art
+Track: 09
+Date: 1997
+Genre: Metal
+mtime: 1284861039
+song_end
+end: iTunes/iTunes Media/Music/Mental Home/Black Art
+end: iTunes/iTunes Media/Music/Mental Home
+directory: Meshuggah
+mtime: 1285226708
+begin: iTunes/iTunes Media/Music/Meshuggah
+directory: Destroy Erase Improve
+mtime: 1285226709
+begin: iTunes/iTunes Media/Music/Meshuggah/Destroy Erase Improve
+song_begin: 01 Future Breed Machine.mp3
+Time: 349
+Artist: Meshuggah
+Title: Future Breed Machine
+Album: Destroy Erase Improve
+Track: 1/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407815
+song_end
+song_begin: 02 Beneath.mp3
+Time: 338
+Artist: Meshuggah
+Title: Beneath
+Album: Destroy Erase Improve
+Track: 2/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407825
+song_end
+song_begin: 03 Soul Burn.mp3
+Time: 318
+Artist: Meshuggah
+Title: Soul Burn
+Album: Destroy Erase Improve
+Track: 3/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407826
+song_end
+song_begin: 04 Transfixion.mp3
+Time: 214
+Artist: Meshuggah
+Title: Transfixion
+Album: Destroy Erase Improve
+Track: 4/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407832
+song_end
+song_begin: 05 Vanished.mp3
+Time: 305
+Artist: Meshuggah
+Title: Vanished
+Album: Destroy Erase Improve
+Track: 5/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407836
+song_end
+song_begin: 06 Acrid Placidity.mp3
+Time: 196
+Artist: Meshuggah
+Title: Acrid Placidity
+Album: Destroy Erase Improve
+Track: 6/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407838
+song_end
+song_begin: 07 Inside What's Within Behind.mp3
+Time: 271
+Artist: Meshuggah
+Title: Inside What's Within Behind
+Album: Destroy Erase Improve
+Track: 7/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407845
+song_end
+song_begin: 08 Terminal Illusions.mp3
+Time: 227
+Artist: Meshuggah
+Title: Terminal Illusions
+Album: Destroy Erase Improve
+Track: 8/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407846
+song_end
+song_begin: 09 Suffer In Truth.mp3
+Time: 260
+Artist: Meshuggah
+Title: Suffer In Truth
+Album: Destroy Erase Improve
+Track: 9/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407853
+song_end
+song_begin: 10 Sublevels.mp3
+Time: 314
+Artist: Meshuggah
+Title: Sublevels
+Album: Destroy Erase Improve
+Track: 10/10
+Date: 1995
+Genre: Metal
+Disc: 1/1
+mtime: 1247407856
+song_end
+end: iTunes/iTunes Media/Music/Meshuggah/Destroy Erase Improve
+end: iTunes/iTunes Media/Music/Meshuggah
+directory: Michael Jackson
+mtime: 1282353765
+begin: iTunes/iTunes Media/Music/Michael Jackson
+directory: King Of Pop [Disc 1]
+mtime: 1282353773
+begin: iTunes/iTunes Media/Music/Michael Jackson/King Of Pop [Disc 1]
+song_begin: 1-01 Billie Jean.mp3
+Time: 292
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Billie Jean
+Album: King Of Pop [Disc 1]
+Track: 1/17
+Date: 1982
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940754
+song_end
+song_begin: 1-02 Thriller.mp3
+Time: 314
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Thriller
+Album: King Of Pop [Disc 1]
+Track: 2/17
+Date: 1982
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-03 Beat It.mp3
+Time: 258
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Beat It
+Album: King Of Pop [Disc 1]
+Track: 3/17
+Date: 1982
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-04 Smooth Criminal.mp3
+Time: 257
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Smooth Criminal
+Album: King Of Pop [Disc 1]
+Track: 4/17
+Date: 1987
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-05 Dirty Diana.mp3
+Time: 280
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Dirty Diana
+Album: King Of Pop [Disc 1]
+Track: 5/17
+Date: 1987
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-06 Don't Stop 'Til You Get Enough.mp3
+Time: 236
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Don't Stop 'Til You Get Enough
+Album: King Of Pop [Disc 1]
+Track: 6/17
+Date: 1979
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-07 Man In The Mirror.mp3
+Time: 318
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Man In The Mirror
+Album: King Of Pop [Disc 1]
+Track: 7/17
+Date: 1987
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-08 They Don't Care About Us.mp3
+Time: 284
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: They Don't Care About Us
+Album: King Of Pop [Disc 1]
+Track: 8/17
+Date: 2008
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-09 Black Or White.mp3
+Time: 201
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Black Or White
+Album: King Of Pop [Disc 1]
+Track: 9/17
+Date: 1991
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-11 The Way You Make Me Feel.mp3
+Time: 266
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: The Way You Make Me Feel
+Album: King Of Pop [Disc 1]
+Track: 11/17
+Date: 1987
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-12 Bad.mp3
+Time: 246
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Bad
+Album: King Of Pop [Disc 1]
+Track: 12/17
+Date: 1987
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940756
+song_end
+song_begin: 1-13 Earth Song.mp3
+Time: 302
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Earth Song
+Album: King Of Pop [Disc 1]
+Track: 13/17
+Date: 1995
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+song_begin: 1-13 Give In To Me.mp3
+Time: 329
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Give In To Me
+Album: King Of Pop [Disc 1]
+Track: 13/17
+Date: 1991
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+song_begin: 1-14 Ben.mp3
+Time: 166
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Ben
+Album: King Of Pop [Disc 1]
+Track: 14/17
+Date: 1972
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+song_begin: 1-14 Jam.mp3
+Time: 339
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Jam
+Album: King Of Pop [Disc 1]
+Track: 14/17
+Date: 2008
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+song_begin: 1-15 Heal The World.mp3
+Time: 384
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Heal The World
+Album: King Of Pop [Disc 1]
+Track: 15/17
+Date: 1991
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+song_begin: 1-17 Rock With You.mp3
+Time: 203
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: Rock With You
+Album: King Of Pop [Disc 1]
+Track: 17/17
+Date: 1979
+Genre: Other Pop
+Disc: 1/2
+mtime: 1267940758
+song_end
+end: iTunes/iTunes Media/Music/Michael Jackson/King Of Pop [Disc 1]
+end: iTunes/iTunes Media/Music/Michael Jackson
+directory: Mr. Children
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/Mr. Children
+directory: Hanabi
+mtime: 1282353774
+begin: iTunes/iTunes Media/Music/Mr. Children/Hanabi
+song_begin: 01 Hanabi.mp3
+Time: 342
+Artist: Mr. Children
+Title: Hanabi
+Album: Hanabi
+Track: 1
+Date: 2008
+Genre: JPop
+mtime: 1267941784
+song_end
+end: iTunes/iTunes Media/Music/Mr. Children/Hanabi
+directory: Shinkai
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/Mr. Children/Shinkai
+song_begin: 04 Arifureta Love Story ~Danjo Mondai wa Itsumo Mendou da~.MP3
+Time: 268
+Artist: Mr. Children
+Title: Arifureta Love Story ~Danjo Mondai wa Itsumo Mendou da~
+Album: Shinkai
+Track: 4
+Date: 1996
+Genre: #aznmp3 @ irc.rizon.net
+mtime: 1261628778
+song_end
+end: iTunes/iTunes Media/Music/Mr. Children/Shinkai
+end: iTunes/iTunes Media/Music/Mr. Children
+directory: ORION
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/ORION
+directory: Unknown Album
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/ORION/Unknown Album
+song_begin: ORION.mp3
+Time: 292
+Artist: ORION
+Title: ORION
+Genre: Other
+mtime: 1267940520
+song_end
+end: iTunes/iTunes Media/Music/ORION/Unknown Album
+end: iTunes/iTunes Media/Music/ORION
+directory: Obliveon
+mtime: 1282285353
+begin: iTunes/iTunes Media/Music/Obliveon
+directory: Nemesis
+mtime: 1282285669
+begin: iTunes/iTunes Media/Music/Obliveon/Nemesis
+song_begin: 01 Nemesis.mp3
+Time: 342
+Artist: Obliveon
+Title: Nemesis
+Album: Nemesis
+Track: 1/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286132
+song_end
+song_begin: 02 The Thinker's Lair.mp3
+Time: 273
+Artist: Obliveon
+Title: The Thinker's Lair
+Album: Nemesis
+Track: 2/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286132
+song_end
+song_begin: 03 Obscure Mindways.mp3
+Time: 299
+Artist: Obliveon
+Title: Obscure Mindways
+Album: Nemesis
+Track: 3/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286132
+song_end
+song_begin: 04 Dynamo.mp3
+Time: 320
+Artist: Obliveon
+Title: Dynamo
+Album: Nemesis
+Track: 4/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286132
+song_end
+song_begin: 05 Frosted Avowals.mp3
+Time: 332
+Artist: Obliveon
+Title: Frosted Avowals
+Album: Nemesis
+Track: 5/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286133
+song_end
+song_begin: 06 Factory Of Delusions.mp3
+Time: 351
+Artist: Obliveon
+Title: Factory Of Delusions
+Album: Nemesis
+Track: 6/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286133
+song_end
+song_begin: 07 Estranging Abduction.mp3
+Time: 284
+Artist: Obliveon
+Title: Estranging Abduction
+Album: Nemesis
+Track: 7/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286134
+song_end
+song_begin: 08 Strays Of The Soul.mp3
+Time: 365
+Artist: Obliveon
+Title: Strays Of The Soul
+Album: Nemesis
+Track: 8/8
+Date: 1993
+Genre: (19)
+Disc: 1/1
+mtime: 1282286134
+song_end
+end: iTunes/iTunes Media/Music/Obliveon/Nemesis
+end: iTunes/iTunes Media/Music/Obliveon
+directory: REIRA starring YUNA ITO
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/REIRA starring YUNA ITO
+directory: ENDLESS STORY
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/REIRA starring YUNA ITO/ENDLESS STORY
+song_begin: 01 ENDLESS STORY.mp3
+Time: 305
+Artist: REIRA starring YUNA ITO
+Title: ENDLESS STORY
+Album: ENDLESS STORY
+Track: 1
+Date: 2005
+Genre: Other
+mtime: 1267941938
+song_end
+end: iTunes/iTunes Media/Music/REIRA starring YUNA ITO/ENDLESS STORY
+end: iTunes/iTunes Media/Music/REIRA starring YUNA ITO
+directory: SEAMO
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/SEAMO
+directory: Cry Baby
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/SEAMO/Cry Baby
+song_begin: 01 Cry Baby.mp3
+Time: 315
+Artist: SEAMO
+Title: Cry Baby
+Album: Cry Baby
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267941988
+song_end
+end: iTunes/iTunes Media/Music/SEAMO/Cry Baby
+end: iTunes/iTunes Media/Music/SEAMO
+directory: SMAP
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/SMAP
+directory: Sekai ni hitotsu dake no hana
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/SMAP/Sekai ni hitotsu dake no hana
+song_begin: 01 Sekai ni hitotsu dake no hana.mp3
+Time: 281
+Artist: SMAP
+Title: Sekai ni hitotsu dake no hana
+Album: Sekai ni hitotsu dake no hana
+Track: 1
+Date: 2003
+Genre: J-Music
+mtime: 1267766196
+song_end
+end: iTunes/iTunes Media/Music/SMAP/Sekai ni hitotsu dake no hana
+directory: lionheart
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/SMAP/lionheart
+song_begin: 01 lionheart.mp3
+Time: 266
+Artist: SMAP
+Title: lionheart
+Album: lionheart
+Track: 01
+Date: 2002
+Genre: Rock
+mtime: 1273124710
+song_end
+end: iTunes/iTunes Media/Music/SMAP/lionheart
+end: iTunes/iTunes Media/Music/SMAP
+directory: The IT Crowd
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/The IT Crowd
+directory: OST
+mtime: 1282353779
+begin: iTunes/iTunes Media/Music/The IT Crowd/OST
+song_begin: 01 The IT Crowd Theme.mp3
+Time: 33
+Artist: The IT Crowd
+Title: The IT Crowd Theme
+Album: OST
+Track: 1
+mtime: 1248423794
+song_end
+end: iTunes/iTunes Media/Music/The IT Crowd/OST
+end: iTunes/iTunes Media/Music/The IT Crowd
+directory: Utada Hikaru
+mtime: 1282353780
+begin: iTunes/iTunes Media/Music/Utada Hikaru
+directory: Prisoner Of Love
+mtime: 1282353780
+begin: iTunes/iTunes Media/Music/Utada Hikaru/Prisoner Of Love
+song_begin: 01 Prisoner Of Love.mp3
+Time: 288
+Artist: 宇多田ヒカル
+AlbumArtist: Utada Hikaru
+Title: Prisoner Of Love
+Album: Prisoner Of Love
+Track: 1
+Date: 2008
+Genre: JPop
+mtime: 1267942078
+song_end
+end: iTunes/iTunes Media/Music/Utada Hikaru/Prisoner Of Love
+end: iTunes/iTunes Media/Music/Utada Hikaru
+directory: ∞X∞L∞}∞X∞C∞b∞`
+mtime: 1282353737
+begin: iTunes/iTunes Media/Music/∞X∞L∞}∞X∞C∞b∞`
+directory: Yuukaze Blend
+mtime: 1282353737
+begin: iTunes/iTunes Media/Music/∞X∞L∞}∞X∞C∞b∞`/Yuukaze Blend
+song_begin: 01 Ai.mp3
+Time: 239
+Artist: sukima switch
+AlbumArtist: XL}XCb`
+Title: Ai
+Album: Yuukaze Blend
+Track: 1
+Date: 2006
+Genre: #aznmp3 @ irc.rizon.net
+mtime: 1216964574
+song_end
+end: iTunes/iTunes Media/Music/∞X∞L∞}∞X∞C∞b∞`/Yuukaze Blend
+end: iTunes/iTunes Media/Music/∞X∞L∞}∞X∞C∞b∞`
+directory: いきものがかり
+mtime: 1282353780
+begin: iTunes/iTunes Media/Music/いきものがかり
+directory: 桜咲く街物語
+mtime: 1282353784
+begin: iTunes/iTunes Media/Music/いきものがかり/桜咲く街物語
+song_begin: 01 SAKURA.mp3
+Time: 354
+Artist: いきものがかり
+Title: SAKURA
+Album: 桜咲く街物語
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267940790
+song_end
+song_begin: 03 HANABI.mp3
+Time: 267
+Artist: いきものがかり
+Title: HANABI
+Album: 桜咲く街物語
+Track: 3
+Date: 2007
+Genre: (146)JPop
+mtime: 1267940790
+song_end
+song_begin: 05 コイスルオトメ.mp3
+Time: 316
+Artist: いきものがかり
+AlbumArtist: いきものがかり
+Title: コイスルオトメ
+Album: 桜咲く街物語
+Track: 5/14
+Date: 2007
+Genre: Japanese Pop & Rock
+Disc: 1/1
+mtime: 1267940792
+song_end
+end: iTunes/iTunes Media/Music/いきものがかり/桜咲く街物語
+end: iTunes/iTunes Media/Music/いきものがかり
+directory: アンジェラ・アキ
+mtime: 1282353780
+begin: iTunes/iTunes Media/Music/アンジェラ・アキ
+directory: サクラ色
+mtime: 1282353780
+begin: iTunes/iTunes Media/Music/アンジェラ・アキ/サクラ色
+song_begin: 01 サクラ色.mp3
+Time: 320
+Artist: アンジェラ・アキ
+Title: サクラ色
+Album: サクラ色
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267942128
+song_end
+end: iTunes/iTunes Media/Music/アンジェラ・アキ/サクラ色
+end: iTunes/iTunes Media/Music/アンジェラ・アキ
+directory: ｼｬﾌﾙ
+mtime: 1282353786
+begin: iTunes/iTunes Media/Music/ｼｬﾌﾙ
+directory: 12月の有線チャート
+mtime: 1282353786
+begin: iTunes/iTunes Media/Music/ｼｬﾌﾙ/12月の有線チャート
+song_begin: 12 Beautiful days.mp3
+Time: 293
+Artist: ｼｬﾌﾙ
+AlbumArtist: ｼｬﾌﾙ
+Title: Beautiful days
+Album: 12月の有線チャート
+Track: 12/16
+Genre: Japanese Pop & Rock
+mtime: 1267940298
+song_end
+end: iTunes/iTunes Media/Music/ｼｬﾌﾙ/12月の有線チャート
+end: iTunes/iTunes Media/Music/ｼｬﾌﾙ
+directory: スピッツ
+mtime: 1282353784
+begin: iTunes/iTunes Media/Music/スピッツ
+directory: RECYCLE Greatest Hits of SPITZ
+mtime: 1282353784
+begin: iTunes/iTunes Media/Music/スピッツ/RECYCLE Greatest Hits of SPITZ
+song_begin: 07 チェリー.mp3
+Time: 264
+Artist: スピッツ
+AlbumArtist: スピッツ
+Title: チェリー
+Album: RECYCLE Greatest Hits of SPITZ
+Track: 7/13
+Date: 1996
+Genre: Japanese Pop & Rock
+Disc: 1/1
+mtime: 1267939436
+song_end
+end: iTunes/iTunes Media/Music/スピッツ/RECYCLE Greatest Hits of SPITZ
+end: iTunes/iTunes Media/Music/スピッツ
+directory: レミオロメン
+mtime: 1282353784
+begin: iTunes/iTunes Media/Music/レミオロメン
+directory: HORIZON
+mtime: 1282353784
+begin: iTunes/iTunes Media/Music/レミオロメン/HORIZON
+song_begin: 11 粉雪.m4a
+Time: 328
+Title: 粉雪
+Artist: レミオロメン
+Composer: 前田啓介
+Album: HORIZON
+Genre: Rock
+Track: 11
+Disc: 1
+Date: 2006
+mtime: 1267942222
+song_end
+end: iTunes/iTunes Media/Music/レミオロメン/HORIZON
+end: iTunes/iTunes Media/Music/レミオロメン
+directory: 大塚愛
+mtime: 1282353789
+begin: iTunes/iTunes Media/Music/大塚愛
+directory: Love Jam
+mtime: 1282353789
+begin: iTunes/iTunes Media/Music/大塚愛/Love Jam
+song_begin: 01 Superman.mp3
+Time: 220
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Superman
+Album: Love Jam
+Track: 01
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 02 Happy Days.mp3
+Time: 225
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Happy Days
+Album: Love Jam
+Track: 02
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 03 Strawberry Jam.mp3
+Time: 264
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Strawberry Jam
+Album: Love Jam
+Track: 03
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 04 Daisuki Dai Yo.mp3
+Time: 285
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Daisuki Dai Yo
+Album: Love Jam
+Track: 04
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 05 Sensu.mp3
+Time: 262
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Sensu
+Album: Love Jam
+Track: 05
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 06 Mousou Chop.mp3
+Time: 217
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Mousou Chop
+Album: Love Jam
+Track: 06
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 07 ポンポン.mp3
+Time: 143
+AlbumArtist: 大塚愛
+Title: ポンポン
+Album: Love Jam
+Track: 7/11
+Date: 2004
+Genre: jpop
+mtime: 1267941722
+song_end
+song_begin: 08 Futatsu Boshi Kinenbi.mp3
+Time: 249
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Futatsu Boshi Kinenbi
+Album: Love Jam
+Track: 08
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 09 Kingyo Hanabi.mp3
+Time: 274
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Kingyo Hanabi
+Album: Love Jam
+Track: 09
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 10 Kuroge Wagyuu Joushio Tanyaki 735 Yen.mp3
+Time: 262
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Kuroge Wagyuu Joushio Tanyaki 735 Yen
+Album: Love Jam
+Track: 10
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+song_begin: 11 Friends.mp3
+Time: 269
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Friends
+Album: Love Jam
+Track: 11
+Date: 2004
+Genre: jpop
+mtime: 1267941696
+song_end
+end: iTunes/iTunes Media/Music/大塚愛/Love Jam
+directory: Love Punch
+mtime: 1282353794
+begin: iTunes/iTunes Media/Music/大塚愛/Love Punch
+song_begin: 01 Pretty Voice.mp3
+Time: 211
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Pretty Voice
+Album: Love Punch
+Track: 01
+Date: 2004
+Genre: Jpop
+mtime: 1267942418
+song_end
+song_begin: 02 Momo No Hanabira.mp3
+Time: 294
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Momo No Hanabira
+Album: Love Punch
+Track: 02
+Date: 2004
+Genre: Jpop
+mtime: 1267942418
+song_end
+song_begin: 03 Sakurenbo.mp3
+Time: 231
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Sakurenbo
+Album: Love Punch
+Track: 03
+Date: 2004
+Genre: Jpop
+mtime: 1267942418
+song_end
+song_begin: 04 Girly.mp3
+Time: 236
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Girly
+Album: Love Punch
+Track: 04
+Date: 2004
+Genre: Jpop
+mtime: 1267942420
+song_end
+song_begin: 05 Ame no Naka no Melody.mp3
+Time: 307
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Ame no Naka no Melody
+Album: Love Punch
+Track: 05
+Date: 2004
+Genre: Jpop
+mtime: 1267942420
+song_end
+song_begin: 06 Shabon Dama.mp3
+Time: 264
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Shabon Dama
+Album: Love Punch
+Track: 06
+Date: 2004
+Genre: Jpop
+mtime: 1267942420
+song_end
+song_begin: 07 Ishikawa Oosaka Yuukoujyouken.mp3
+Time: 236
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Ishikawa Oosaka Yuukoujyouken
+Album: Love Punch
+Track: 07
+Date: 2004
+Genre: Jpop
+mtime: 1267942420
+song_end
+song_begin: 08 Kataomoi Dial.mp3
+Time: 255
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Kataomoi Dial
+Album: Love Punch
+Track: 08
+Date: 2004
+Genre: Jpop
+mtime: 1267942420
+song_end
+song_begin: 09 Honey.mp3
+Time: 134
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Honey
+Album: Love Punch
+Track: 09
+Date: 2004
+Genre: Jpop
+mtime: 1267942422
+song_end
+song_begin: 10 Amaenbo 2.mp3
+Time: 257
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Amaenbo
+Album: Love Punch
+Track: 10
+Date: 2004
+Genre: Jpop
+mtime: 1267942422
+song_end
+song_begin: 10 Amaenbo.mp3
+Time: 257
+Artist: Ai Otsuka
+AlbumArtist: 大塚愛
+Title: Amaenbo
+Album: Love Punch
+Track: 10
+Date: 2004
+Genre: jpop
+Composer: 大塚愛
+mtime: 1267942422
+song_end
+song_begin: 11 Always Together 2.mp3
+Time: 304
+Artist: 大塚愛
+AlbumArtist: 大塚愛
+Title: Always Together
+Album: Love Punch
+Track: 11
+Date: 2004
+Genre: Jpop
+mtime: 1267942422
+song_end
+song_begin: 11 Always Together.mp3
+Time: 304
+Artist: Ai Otsuka
+AlbumArtist: 大塚愛
+Title: Always Together
+Album: Love Punch
+Track: 11
+Date: 2004
+Genre: jpop
+Composer: 大塚愛
+mtime: 1267942422
+song_end
+end: iTunes/iTunes Media/Music/大塚愛/Love Punch
+end: iTunes/iTunes Media/Music/大塚愛
+directory: 宇多田ヒカル
+mtime: 1282353795
+begin: iTunes/iTunes Media/Music/宇多田ヒカル
+directory: Beautiful World_Kiss&Cry
+mtime: 1282353794
+begin: iTunes/iTunes Media/Music/宇多田ヒカル/Beautiful World_Kiss&Cry
+song_begin: 01 Beautiful World.mp3
+Time: 315
+Artist: 宇多田ヒカル
+Title: Beautiful World
+Album: Beautiful World/Kiss&Cry
+Track: 1
+Date: 2007
+Genre: JPop
+Genre: JPop
+mtime: 1211954454
+song_end
+end: iTunes/iTunes Media/Music/宇多田ヒカル/Beautiful World_Kiss&Cry
+directory: Flavor of Life
+mtime: 1282353795
+begin: iTunes/iTunes Media/Music/宇多田ヒカル/Flavor of Life
+song_begin: 01 Flavor Of Life.mp3
+Time: 290
+Artist: 宇多田ヒカル
+Title: Flavor Of Life
+Album: Flavor of Life
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267942700
+song_end
+end: iTunes/iTunes Media/Music/宇多田ヒカル/Flavor of Life
+end: iTunes/iTunes Media/Music/宇多田ヒカル
+directory: 嵐
+mtime: 1282353796
+begin: iTunes/iTunes Media/Music/嵐
+directory: One Love
+mtime: 1282353799
+begin: iTunes/iTunes Media/Music/嵐/One Love
+song_begin: 01 One Love.mp3
+Time: 289
+Artist: 嵐
+AlbumArtist: 嵐
+Title: One Love
+Album: One Love
+Track: 1
+Date: 2008
+Genre: JPop
+mtime: 1214526784
+song_end
+song_begin: 02 How to fly 1.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+song_begin: 02 How to fly 2.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+song_begin: 02 How to fly 3.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+song_begin: 02 How to fly 4.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+song_begin: 02 How to fly 5.mp3
+Time: 231
+Artist: =Arashi
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1273365074
+song_end
+song_begin: 02 How to fly 7.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+song_begin: 02 How to fly.mp3
+Time: 231
+Artist: 嵐
+AlbumArtist: 嵐
+Title: How to fly
+Album: One Love
+Track: 2
+Date: 2008
+Genre: JPop
+mtime: 1214526808
+song_end
+end: iTunes/iTunes Media/Music/嵐/One Love
+end: iTunes/iTunes Media/Music/嵐
+directory: 平井堅
+mtime: 1282353799
+begin: iTunes/iTunes Media/Music/平井堅
+directory: gaining through losing
+mtime: 1282353799
+begin: iTunes/iTunes Media/Music/平井堅/gaining through losing
+song_begin: 02 KISS OF LIFE.mp3
+Time: 272
+Artist: 平井堅
+AlbumArtist: 平井堅
+Title: KISS OF LIFE
+Album: gaining through losing
+Track: 2/12
+Date: 2001
+Genre: Japanese Pop & Rock
+Disc: 1/1
+mtime: 1267938896
+song_end
+end: iTunes/iTunes Media/Music/平井堅/gaining through losing
+end: iTunes/iTunes Media/Music/平井堅
+directory: 新垣結衣
+mtime: 1282353799
+begin: iTunes/iTunes Media/Music/新垣結衣
+directory: そら
+mtime: 1282353799
+begin: iTunes/iTunes Media/Music/新垣結衣/そら
+song_begin: 01 heavenly days.mp3
+Time: 275
+Artist: 新垣結衣
+Title: heavenly days
+Album: そら
+Track: 1
+Date: 2007
+Genre: (146)JPop
+mtime: 1267943026
+song_end
+end: iTunes/iTunes Media/Music/新垣結衣/そら
+end: iTunes/iTunes Media/Music/新垣結衣
+directory: 絢香
+mtime: 1282353800
+begin: iTunes/iTunes Media/Music/絢香
+directory: ayaka's History 2006-2009
+mtime: 1282353802
+begin: iTunes/iTunes Media/Music/絢香/ayaka's History 2006-2009
+song_begin: 01 I believe.mp3
+Time: 301
+Artist: 絢香
+AlbumArtist: 絢香
+Title: I believe
+Album: ayaka's History 2006-2009
+Track: 1/16
+Date: 2009
+Genre: J-Pop
+Disc: 1/1
+mtime: 1249088184
+song_end
+song_begin: 03 Real voice.mp3
+Time: 243
+Artist: 絢香
+AlbumArtist: 絢香
+Title: Real voice
+Album: ayaka's History 2006-2009
+Track: 3/16
+Date: 2009
+Genre: J-Pop
+Disc: 1/1
+mtime: 1249088188
+song_end
+song_begin: 05 WINDING ROAD.mp3
+Time: 301
+Artist: 絢香×コブクロ
+AlbumArtist: 絢香
+Title: WINDING ROAD
+Album: ayaka's History 2006-2009
+Track: 5/16
+Date: 2009
+Genre: J-Pop
+Disc: 1/1
+mtime: 1249088198
+song_end
+end: iTunes/iTunes Media/Music/絢香/ayaka's History 2006-2009
+end: iTunes/iTunes Media/Music/絢香
+end: iTunes/iTunes Media/Music
+end: iTunes/iTunes Media
+end: iTunes
+song_begin: 11 Are You Sagittarius (meddled with version).mp3
+Time: 62
+mtime: 1248975610
+song_end
+song_begin: Anacrusis Drum Samples.mp3
+Time: 192
+Genre: Other
+mtime: 1248976439
+song_end
+song_begin: Terrified (2009 Demo)-smpl.mp3
+Time: 221
+Genre: Other
+mtime: 1248976463
+song_end
+song_begin: Wrong (2009 Demo)-smpl.mp3
+Time: 167
+Genre: Other
+mtime: 1248976472
+song_end
+song_begin: The IT Crowd - The IT Crowd Theme.mp3
+Time: 33
+Artist: The IT Crowd
+Title: The IT Crowd Theme
+Album: OST
+Track: 1
+mtime: 1248423794
+song_end
+song_begin: Fighting Evil (2009).mp3
+Time: 251
+Artist: ANACRUSIS
+AlbumArtist: ANACRUSIS
+Title: Fighting Evil (2009)
+Album: Suffering Hour Revisited (demo)
+Date: 2009
+Genre: Metal
+mtime: 1240185981
+song_end
+song_begin: ArashiToBeFree.mp3
+Time: 225
+Artist: Arashi
+Title: To Be Free
+Album: To Be Free
+Track: 1
+Date: 2010
+Genre: Jpop
+mtime: 1279090436
+song_end
+song_begin: Are You Sagittarius 1.mp3
+Time: 192
+Artist: Cephalopod Creator Myth
+Title: Are You Sagittarius
+Album: Trifecta
+Date: 2009
+Genre: Rock
+mtime: 1248852747
+song_end
+song_begin: 11 Are You Sagittarius-snippet.mp3
+Time: 62
+Artist: Cephalopod Creator Myth
+Title: Are You Sagittarius - Snippet
+Album: Trifecta
+Track: 11
+Date: 2009
+Genre: Utter Crap
+mtime: 1248975723
+song_end

@@ -1,0 +1,247 @@
+SESSION STARTED at:  2009-09-20 16:35:39 HST -1000
+   Program Version:  NcFTP 3.1.9/190 Mar 24 2005, 07:18 PM
+   Library Version:  LibNcFTP 3.1.9 (March 19, 2005)
+        Process ID:  18183
+          Platform:  macosx10.6.1
+          Hostname:  Silverbox.local  (rc=2)
+          Terminal:  xterm-color
+16:35:39  Fw: firewall.local  Type: 0  User: ehowell  Pass: ********  Port: 21
+16:35:39  FwExceptions: .local,localhost,localdomain
+16:35:39  Resolving ftp.gfdl.noaa.gov...
+16:35:39  Connecting to 140.208.31.106...
+16:35:39  LibNcFTP 3.1.9 (March 19, 2005) compiled for macosx10.6.1
+16:35:39  Uname: Darwin|Silverbox.local|10.0.0|Darwin Kernel Version 10.0.0: Fri Jul 31 22:47:34 PDT 2009; root:xnu-1456.1.25~1/RELEASE_I386|i386
+16:35:39  Sysinfo: Mac OS X 10.6.1 (Build 10B504)
+16:35:39  Logging in...
+16:35:39  220: *************************************************************************
+16:35:39        *                               WARNING!                                *
+16:35:39        *************************************************************************
+16:35:39        * This is a United States Government computer system, which may be      *
+16:35:39        * accessed and used only for official Government business by authorized *
+16:35:39        * personnel.  Unauthorized access or use of this computer system may    *
+16:35:39        * subject violators to criminal, civil, and/or administrative action.   *
+16:35:39        *                                                                       *
+16:35:39        * All information on this computer system may be intercepted, recorded, *
+16:35:39        * read, copied, and disclosed by and to authorized personnel for        *
+16:35:39        * official purposes, including criminal investigations.  Access or use  *
+16:35:39        * of this computer system by any person, whether authorized or          *
+16:35:39        * unauthorized, constitutes consent to these terms.                     *
+16:35:39        *************************************************************************
+16:35:39        
+16:35:39       Welcome to ftp.gfdl.noaa.gov
+16:35:39  Connected to 140.208.31.106.
+16:35:39  Cmd: USER anonymous
+16:35:39  331: Anonymous login ok, send your complete email address as your password.
+16:35:39  Cmd: PASS NcFTP@
+16:35:39  Logging in...
+16:35:39  230: 
+16:35:39        *************************************************************************
+16:35:39        *                               WARNING!                                *
+16:35:39        *************************************************************************
+16:35:39        * This is a United States Government computer system, which may be      *
+16:35:39        * accessed and used only for official Government business by authorized *
+16:35:39        * personnel.  Unauthorized access or use of this computer system may    *
+16:35:39        * subject violators to criminal, civil, and/or administrative action.   *
+16:35:39        *                                                                       *
+16:35:39        * All information on this computer system may be intercepted, recorded, *
+16:35:39        * read, copied, and disclosed by and to authorized personnel for        *
+16:35:39        * official purposes, including criminal investigations.  Access or use  *
+16:35:39        * of this computer system by any person, whether authorized or          *
+16:35:39        * unauthorized, constitutes consent to these terms.                     *
+16:35:39        *************************************************************************
+16:35:39        
+16:35:39       Anonymous access granted, restrictions apply.
+16:35:39  Cmd: PWD
+16:35:40  257: "/" is current directory.
+16:35:40  Logged in to 140.208.31.106 as anonymous.
+16:35:40  Cmd: FEAT
+16:35:40  211: Features:
+16:35:40        MDTM
+16:35:40        REST STREAM
+16:35:40        SIZE
+16:35:40       End
+16:35:40  Cmd: HELP SITE
+16:35:40  214: HELP
+16:35:40        CHGRP
+16:35:40       CHMOD
+16:35:40  Logged in to ftp.gfdl.noaa.gov.
+16:35:40  Cmd: CWD pub/jpd/ESM2.1U_H4_SRES_A2
+16:35:40  250: CWD command successful
+16:35:40  Current remote directory is /pub/jpd/ESM2.1U_H4_SRES_A2.
+16:35:40  Cmd: CLNT NcFTP 3.1.9 macosx10.6.1
+16:35:40  500: CLNT not understood
+16:35:46  > ls
+
+16:35:46  Cmd: PASV
+16:35:46  227: Entering Passive Mode (140,208,31,106,145,191).
+16:35:46  Cmd: LIST
+16:35:46  150: Opening ASCII mode data connection for file list
+16:35:47  226: Transfer complete.
+16:35:47  Remote listing contents {
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:50 esm2.1_H4.1981-2000.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.1981-2000.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:50 esm2.1_H4.1981-2000.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:50 esm2.1_H4.1981-2000.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.1981-2000.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.1981-2000.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:50 esm2.1_H4.1981-2000.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.1981-2000.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:50 esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:50 esm2.1_H4.1981-2000.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:50 esm2.1_H4.1981-2000.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:50 esm2.1_H4.1981-2000.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048760 Sep 20 21:50 esm2.1_H4.1981-2000.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:50 esm2.1_H4.1981-2000.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:50 esm2.1_H4.1981-2000.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:50 esm2.1_H4.1981-2000.wt_100_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:50 esm2.1_H4.2001-2020.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087208 Sep 20 21:50 esm2.1_H4.2001-2020.fpon_fpop_150_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.2001-2020.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:50 esm2.1_H4.2001-2020.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:50 esm2.1_H4.2001-2020.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.2001-2020.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.2001-2020.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:50 esm2.1_H4.2001-2020.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.2001-2020.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:50 esm2.1_H4.2001-2020.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:50 esm2.1_H4.2001-2020.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:50 esm2.1_H4.2001-2020.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:50 esm2.1_H4.2001-2020.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:50 esm2.1_H4.2001-2020.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:50 esm2.1_H4.2001-2020.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:50 esm2.1_H4.2001-2020.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:51 esm2.1_H4.2001-2020.wt_100_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:51 esm2.1_H4.2021-2040.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087208 Sep 20 21:51 esm2.1_H4.2021-2040.fpon_fpop_150_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2021-2040.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:51 esm2.1_H4.2021-2040.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:51 esm2.1_H4.2021-2040.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2021-2040.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2021-2040.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:51 esm2.1_H4.2021-2040.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2021-2040.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:51 esm2.1_H4.2021-2040.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:51 esm2.1_H4.2021-2040.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:51 esm2.1_H4.2021-2040.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:51 esm2.1_H4.2021-2040.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2021-2040.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:51 esm2.1_H4.2021-2040.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:51 esm2.1_H4.2021-2040.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:51 esm2.1_H4.2021-2040.wt_100_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:51 esm2.1_H4.2041-2060.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087208 Sep 20 21:51 esm2.1_H4.2041-2060.fpon_fpop_150_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2041-2060.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:51 esm2.1_H4.2041-2060.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:51 esm2.1_H4.2041-2060.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2041-2060.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2041-2060.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:51 esm2.1_H4.2041-2060.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        17010260 Sep 20 21:51 esm2.1_H4.2041-2060.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:51 esm2.1_H4.2041-2060.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:51 esm2.1_H4.2041-2060.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:51 esm2.1_H4.2041-2060.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:51 esm2.1_H4.2041-2060.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:51 esm2.1_H4.2041-2060.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:51 esm2.1_H4.2041-2060.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:51 esm2.1_H4.2041-2060.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:51 esm2.1_H4.2041-2060.wt_100_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:52 esm2.1_H4.2061-2080.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087208 Sep 20 21:52 esm2.1_H4.2061-2080.fpon_fpop_150_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2061-2080.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:52 esm2.1_H4.2061-2080.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:52 esm2.1_H4.2061-2080.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2061-2080.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2061-2080.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:52 esm2.1_H4.2061-2080.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2061-2080.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:52 esm2.1_H4.2061-2080.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:52 esm2.1_H4.2061-2080.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:52 esm2.1_H4.2061-2080.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:52 esm2.1_H4.2061-2080.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2061-2080.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:52 esm2.1_H4.2061-2080.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:52 esm2.1_H4.2061-2080.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:52 esm2.1_H4.2061-2080.wt_100_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048756 Sep 20 21:52 esm2.1_H4.2081-2100.chl_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087208 Sep 20 21:52 esm2.1_H4.2081-2100.fpon_fpop_150_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2081-2100.hblt_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048360 Sep 20 21:52 esm2.1_H4.2081-2100.intpp.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048436 Sep 20 21:52 esm2.1_H4.2081-2100.mld_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2081-2100.ndi_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2081-2100.nlg_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:52 esm2.1_H4.2081-2100.no3_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2081-2100.nsm_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:52 esm2.1_H4.2081-2100.o2_150_500_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:52 esm2.1_H4.2081-2100.sfc_fed_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048460 Sep 20 21:52 esm2.1_H4.2081-2100.sfc_irr_mem_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048448 Sep 20 21:52 esm2.1_H4.2081-2100.sfc_irr_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048440 Sep 20 21:52 esm2.1_H4.2081-2100.sfc_no3_npac.nc
+16:35:47      -rw-r--r--   1 (?)      b        36683608 Sep 20 21:52 esm2.1_H4.2081-2100.ssh_uo_vo.nc
+16:35:47      -rw-r--r--   1 (?)      b        12283468 Sep 20 21:52 esm2.1_H4.2081-2100.sst.nc
+16:35:47      -rw-r--r--   1 (?)      b        12048620 Sep 20 21:53 esm2.1_H4.2081-2100.wt_100_npac.nc
+16:35:47  }
+16:35:47  esm2.1_H4.1981-2000.chl_npac.nc                    esm2.1_H4.2041-2060.fpon_fpop_150_npac.nc
+16:35:47  esm2.1_H4.1981-2000.hblt_npac.nc                   esm2.1_H4.2041-2060.hblt_npac.nc
+16:35:47  esm2.1_H4.1981-2000.intpp.nc                       esm2.1_H4.2041-2060.intpp.nc
+16:35:47  esm2.1_H4.1981-2000.mld_npac.nc                    esm2.1_H4.2041-2060.mld_npac.nc
+16:35:47  esm2.1_H4.1981-2000.ndi_npac.nc                    esm2.1_H4.2041-2060.ndi_npac.nc
+16:35:47  esm2.1_H4.1981-2000.nlg_npac.nc                    esm2.1_H4.2041-2060.nlg_npac.nc
+16:35:47  esm2.1_H4.1981-2000.no3_150_500_npac.nc            esm2.1_H4.2041-2060.no3_150_500_npac.nc
+16:35:47  esm2.1_H4.1981-2000.nsm_npac.nc                    esm2.1_H4.2041-2060.nsm_npac.nc
+16:35:47  esm2.1_H4.1981-2000.o2_150_500_npac.nc             esm2.1_H4.2041-2060.o2_150_500_npac.nc
+16:35:47  esm2.1_H4.1981-2000.sfc_fed_npac.nc                esm2.1_H4.2041-2060.sfc_fed_npac.nc
+16:35:47  esm2.1_H4.1981-2000.sfc_irr_mem_npac.nc            esm2.1_H4.2041-2060.sfc_irr_mem_npac.nc
+16:35:47  esm2.1_H4.1981-2000.sfc_irr_npac.nc                esm2.1_H4.2041-2060.sfc_irr_npac.nc
+16:35:47  esm2.1_H4.1981-2000.sfc_no3_npac.nc                esm2.1_H4.2041-2060.sfc_no3_npac.nc
+16:35:47  esm2.1_H4.1981-2000.ssh_uo_vo.nc                   esm2.1_H4.2041-2060.ssh_uo_vo.nc
+16:35:47  esm2.1_H4.1981-2000.sst.nc                         esm2.1_H4.2041-2060.sst.nc
+16:35:47  esm2.1_H4.1981-2000.wt_100_npac.nc                 esm2.1_H4.2041-2060.wt_100_npac.nc
+16:35:47  esm2.1_H4.2001-2020.chl_npac.nc                    esm2.1_H4.2061-2080.chl_npac.nc
+16:35:47  esm2.1_H4.2001-2020.fpon_fpop_150_npac.nc          esm2.1_H4.2061-2080.fpon_fpop_150_npac.nc
+16:35:47  esm2.1_H4.2001-2020.hblt_npac.nc                   esm2.1_H4.2061-2080.hblt_npac.nc
+16:35:47  esm2.1_H4.2001-2020.intpp.nc                       esm2.1_H4.2061-2080.intpp.nc
+16:35:47  esm2.1_H4.2001-2020.mld_npac.nc                    esm2.1_H4.2061-2080.mld_npac.nc
+16:35:47  esm2.1_H4.2001-2020.ndi_npac.nc                    esm2.1_H4.2061-2080.ndi_npac.nc
+16:35:47  esm2.1_H4.2001-2020.nlg_npac.nc                    esm2.1_H4.2061-2080.nlg_npac.nc
+16:35:47  esm2.1_H4.2001-2020.no3_150_500_npac.nc            esm2.1_H4.2061-2080.no3_150_500_npac.nc
+16:35:47  esm2.1_H4.2001-2020.nsm_npac.nc                    esm2.1_H4.2061-2080.nsm_npac.nc
+16:35:47  esm2.1_H4.2001-2020.o2_150_500_npac.nc             esm2.1_H4.2061-2080.o2_150_500_npac.nc
+16:35:47  esm2.1_H4.2001-2020.sfc_fed_npac.nc                esm2.1_H4.2061-2080.sfc_fed_npac.nc
+16:35:47  esm2.1_H4.2001-2020.sfc_irr_mem_npac.nc            esm2.1_H4.2061-2080.sfc_irr_mem_npac.nc
+16:35:47  esm2.1_H4.2001-2020.sfc_irr_npac.nc                esm2.1_H4.2061-2080.sfc_irr_npac.nc
+16:35:47  esm2.1_H4.2001-2020.sfc_no3_npac.nc                esm2.1_H4.2061-2080.sfc_no3_npac.nc
+16:35:47  esm2.1_H4.2001-2020.ssh_uo_vo.nc                   esm2.1_H4.2061-2080.ssh_uo_vo.nc
+16:35:47  esm2.1_H4.2001-2020.sst.nc                         esm2.1_H4.2061-2080.sst.nc
+16:35:47  esm2.1_H4.2001-2020.wt_100_npac.nc                 esm2.1_H4.2061-2080.wt_100_npac.nc
+16:35:47  esm2.1_H4.2021-2040.chl_npac.nc                    esm2.1_H4.2081-2100.chl_npac.nc
+16:35:47  esm2.1_H4.2021-2040.fpon_fpop_150_npac.nc          esm2.1_H4.2081-2100.fpon_fpop_150_npac.nc
+16:35:47  esm2.1_H4.2021-2040.hblt_npac.nc                   esm2.1_H4.2081-2100.hblt_npac.nc
+16:35:47  esm2.1_H4.2021-2040.intpp.nc                       esm2.1_H4.2081-2100.intpp.nc
+16:35:47  esm2.1_H4.2021-2040.mld_npac.nc                    esm2.1_H4.2081-2100.mld_npac.nc
+16:35:47  esm2.1_H4.2021-2040.ndi_npac.nc                    esm2.1_H4.2081-2100.ndi_npac.nc
+16:35:47  esm2.1_H4.2021-2040.nlg_npac.nc                    esm2.1_H4.2081-2100.nlg_npac.nc
+16:35:47  esm2.1_H4.2021-2040.no3_150_500_npac.nc            esm2.1_H4.2081-2100.no3_150_500_npac.nc
+16:35:47  esm2.1_H4.2021-2040.nsm_npac.nc                    esm2.1_H4.2081-2100.nsm_npac.nc
+16:35:47  esm2.1_H4.2021-2040.o2_150_500_npac.nc             esm2.1_H4.2081-2100.o2_150_500_npac.nc
+16:35:47  esm2.1_H4.2021-2040.sfc_fed_npac.nc                esm2.1_H4.2081-2100.sfc_fed_npac.nc
+16:35:47  esm2.1_H4.2021-2040.sfc_irr_mem_npac.nc            esm2.1_H4.2081-2100.sfc_irr_mem_npac.nc
+16:35:47  esm2.1_H4.2021-2040.sfc_irr_npac.nc                esm2.1_H4.2081-2100.sfc_irr_npac.nc
+16:35:47  esm2.1_H4.2021-2040.sfc_no3_npac.nc                esm2.1_H4.2081-2100.sfc_no3_npac.nc
+16:35:47  esm2.1_H4.2021-2040.ssh_uo_vo.nc                   esm2.1_H4.2081-2100.ssh_uo_vo.nc
+16:35:47  esm2.1_H4.2021-2040.sst.nc                         esm2.1_H4.2081-2100.sst.nc
+16:35:47  esm2.1_H4.2021-2040.wt_100_npac.nc                 esm2.1_H4.2081-2100.wt_100_npac.nc
+16:35:47  esm2.1_H4.2041-2060.chl_npac.nc
+16:36:00  > get esm2.1_H4.1981-2000.o2_150_500_npac.nc
+
+16:36:00  Cmd: TYPE I
+16:36:00  200: Type set to I
+16:36:00  Cmd: MLST esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:36:00  500: MLST not understood
+16:36:00  Cmd: SIZE esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:36:01  213: 24087492
+16:36:01  Cmd: MDTM esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:36:01  213: 20090920215016
+16:36:01  Cmd: PASV
+16:36:01  227: Entering Passive Mode (140,208,31,106,145,192).
+16:36:01  Cmd: RETR esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:36:01  150: Opening BINARY mode data connection for esm2.1_H4.1981-2000.o2_150_500_npac.nc (24087492 bytes)

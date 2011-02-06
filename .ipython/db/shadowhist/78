@@ -1,0 +1,14 @@
+(dp1
+Vcruise = junk[10:29]
+p2
+I109
+sVbtlfile = 'CTD/Processed/' + str(cruise) + '_' + sprintf('%02d',stano) + 'c.btl'
+p3
+I378
+sVlon1
+p4
+I710
+sVimport glob
+p5
+I429
+s.

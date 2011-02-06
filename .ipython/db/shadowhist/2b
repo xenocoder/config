@@ -1,0 +1,14 @@
+(dp1
+Voutfile.write('%s; %s; %s; %6.2f; %5.2f; 500; %s; %s; %s; %s; %s\u005cn'%(cruise, station, outtime, longitude, latitude, press, temp0, sal0, oxy0, fluor, v4))
+p2
+I149
+sVtestline = data[0]
+p3
+I655
+sVprint a[1]
+p4
+I248
+sVline = data[0]
+p5
+I648
+s.

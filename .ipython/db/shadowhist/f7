@@ -1,0 +1,14 @@
+(dp1
+Vd[data2[0]] = data2[11:]
+p2
+I396
+sVstations=[]
+p3
+I203
+sVdataout.append(data2[11:13])
+p4
+I365
+sVjunk = temp.split()
+p5
+I32
+s.

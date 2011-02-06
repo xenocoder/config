@@ -1,0 +1,14 @@
+(dp1
+Vprint unicodedata.name(u)
+p2
+I291
+sVfaketime = faketime.rstrip()
+p3
+I83
+sVa[1]
+p4
+I256
+sVbtlfile = 'CTD/Processed/' + str(cruise) + '_' + printf('%02d',stano) + 'c.btl'
+p5
+I379
+s.

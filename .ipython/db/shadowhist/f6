@@ -1,0 +1,14 @@
+(dp1
+Vbook.cell_value(rowx=29, colx=3)
+p2
+I214
+sVdata=csv.reader(open(infile, 'U'),delimiter=',')
+p3
+I762
+sVsheet.cell_value(rowx=3, colx=1)
+p4
+I260
+sVbottle
+p5
+I264
+s.

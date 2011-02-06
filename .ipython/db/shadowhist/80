@@ -1,0 +1,17 @@
+(dp1
+Vif (sheets[0] == 'Sheet2'):
+p2
+I169
+sVd[data2[0]] = data2
+p3
+I395
+sVfor row in c:
+p4
+I535
+sVdef proclat(lat, latcode):
+p5
+I699
+sVc.execute("select distinct(eventid) from turtles where lonmean>=170&lonmean<=235&latmean>=28")
+p6
+I631
+s.

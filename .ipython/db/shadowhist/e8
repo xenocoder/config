@@ -1,0 +1,26 @@
+(dp1
+Voutfile.write('%s; %s; %s; %6.2f; %5.2f; 500; %s; %s; %s; %s; %s\u005cn'%(cruise, station, outtime, longitude, latitude, press, temp, sal, oxy, fluor, v4))
+p2
+I148
+sVrange(0,10)
+p3
+I349
+sVfor line in csv.reader(open("EcoSimTrialRun.csv").readlines()[1:]):
+p4
+I16
+sVoutfile.write('Cruise;  Station Type;    YYYY-MM-DD hh:mm;    Longitude [degrees_west];    Latitude [degrees_north];    Bot. Depth [m];  Pressure [decibar];  TempP90 [C];   Salinity [psu];  Oxygen [ml L^-1];  Fluor [mg Chl a m^-3]; Voltage4 [volts]\u005cn')
+p5
+I136
+sVprint a[0]
+p6
+I600
+sVline = data[1]
+p7
+I729
+sVdataout[1][0]
+p8
+I374
+sVprint sh.row_values(0)
+p9
+I512
+s.

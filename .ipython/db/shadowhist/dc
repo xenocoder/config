@@ -1,0 +1,22 @@
+(dp1
+V]
+I185
+sVcd AlbumCovers/
+p2
+I440
+sVc.execute("select indexid from turtles distinct")
+p3
+I602
+sVdata
+p4
+I61
+sVfor elem in data[1]:
+p5
+I24
+sVx=np.arange(0,6,0.01)
+p6
+I778
+sVstr(t).split
+p7
+I230
+s.

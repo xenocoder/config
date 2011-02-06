@@ -1,0 +1,14 @@
+(dp1
+Vdata[237:256:2][8]
+p2
+I358
+sVyear = int(s[1][6:8]) + 2000
+p3
+I680
+sVif (sheets[0][0:3]=='Bla':
+p4
+I189
+sVimport tkFileDialog
+p5
+I35
+s.

@@ -1,0 +1,20 @@
+(dp1
+Vcount-1
+p2
+I42
+sVwb.sheet_names()
+p3
+I160
+sVimport matplotlib
+p4
+I770
+sVpath = '/Users/ehowell/Dropbox/2010_09_LeatherWatch'
+p5
+I486
+sVtemp = book.sheet_names()
+p6
+I207
+sVdepth = int(sheet.cell_value(rowx=i,colx=1))
+p7
+I319
+s.

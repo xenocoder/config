@@ -1,0 +1,17 @@
+(dp1
+Vjunk = header[9]
+p2
+I90
+sVls /Volumes/FATVERB/Media/mp3/AC_DC/For Those About To Rock We Sal
+p3
+I435
+sVos.listdir(path)
+p4
+I490
+sVfile.replace(" ","_")
+p5
+I448
+sVdata=csv.reader(open(infile, 'r'),lineterminator='\u005cr')
+p6
+I759
+s.

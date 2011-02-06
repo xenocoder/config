@@ -1,0 +1,11 @@
+(dp1
+Vconn = sqlite3.connect('temp.sql')
+p2
+I525
+sVRa = float(sheet.cell_value(rowx=i,colx=8))
+p3
+I270
+sVd = {}
+p4
+I390
+s.

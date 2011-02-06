@@ -1,0 +1,11 @@
+(dp1
+Vc.execute('''delete table turtles''')
+p2
+I552
+sVrange_a = str(sheet.cell_value(rowx=i,colx=7))
+p3
+I269
+sV".encode('utf-8')
+p4
+I298
+s.

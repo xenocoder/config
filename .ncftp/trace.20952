@@ -1,0 +1,115 @@
+SESSION STARTED at:  2009-09-20 16:52:49 HST -1000
+   Program Version:  NcFTP 3.1.9/190 Mar 24 2005, 07:18 PM
+   Library Version:  LibNcFTP 3.1.9 (March 19, 2005)
+        Process ID:  20952
+          Platform:  macosx10.6.1
+          Hostname:  Silverbox.local  (rc=2)
+          Terminal:  xterm-color
+16:52:49  Fw: firewall.local  Type: 0  User: ehowell  Pass: ********  Port: 21
+16:52:49  FwExceptions: .local,localhost,localdomain
+16:52:49  Resolving ftp.gfdl.noaa.gov...
+16:52:49  Connecting to 140.208.31.106...
+16:52:49  LibNcFTP 3.1.9 (March 19, 2005) compiled for macosx10.6.1
+16:52:49  Uname: Darwin|Silverbox.local|10.0.0|Darwin Kernel Version 10.0.0: Fri Jul 31 22:47:34 PDT 2009; root:xnu-1456.1.25~1/RELEASE_I386|i386
+16:52:49  Sysinfo: Mac OS X 10.6.1 (Build 10B504)
+16:52:49  Logging in...
+16:52:49  220: *************************************************************************
+16:52:49        *                               WARNING!                                *
+16:52:49        *************************************************************************
+16:52:49        * This is a United States Government computer system, which may be      *
+16:52:49        * accessed and used only for official Government business by authorized *
+16:52:49        * personnel.  Unauthorized access or use of this computer system may    *
+16:52:49        * subject violators to criminal, civil, and/or administrative action.   *
+16:52:49        *                                                                       *
+16:52:49        * All information on this computer system may be intercepted, recorded, *
+16:52:49        * read, copied, and disclosed by and to authorized personnel for        *
+16:52:49        * official purposes, including criminal investigations.  Access or use  *
+16:52:49        * of this computer system by any person, whether authorized or          *
+16:52:49        * unauthorized, constitutes consent to these terms.                     *
+16:52:49        *************************************************************************
+16:52:49        
+16:52:49       Welcome to ftp.gfdl.noaa.gov
+16:52:49  Connected to 140.208.31.106.
+16:52:49  Cmd: USER anonymous
+16:52:49  331: Anonymous login ok, send your complete email address as your password.
+16:52:49  Cmd: PASS NcFTP@
+16:52:50  Logging in...
+16:52:50  230: 
+16:52:50        *************************************************************************
+16:52:50        *                               WARNING!                                *
+16:52:50        *************************************************************************
+16:52:50        * This is a United States Government computer system, which may be      *
+16:52:50        * accessed and used only for official Government business by authorized *
+16:52:50        * personnel.  Unauthorized access or use of this computer system may    *
+16:52:50        * subject violators to criminal, civil, and/or administrative action.   *
+16:52:50        *                                                                       *
+16:52:50        * All information on this computer system may be intercepted, recorded, *
+16:52:50        * read, copied, and disclosed by and to authorized personnel for        *
+16:52:50        * official purposes, including criminal investigations.  Access or use  *
+16:52:50        * of this computer system by any person, whether authorized or          *
+16:52:50        * unauthorized, constitutes consent to these terms.                     *
+16:52:50        *************************************************************************
+16:52:50        
+16:52:50       Anonymous access granted, restrictions apply.
+16:52:50  Cmd: PWD
+16:52:50  257: "/" is current directory.
+16:52:50  Logged in to 140.208.31.106 as anonymous.
+16:52:50  Cmd: FEAT
+16:52:50  211: Features:
+16:52:50        MDTM
+16:52:50        REST STREAM
+16:52:50        SIZE
+16:52:50       End
+16:52:50  Cmd: HELP SITE
+16:52:50  214: HELP
+16:52:50        CHGRP
+16:52:50       CHMOD
+16:52:50  Logged in to ftp.gfdl.noaa.gov.
+16:52:50  Cmd: CWD pub/jpd/ESM2.1U_H4_SRES_A2
+16:52:50  250: CWD command successful
+16:52:50  Current remote directory is /pub/jpd/ESM2.1U_H4_SRES_A2.
+16:52:50  Cmd: CLNT NcFTP 3.1.9 macosx10.6.1
+16:52:50  500: CLNT not understood
+16:52:54  > ls *o2*
+
+16:52:54  Cmd: PASV
+16:52:54  227: Entering Passive Mode (140,208,31,106,145,233).
+16:52:54  Cmd: LIST *o2*
+16:52:54  150: Opening ASCII mode data connection for file list
+16:52:54  226: Transfer complete.
+16:52:54  Remote listing contents {
+16:52:54      -rw-r--r--   1 (?)      b        24087492 Sep 20 21:50 esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:52:54      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:50 esm2.1_H4.2001-2020.o2_150_500_npac.nc
+16:52:54      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:51 esm2.1_H4.2021-2040.o2_150_500_npac.nc
+16:52:54      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:51 esm2.1_H4.2041-2060.o2_150_500_npac.nc
+16:52:54      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:52 esm2.1_H4.2061-2080.o2_150_500_npac.nc
+16:52:54      -rw-r--r--   1 (?)      b        24087192 Sep 20 21:52 esm2.1_H4.2081-2100.o2_150_500_npac.nc
+16:52:54  }
+16:52:54  esm2.1_H4.1981-2000.o2_150_500_npac.nc             esm2.1_H4.2041-2060.o2_150_500_npac.nc
+16:52:54  esm2.1_H4.2001-2020.o2_150_500_npac.nc             esm2.1_H4.2061-2080.o2_150_500_npac.nc
+16:52:54  esm2.1_H4.2021-2040.o2_150_500_npac.nc             esm2.1_H4.2081-2100.o2_150_500_npac.nc
+16:53:01  > get *o2*
+
+16:53:01  Cmd: PASV
+16:53:01  227: Entering Passive Mode (140,208,31,106,145,234).
+16:53:01  Cmd: NLST *o2*
+16:53:01  150: Opening ASCII mode data connection for file list
+16:53:01  226: Transfer complete.
+16:53:01    Rglob [esm2.1_H4.1981-2000.o2_150_500_npac.nc]
+16:53:01    Rglob [esm2.1_H4.2001-2020.o2_150_500_npac.nc]
+16:53:01    Rglob [esm2.1_H4.2021-2040.o2_150_500_npac.nc]
+16:53:01    Rglob [esm2.1_H4.2041-2060.o2_150_500_npac.nc]
+16:53:01    Rglob [esm2.1_H4.2061-2080.o2_150_500_npac.nc]
+16:53:01    Rglob [esm2.1_H4.2081-2100.o2_150_500_npac.nc]
+16:53:01  Cmd: TYPE I
+16:53:01  200: Type set to I
+16:53:01  Cmd: MLST esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:53:02  500: MLST not understood
+16:53:02  Cmd: SIZE esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:53:02  213: 24087492
+16:53:02  Cmd: MDTM esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:53:02  213: 20090920215016
+16:53:06  Cmd: PASV
+16:53:06  227: Entering Passive Mode (140,208,31,106,145,235).
+16:53:07  Cmd: RETR esm2.1_H4.1981-2000.o2_150_500_npac.nc
+16:53:07  150: Opening BINARY mode data connection for esm2.1_H4.1981-2000.o2_150_500_npac.nc (24087492 bytes)

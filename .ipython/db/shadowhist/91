@@ -1,0 +1,11 @@
+(dp1
+Vdata.linesplit()
+p2
+I745
+sVif londir == 'W':
+p3
+I106
+sV'%s_odv.txt'%file.split(".")[0]
+p4
+I133
+s.

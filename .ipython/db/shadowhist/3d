@@ -1,0 +1,11 @@
+(dp1
+Vdata[0:150]
+p2
+I671
+sVsheet.cell_value(rowx=2, colx=5)
+p3
+I217
+sVa = sheet.row_slice(10, start_colx=0, end_colx=9)
+p4
+I244
+s.

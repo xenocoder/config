@@ -1,0 +1,14 @@
+(dp1
+Vlat = float(s[4][0:-1])
+p2
+I696
+sVtdate=time.strptime(faketime,'%b %d %Y %H:%M:%S')
+p3
+I84
+sVdataout=[]
+p4
+I364
+sVcruise = str(sheet.cell_value(rowx=1,colx=7)).lower()
+p5
+I342
+s.

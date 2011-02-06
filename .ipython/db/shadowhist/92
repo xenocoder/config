@@ -1,0 +1,8 @@
+(dp1
+Vstr(lonraw)
+p2
+I297
+sVglob.glob(path+'/SSM*Folder')
+p3
+I495
+s.

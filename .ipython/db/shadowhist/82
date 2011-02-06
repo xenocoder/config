@@ -1,0 +1,8 @@
+(dp1
+Vfiles = os.popen("ls *.*").read()
+p2
+I443
+sVdata = csv.reader(open(infile))
+p3
+I746
+s.

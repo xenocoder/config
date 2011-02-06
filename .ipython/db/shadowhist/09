@@ -1,0 +1,11 @@
+(dp1
+Vheader = inhdrfile.readlines()
+p2
+I75
+sVdata=csv.reader(file(infile, 'r'),lineterminator='\u005cr')
+p3
+I758
+sVinfile = dir + '/' + file
+p4
+I646
+s.

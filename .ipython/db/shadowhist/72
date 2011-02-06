@@ -1,0 +1,14 @@
+(dp1
+Vstr(sheets[0])
+p2
+I193
+sVunicodedata.category(u)
+p3
+I294
+sVoutfile = file.replace(" ","_") + ext.lower()
+p4
+I460
+sVrow = data[0]
+p5
+I752
+s.

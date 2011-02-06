@@ -1,0 +1,27 @@
+cd jpd/
+ls
+cd pub/jpd/ESM2.1U_H4_SRES_A2
+ls
+exit
+cd pub/oceano/AVISO/SSH/duacs/global/dt/upd/madt/merged/h/
+ls
+get dt_upd_global_merged_madt_h_qd_20090722_20090722_20091123.nc.gz
+quit
+cd pub/oceano/AVISO/SSH/duacs/global/dt/upd/madt/merged/h/
+get t_upd_global_merged_madt_h_19921104_19921104_20080107.nc.gz
+get t_upd_global_merged_madt_h_19921104
+get dt_upd_global_merged_madt_h_19921104_19921104_20080107.nc.gz
+exit
+cd pub/oceano/AVISO/SSH/duacs/global/dt/upd/madt/merged/h/
+ls *qd*
+ls
+pwd
+exit
+ls *qd*
+get dt_upd_global_merged_madt_h_qd_20060111_20060111_20080109.nc.gz 
+cd ..
+ls
+cd uv
+ls
+get dt_upd_global_merged_madt_uv_20090318_20090318_20091123.nc.gz
+quit

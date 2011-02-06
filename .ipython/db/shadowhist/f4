@@ -1,0 +1,16 @@
+(dp1
+Vsheet.cell_value(rowx=2, colx=6)
+p2
+I218
+sVdata = csv.reader(open(infile,lineterminator='\u005cr'))
+p3
+I747
+sVu
+I289
+sVfloat(lonraw[4:6]
+p4
+I307
+sVif '10' in d:
+p5
+I405
+s.

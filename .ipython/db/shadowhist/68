@@ -1,0 +1,20 @@
+(dp1
+Vint(lonraw[0:3]
+p2
+I302
+sVproclat(float(s[4][0:-1]),s[4][-1])
+p3
+I702
+sVimport Image
+p4
+I463
+sVlon = int(lonraw[0:3]) + float(lonraw[4:6])/60
+p5
+I316
+sVsheet[0].decode
+p6
+I173
+sVbtlfilr
+p7
+I413
+s.

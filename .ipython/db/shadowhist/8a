@@ -1,0 +1,14 @@
+(dp1
+Vimport numpy
+p2
+I3
+sVprint(int(r[0]),date,r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],gender)
+p3
+I564
+sVcruise = str(sheet.cell_value(rowx=1,colx=7)).lower() #make lower case
+p4
+I383
+sVa.decode('unicode')
+p5
+I541
+s.

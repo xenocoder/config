@@ -1,0 +1,20 @@
+(dp1
+Vc.execute("drop table if exists turtles")
+p2
+I639
+sVlonraw = sheet.cell_value(rowx=3,colx=4)
+p3
+I275
+sVif (sheets[0] eq 'Sheet1'):
+p4
+I164
+sVc.rownames
+p5
+I626
+sVdata = f.readlines()
+p6
+I27
+sVc.execute("select indexid from turtles where distinct")
+p7
+I603
+s.

@@ -1,0 +1,14 @@
+(dp1
+Vprint a
+p2
+I598
+sVa = sheet.row_slice(1, start_colx=0, end_colx=6)
+p3
+I180
+sVrawdate = xldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+p4
+I331
+sVstr(a)
+p5
+I543
+s.

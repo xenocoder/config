@@ -1,0 +1,23 @@
+(dp1
+Vcount
+p2
+I39
+sVfaketime = junk[23:48]
+p3
+I81
+sVproclineW(data,c)
+p4
+I738
+sVd = '%4d-%02d-%02dT12:00Z'%(r[14],r[13],r[11])
+p5
+I558
+sVc.execute('''insert into turtles values (int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)''')
+p6
+I567
+sVif tester == "N" or tester == "S":\u000a    print "yes"\u000aelse:
+p7
+I663
+sVdirs = glob.glob(path+'/*Raw*Folder')
+p8
+I643
+s.

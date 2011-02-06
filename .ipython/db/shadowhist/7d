@@ -1,0 +1,8 @@
+(dp1
+Vtemp=glob.glob(searcher)
+p2
+I437
+sV'%4d-%s-%sT12:00Z'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2])
+p3
+I686
+s.

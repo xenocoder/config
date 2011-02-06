@@ -1,0 +1,1000 @@
+range_b
+Rb = float(sheet.cell_value(rowx=i,colx=6))
+range_a = str(sheet.cell_value(rowx=i,colx=7))
+Ra = float(sheet.cell_value(rowx=i,colx=8))
+chla_meas = float(sheet.cell_value(rowx=i,colx=9))
+chla_meas
+lonraw = float(sheet.cell_value(rowx=3,colx=4))
+lonraw = str(sheet.cell_value(rowx=3,colx=4))
+lonraw = sheet.cell_value(rowx=3,colx=4)
+lonraw
+lonraw.split('\xb0')
+lonraw.decode()
+lonraw.decode('BOM')
+unicode('\xb0')
+lonraw
+lonraw.decode('utf-8')
+lonraw.encode('utf-8')
+print lonraw
+unichr('\xb0')
+unichr(0xxb0)
+unichr(0xb0)
+import unicodedata
+u = unichr(0xb0)
+u
+enumerate(u)
+print unicodedata.name(u)
+print unicodedata.numeric(u)
+ord(u)
+unicodedata.category(u)
+lonraw.find(14(
+lonraw.find(14)
+lonraw
+str(lonraw)
+".encode('utf-8')
+print u
+u
+print lonraw
+lonraw.decode('utf-8')
+unicode(lonraw,'utf-8')
+lonraw[0:3]
+int(lonraw[0:3]
+int(lonraw[0:3])
+lonraw[4:5]
+lonraw[4:6]
+lonraw[4:7]
+float(lonraw[4:6]
+)/100
+lon = int(lonraw[0:3]) + float(lonraw[4:6])/100
+lon
+latraw = sheet.cell_value(rowx=3,colx=3)
+latraw
+latraw = sheet.cell_value(rowx=4,colx=4)
+latraw
+lat = int(latraw[0:2]) + float(latraw[3:5])/100
+lat
+lon = int(lonraw[0:3]) + float(lonraw[4:6])/60
+lat = int(latraw[0:2]) + float(latraw[3:5])/60
+lat
+lon
+print('%d %d %d %d %6.2f %5.2f %d %d %5.3f %s %7.4f %s %7.4f %5.3f\n'%(stano,rawdate[0],rawdate[1],rawdate[2],lon,lat,bottle,depth,blank,range_b,Rb,range_a,Ra,chla_meas))
+bottle
+depth = int(sheet.cell_value(rowx=i,colx=1))
+depth
+print('%d %d %d %d %6.2f %5.2f %d %d %5.3f %s %7.4f %s %7.4f %5.3f\n'%(stano,rawdate[0],rawdate[1],rawdate[2],lon,lat,bottle,depth,blank,range_b,Rb,range_a,Ra,chla_meas))
+outfile = infile[:-4] + '_match.csv'
+outfile
+file = open(outfile,'w')
+file.write('Station Year Month Day Longitude Latitude Bottle Depth Blank Range_b Rb Range_a Ra Chla_meas\n')
+file.close()
+getchla.py 'SE1003_chl_allstations.xls'
+run getchla.py 'SE1003_chl_allstations.xls'
+temp
+temp[6]
+temp[8]
+t = temp[8]
+sheet = book.sheet_by_name(t)
+rawdate = xldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+sheet.cell_value(rowx=4,colx=1)
+sheet.cell_value(rowx=3,colx=1)
+run getchla.py 'SE1003_chl_allstations.xls'
+if os.path.exists(infile):
+	print 'yes'
+import os.path
+if os.path.exists(infile):
+	print 'yes'
+if not os.path.exists(infile):
+	print 'no'
+if not os.path.exists('blahhhh'):
+    print 'no'
+    
+sheet.cell_value(rowx=1,colx=7)
+cruise = str(sheet.cell_value(rowx=1,colx=7))
+cruise
+cruise.lower
+cruise.lower()
+cruise = str(sheet.cell_value(rowx=1,colx=7)).lower()
+cruise
+btlfile = 'CTD/Processed/' + cruise + '_' + stano + 'c.btl'
+btlfile = 'CTD/Processed/' + str(cruise) + '_' + str(stano) + 'c.btl'
+btlfile
+if os.path.exists(btlfile):
+    print 'yes'
+a
+b = [1,2,5]
+a[b]
+range(0,10)
+range(0,10,2)
+btlfile = 'CTD/Processed/se-10-03_03c.btl'
+in = open(infile)
+f = open(btlfile,'r')
+data = f.readlines()
+data[239]
+data[238]
+data[237:256:2]
+for i in range(237,256,2):
+    print data[i]
+data[237:256:2][8]
+data[237]
+a = data[237]
+a.split()
+data2 = a.split()
+print data2[11:13]
+dataout=[]
+dataout.append(data2[11:13])
+dataout
+data2 = data[239].split()
+data2
+dataout.append(data2[11:13])
+dataout
+dataout[1]
+run loadbtl.py
+ls CTD
+ls CTD/Processed/
+ls CTD/Processed/se-10-03_03c.btl
+run loadbtl.py
+dataout[1]
+dataout[1][0]
+run getchla.py 'SE1003_chl_allstations.xls'
+f = open(btlfile)
+ls CTD
+ls CTD/Processed/se-10-03_3c.btl
+ls CTD/Processed/*.btl
+ls CTD/Processed/se-10-03_03c.btl
+btlfile = 'CTD/Processed/' + str(cruise) + '_' + sprintf('%02d',stano) + 'c.btl'
+btlfile = 'CTD/Processed/' + str(cruise) + '_' + printf('%02d',stano) + 'c.btl'
+btlfile = 'CTD/Processed/%s_%02dc.btl'%(cruise,stano)'
+btlfile = 'CTD/Processed/%s_%02dc.btl'%(cruise,stano)
+btlfile
+f = open(btlfile)
+run getchla.py 'SE1003_chl_allstations.xls'
+temp
+temp[2]
+sheet = book.sheet_by_name(t)
+stano = int(sheet.cell_value(rowx=3, colx=1))
+cruise = str(sheet.cell_value(rowx=1,colx=7)).lower() #make lower case
+btlfile = 'CTD/Processed/%s_%02dc.btl'%(cruise,stano)
+dataout = loadbtl(btlfile)
+dataout
+rawdate = xldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+		lonraw = sheet.cell_value(rowx=3,colx=4)
+		lon = int(lonraw[0:3]) + float(lonraw[4:6])/60
+		latraw = sheet.cell_value(rowx=4,colx=4)
+		lat = int(latraw[0:2]) + float(latraw[3:5])/60
+		blank = float(sheet.cell_value(rowx=8, colx=4))
+bottle
+print('%d %d %d %d %6.2f %5.2f %d %d %5.3f %s %7.4f %s %7.4f %5.3f %s %s\n'%(stano,rawdate[0],rawdate[1],rawdate[2],lon,lat,bottle,depth,blank,range_b,Rb,range_a,Ra,chla_meas,dataout[i-7][0],dataout[i-7][1]))
+i=8
+print('%d %d %d %d %6.2f %5.2f %d %d %5.3f %s %7.4f %s %7.4f %5.3f %s %s\n'%(stano,rawdate[0],rawdate[1],rawdate[2],lon,lat,bottle,depth,blank,range_b,Rb,range_a,Ra,chla_meas,dataout[i-7][0],dataout[i-7][1]))
+run getchla.py 'SE1003_chl_allstations.xls'
+length(data2)
+len(data2)
+data2
+data = f.readlines()
+data
+len(data)
+for i in range(237,len(data)-1,2):
+    data2=data[i].split()
+    print data2
+btlfile
+f = open(btlfile)
+data = f.readlines()
+for i in range(237,len(data)-1,2):
+    data2=data[i].split()
+    print data2
+for i in range(237,len(data)-1,2):
+    data2 = data[i].split()
+    print data2
+d = {}
+d[data2[0][0]] = data2[0]
+d
+data2[0]
+data2
+d[data2[0] = data2[0]
+d[data2[0]] = data2
+d
+d[data2[0]] = data2[11:]
+d
+d[data2[0]] = data2[11:13]
+d
+d.keys()
+d.values('9')
+d['9']
+bottle
+d[bottle]
+data
+for i in range(237,len(data)-1,2):
+    data2= data[i].split()
+    d[data2[0]] = data2[11:13]
+d
+d.keys()
+d.keys().sort()
+k = d.keys()
+if '9' in d:
+    print 'yes'
+if '10' in d:
+    print 'yes'
+run loadbtl.py
+for i in range(1,10):
+    print i
+run loadbtl.py
+dataout
+dataout[str(1)]
+dataout[str(1)][0]
+run getchla.py 'SE1003_chl_allstations.xls'
+run loadbtl.py
+btlfile = 'CTD/Processed/se-10-03_41c.btl'
+f = open(btlfile)
+dataout = {}
+	data = f.readlines()
+data
+data
+for i in range(237,len(data)-1,2):
+    data2 = data[i].split()
+    dataout[data2[0]] = data2[11:13]
+dataout
+for i in range(1,11): #Check for bottles 1-10
+		if not str(i) in dataout:
+			dataout[str(i)] = ['NA','NA']
+dataout
+run getchla.py 'SE1003_chl_allstations.xls'
+btlfile
+dataout2
+datout
+dataout
+dataout = loadbtl(btlfile)
+dataout
+btlfilr
+btlfile
+f = open(btlfile)
+dataout = {}
+	data = f.readlines()
+	for i in range(237,len(data)-1,2):
+		data2 = data[i].split()
+		dataout[data2[0]] = data2[11:13]
+dataout
+data[237]
+data[236]
+data[235]
+for i in range(0,len(data)):
+    if data[i][0] == 'Position':
+        spot = i
+spot
+data[236]
+data[235]
+data[235][0]
+data[235][1]
+data[235][2]
+data[236]
+data[236][0]
+data[235][5:10]
+data[235][3:10]
+data[235][2:10]
+for i in range(0,len(data)):
+    if data[i][2:10] == 'Position':
+        spot=i
+spot
+data[spot]
+data[spot+1]
+run loadbtl.py
+run getchla.py 'SE1003_chl_allstations.xls'
+exit()
+y
+fullalbum = "/Volumes/FATVERB/Media/mp3/AC_DC/High Voltage"
+fullalbum
+import glob
+glob.glob(fullalbum)
+searcher = fullalbum + "/*.mp3
+searcher = fullalbum + "/*.mp3"
+searcher
+glob.glob(searcher)
+ls /Volumes/FATVERB/Media/mp3/AC_DC/For Those About To Rock We Sal
+fullalbum = "/Volumes/FATVERB/Media/mp3/AC_DC/For Those About To Rock We Sal"
+searcher = fullalbum + "/*.mp3"
+searcher
+glob.glob(searcher)
+temp=glob.glob(searcher)
+len(temp)
+if len(temp) == 0:
+    print "no"
+ls
+cd AlbumCovers/
+ls
+import os
+import sys
+files = os.popen("ls *.*").read()
+files[1:10]
+files = os.popen("ls *.*").readlines()
+files[1:10]
+file = files[0]
+file
+file = files[1]
+file
+file.replace(" ","_")
+file
+file.replace(" ","_")
+junk = file.replace(" ","_")
+lower(file)
+file.lower
+file.lower()
+junk.lower()
+file.basename()
+import os.path
+os.path.basename(file)
+os.path.split(file)
+os.path.splittext(file)
+os.path.splitext(file)
+[file,ext] = os.path.splitext(file)
+outfile = file.replace(" ","_") + ext.lower()
+outfile
+exit()
+y
+import Image,glob
+exit
+exit()
+y
+import Image
+exit()
+y
+a1 = array.array('f')
+import array
+a1 = array.array('f')
+fp = open("file.2009_05_02.grd", 'rb')
+a1.fromfile(fp, 399*267)
+len(a1)
+a1[0:4]
+a1.byteswap()
+a1[0:9]
+temp = array.array('f')
+temp.fromfile(fp, 399*267*33)
+temp.byteswap()
+temp[0:9]
+a1(-1)
+a1[-1]
+a1[-1:-10]
+a1[-10:-1]
+history
+fp.close()
+fp = open("file.2009_05_02.grd", 'rb')
+fp.seek(399*267)
+temp = array.array('f')
+temp.fromfile(399*267*33)
+temp.fromfile(fp,399*267*33)
+temp[0:9]
+temp.byteswap()
+temp[0:9]
+temp = array.array('f')
+temp[0:9]
+fp.close()
+fp = open("file.2009_05_02.grd", 'rb')
+fp.seek(399*267*4)
+temp.fromfile(fp,399*267*33)
+temp.byteswap()
+temp[0:9]
+exit()
+y
+exit()
+y
+import numpy
+import scipy
+exit
+exit()
+y
+exit()
+y
+exit()
+y
+exit()
+y
+import xlrd
+path = '/Users/ehowell/Dropbox/2010_09_LeatherWatch'
+ls path
+ls /Users/ehowell/Dropbox/2010_09_LeatherWatch
+path = '/Users/ehowell/Dropbox/2010_09_LeatherWatch/SatData/'
+import os.path
+import os
+os.listdir(path)
+path
+import glob
+glob.glob(path)
+glob.glob(path+'/*folder*')
+glob.glob(path+'/*Folder')
+glob.glob(path+'/SSM*Folder')
+glob.glob(path+'/*SSM*Folder')
+dirs = glob.glob(path+'/*SSM*Folder')
+os.listdir(dirs[0])
+files=os.listdir(dirs[0])
+files[0]
+dir[0]
+dirs[0]
+ls dirs[0]+files[0]
+ls dirs[0]+'/'+files[0]
+dirs[0]+'/'
+dirs[0]+'/'+files[0]
+a=dirs[0]+'/'+files[0]
+ls a
+os.path.exists(a)
+wb = xlrd.open_workbook(a)
+wb.sheet_names()
+sh = wb.sheet_by_index(0)
+print sh.row_values(0)
+files[0]
+files[0][-4]
+files[0][-5]
+gender = files[0][-5]
+gender
+a = sh.col.value[0]
+a = sh.col.values[0]
+a = sh.col_values[0]
+a = sh.col_values(0)
+a[0]
+r = sh.row_values(0)
+c = sh.col_values(0)
+r[0]
+r
+conn = sqlite3.connect('temp.sql')
+import sqlite3
+conn = sqlite3.connect('temp.sql')
+c = conn.cursor()
+c.execute('''create table stocks
+(date text, trans text, symbol text,
+ qty real, price real)''')
+c.execute("""insert into stocks
+          values ('2006-01-05','BUY','RHAT',100,35.14)""")
+conn.commit()
+conn.close()
+conn = sqlite3.connect('temp.sql')
+c = conn.cursor()
+c.execute("select * from stocks")
+print c
+for row in c:
+    print row
+row
+row[0]
+type(row[0])
+print row[0]
+a = row[0]
+a.decode('unicode')
+a.decode('utf-8')
+str(a)
+dbname = path + '/LWTurtles.sql'
+ls
+dbname
+path
+path = '/Users/ehowell/Dropbox/2010_09_LeatherWatch/SatData'
+dbname = path + '/LWTurtles.sql'
+dbname
+conn.close()
+conn = sqlite3.connection(dbname)
+conn = sqlite3.connect(dbname)
+c = conn.cursor()
+r
+c.execute('''create table turtles (eventid int, date text, lonmean real, lon025 real, lon5 real, lon975 real, latmean real, lat025 real, lat5 real, lat975 real, bmode real, bmode1 real, owners text, deploy text)''')
+d = '%s-%s-%s'%(r[15],r[14],r[13])
+r
+c.execute('''create table turtles (eventid int, date text, lonmean real, lon025 real, lon5 real, lon975 real, latmean real, lat025 real, lat5 real, lat975 real, bmode real, bmode1 real, gender text)''')
+c.execute('''delete table turtles''')
+c.execute('''drop table turtles''')
+c.execute('''create table turtles (eventid int, date text, lonmean real, lon025 real, lon5 real, lon975 real, latmean real, lat025 real, lat5 real, lat975 real, bmode real, bmode1 real, gender text)''')
+d = '%s-%s-%s'%(r[14],r[13],r[11])
+d
+d = '%s-%s-%s'%(int(r[14]),int(r[13]),int(r[11]))
+d
+d = '%02d-%02d-%02d'%(r[14],r[13],r[11])
+d
+d = '%4d-%02d-%02d'%(r[14],r[13],r[11])
+d
+d = '%4d-%02d-%02dT12:00Z'%(r[14],r[13],r[11])
+d
+date = d
+c.execute('''insert into turtles values(int(r[0]),date,r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],[r12],r[13],gender)''')
+int(r[0])
+print(int(r[0]),date,r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],[r12],r[13],gender)
+c.execute('''insert into turtles values(int(r[0]),date,r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],gender)''')
+print(int(r[0]),date,r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[10],r[11],r[12],r[13],gender)
+print(int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],,gender)
+print(int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)
+c.execute('''insert into turtles values (int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)''')
+c.execute("""insert into turtles values (int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+c.execute("""insert into turtles values (real(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+real(r[0])
+float(r[0])
+c.execute("""insert into turtles values (float(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+print(float(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)
+c.execute('''insert into turtles values (int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)''')
+t = [int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender]
+t
+.execute('insert into turtles values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+c.execute('insert into turtles values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+c.commit
+conn.commit
+c.execute('select * from turtles')
+for row in c:
+    print row
+exit()
+y
+append = "T"
+if append == "T":
+    print "yes"
+else
+if append == "T":
+    print "yes"
+cd Dropbox/2010_09_LeatherWatch/SatData/
+run ReadSSM.py
+run -d ReadSSM.py
+run ReadSSM.py
+dbname
+con = sqlite3.connect(dbname)
+c = con.cursor()
+c.execute("select * from turtles")
+data = c.execute("select * from turtles")
+print data[0]
+for row in data:
+    print row
+print data.rowcount()
+print data.rowcount
+print c.rowcount
+data = c.execute("select * from turtles")
+print data.rowcount
+a = data.fetchone()
+a
+a = data.fetchmany(2)
+a
+print a
+a = data.fetchone()
+print a
+a = data.fetchall()
+print a[0]
+print a[0][0]
+c.execute("select indexid from turtles distinct")
+c.execute("select indexid from turtles where distinct")
+c.execute("select distinct(indexid) from turtles")
+c.execute("select distinct(eventid) from turtles")
+a = c.fetchall()
+a
+c.execute("select distinct(eventid) from turtles where eventid eq 17710")
+c.execute("select distinct(eventid) from turtles where eventid == 17710")
+a = c.fetchall()
+a
+c.execute("select lonmean,latmean from turtles where eventid == 17710")
+a = c.fetchall()
+a
+c.execute("select eventid,lonmean,latmean from turtles where eventid == 17710")
+a = c.fetchall()
+a
+file
+files
+dir
+c.execute("select distinct(eventid) from turtles where eventid == 17710")
+c.execute("select distinct(eventid) from turtles)
+c.execute("select distinct(eventid) from turtles")
+a = c.fetchall()
+a
+dir
+files
+run ReadSSM.py
+import xlrd
+wb = xlrd.open_workbook(infile)
+infile
+sh
+print sh
+r[14]
+class(r[14])
+type(r[14])
+rownum
+isinstance(r[14],unicode)
+if isinstance(r[14],unicode):
+    print "Yes"
+if isinstance(r[14],unicode):
+    continue
+if isinstance(r[14],unicode):
+    skip
+for i in range(0,10):
+    if i == 5:
+        continue
+    print i
+run ReadSSM.py
+c.execute("select distinct(eventid) from turtles")
+con = sqlite3.connect(dbname)
+c = con.cursor()
+c.execute("select distinct(eventid) from turtles")
+c.rownames()
+c.rownames
+a = c.fetchall()
+a.rowcount
+c.rowcount
+length(a)
+len(a)
+a
+c.execute("select distinct(eventid) from turtles where lonmean>=170&lonmean<=235&latmean>=28")
+a = c.fetchall()
+len(a)
+c.execute("select distinct(eventid) from turtles where lonmean>=170")
+a = c.fetchall()
+len(a)
+c.execute("select distinct(eventid) from turtles where lonmean>=170&lonmean<=235")
+a = c.fetchall()
+len(a)
+exit()
+y
+import sys, os, glob, xlrd, sqlite3
+path = '/Users/ehowell/Dropbox/2010_09_LeatherWatch/SatData'
+dbname = path + '/LWTurtles.sql'
+con = sqlite3.connect(dbname)
+c = con.cursor()
+pwd
+cd path
+cd /Users/ehowell/Dropbox/2010_09_LeatherWatch/SatData
+run ReadSSM.py
+append="F"
+c.execute("drop table if exists turtles")
+con = sqlite3.connect(dbname)
+c = con.cursor()
+c.execute("drop table if exists turtles")
+ls /usr/share
+ls /usr/share/zoneinfo
+dirs
+dirs = glob.glob(path+'/*Raw*Folder')
+dirs
+dir = dirs[0]
+dir
+files = os.listdir(dir)
+files
+file = files[0]
+file
+infile = dir + '/' + file
+infile
+wb = xlrd.open_workbook(infile)
+f = open(infile, 'r')
+data = f.readlines()
+data[0]
+line = data[0]
+line.split(',')
+line = data[0].rstrip()
+line.split(',')
+s = line.split(',')
+s[0]
+file = "52680_2005.csv"s
+file = "52680_2005.csv"
+infile = dir + '/' + file
+infile
+f = open(infile, 'r')
+data = f.readlines()
+data[0]
+testline = data[0]
+tester = testline.split(",")
+tester[3]
+tester[4]
+testline.split(",")[4]
+testline.split(",")[4][-1]
+tester = testline.split(",")[4][-1]
+if tester == "N" or tester == "S":
+    print "yes"
+else
+if tester == "N" or tester == "S":
+    print "yes"
+else:
+    print "NO"
+line = data[0]
+r = line.rsrtip()
+r = line.rstrip()
+s = r.split(",")
+s
+data[0]
+data[0:20]
+data[0:50]
+data[0:100]
+data[0:150]
+'%4d-%02d-%02dT12:00Z'%(r[14],r[13],r[11])
+'%4d-%s-%sT12:00Z'%(s[2],s[3],s[4])
+s[2]
+s[1]
+year = s[1][5:7]
+year
+year = s[1][6:8]
+year = s[1][6:8] + 2000
+year = int(s[1][6:8]) + 2000
+year
+int(s[1][6:8]) + 2000
+s[1]
+s[1][3:6]
+s[1][3:5]
+s[1][1:3]
+s[1][0:2]
+'%4d-%s-%sT12:00Z'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2])
+s[2]
+'%4d-%s-%sT%s:00Z'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:2])
+'%4d-%s-%sT%s:%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:2],s[2][3:5])
+'%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+s[0]
+s[2]
+s[3]
+s[4]
+int(s[4][0:-1])
+float(s[4][0:-1])
+[int(s[0],date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[7][0:-1])]
+[int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[7][0:-1])]
+lat = float(s[4][0:-1])
+lat
+latcode = s[4][-1]
+latcode
+def proclat(lat, latcode):
+    if latcode == "S"):
+    lat = lat * -1
+    else:
+    lat = lat 
+    return lat
+def proclat(lat, latcode):
+def proclat (lat, latcode):
+    if latcode = "S":
+def proclat (lat, latcode):
+    if latcode == "S":
+        lat = lat * -1
+    else:  
+        lat = lat 
+    return lat
+proclat(float(s[4][0:-1]),s[4][-1])
+proclat(float(s[4][0:-1]),"S")
+def proclon (lon, loncode):
+    if loncode == "W":
+        lon = 360 - lon 
+    else:  
+        lon = lon 
+    return lon
+proclon(float(s[5][0:-1]),s[5][-1])
+float(s[5][0:-1])
+proclon(float(s[5][0:-1]),"E")
+lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+lat
+lon
+lat1
+lon1
+loat(s[7][0:-1])
+float(s[7][0:-1])
+360 - 103.761
+c.execute("drop table if exists raw")
+c.execute('''create table raw (eventid int, date text, lcode text, lat1 real, lon1 real, lat2 real, lon2 real)''')
+def proclineW (data):
+    for line in data:
+        r = line.rstrip()
+        s = r.split(',')
+        #if isinstance(s[0],unicode): #if there is a header line of text
+        #    continue
+        date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[8][0:-1])]
+        c.execute('insert into raw values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+def proclineW (data):
+    for line in data:
+        r = line.rstrip()
+        s = r.split(',')
+        #if isinstance(s[0],unicode): #if there is a header line of text
+        #    continue
+        date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[8][0:-1])]
+        c.execute('insert into raw values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+data[0:1]
+data[0:2]
+proclineW(data[0:2])
+line = data[0]
+r = line.rstrip()
+s = r.split(',')
+date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+lat = proclat(float(s[4][0:-1]),s[4][-1])
+lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+date
+t = [int(s[0]),date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[8][0:-1])]
+t = [int(s[0]),date,s[3],lat,lon,lat1,lon1]
+t
+c.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+c.execute('select * from raw')
+for row in c:
+    print row
+def proclineW (data):
+    for line in data:
+        r = line.rstrip()
+        s = r.split(',')
+        #if isinstance(s[0],unicode): #if there is a header line of text
+        #    continue
+        date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,s[3],lat,lon,lat1,lon1]
+        c.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+proclineW(data[1])
+line = data[1]
+line
+r = line.rstrip()
+        s = r.split(',')
+r
+r
+s
+date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,s[3],lat,lon,lat1,lon1]
+t
+c.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+c.execute('select * from raw')
+for row in c:
+    print row
+data[1]
+data[0]
+proclineW
+print proclineW
+def proclineW (data,c):
+    for line in data:
+        r = line.rstrip()
+        s = r.split(',')
+        date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,s[3],lat,lon,lat1,lon1]
+        c.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+proclineW(data[2],c)
+proclineW(data[1:2],c)
+c.execute('select * from raw')
+for row in c:
+    print row
+    
+c.execute("drop table if exists raw")
+c.execute('''create table raw (eventid int, date text, lcode text, lat1 real, lon1 real, lat2 real, lon2 real)''')
+c.execute('select * from raw')
+for row in c:
+    print row
+    
+c.execute("drop table if exists raw")
+c.commit()
+con.commit()
+c.execute('''create table raw (eventid int, date text, lcode text, lat1 real, lon1 real, lat2 real, lon2 real)''')
+proclineW(data,c)
+def proclineW (data,c):
+    for line in data:
+        r = line.rstrip()
+        s = r.split(',')
+        date = '%4d-%s-%sT%sZ'%(int(s[1][6:8]) + 2000,s[1][3:5],s[1][0:2],s[2][0:5])
+        locid = s[3]
+        if locid == "Z":
+            continue
+        lat = proclat(float(s[4][0:-1]),s[4][-1])
+        lon = proclon(float(s[5][0:-1]),s[5][-1])
+        lat1 = proclat(float(s[6][0:-1]),s[6][-1])
+        lon1 = proclon(float(s[7][0:-1]),s[7][-1])
+        t = [int(s[0]),date,locid,lat,lon,lat1,lon1]
+        c.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+proclineW(data,c)
+c.execute("drop table if exists raw")
+con.commit()
+c.execute('''create table raw (eventid int, date text, lcode text, lat1 real, lon1 real, lat2 real, lon2 real)''')
+proclineW(data,c)
+c.execute('select * from raw')
+for row in c:
+    print row
+infile
+infile = dir + '/' + file
+file = "72490_2004.csv"
+infile = dir + '/' + file
+f = open(infile, 'r')
+ls
+ls path
+ls CCA_Raw_Folder/
+file = "72490_2007.csv"
+infile = dir + '/' + file
+f = open(infile, 'r')
+data = f.readlines()
+data[0]
+os.linesep='\r'
+data = f.readlines()
+data[0]
+data
+f = open(infile, 'r')
+data = f.readlines()
+data[0]
+os.linesep
+os.linesep = '\n'
+os.linesep
+data = f.readlines()
+f = open(infile, 'r')
+data = f.readlines()
+data.linesplit()
+data
+import csv
+data = csv.reader(open(infile))
+data[0]
+for row in data:
+    print row
+data = csv.reader(open(infile,lineterminator='\r'))
+csv.register_dialect(lineterminator='\r')
+csv.register_dialect('turtle',lineterminator='\r')
+data = csv.reader(open(infile, "r"), 'turtle')
+for row in data:
+    print row
+data[0]
+row = data[0]
+csv.register_dialect("excel_mac", excel_mac)
+class excel_mac(csv.Dialect):
+    delimiter = ','
+    quotechar = '"'
+    doublequote = True
+    skipinitialspace = False
+    lineterminator = '\r'
+    quoting = csv.QUOTE_MINIMAL
+csv.register_dialect("excel_mac", excel_mac)
+class excel_mac(csv.Dialect):
+    delimiter = ','
+    quotechar = '"'
+    doublequote = True
+    skipinitialspace = False
+    lineterminator = '\r'
+    quoting = csv.QUOTE_MINIMAL
+csv.register.dialect("excel_mac",excel_mac)
+csv.reader(file(infile, 'r'),lineterminator='\r)
+csv.reader(file(infile, 'r'),lineterminator='\r')
+data=csv.reader(file(infile, 'r'),lineterminator='\r')
+data=csv.reader(open(infile, 'r'),lineterminator='\r')
+data
+data[0]
+for row in data:
+    print row
+data=csv.reader(open(infile, 'U'))
+for row in data:
+    print row
+data=csv.reader(open(infile, 'U',delimiter=','))
+data=csv.reader(open(infile, 'U'),delimiter=',')
+for row in data:
+    print row
+data[0]
+for row in data:
+    print row
+    a=row
+a
+infile
+f = open(infile,'r')
+data = f.readlines()
+testline = data[0]
+testline
+tester = testline.split(",")[4][-1]
+tester
+infile
+exit
+exit()
+y
+import matplotlib.pyplot as plt
+plt.plot([1,2,3,4])
+plt.show()
+exit()
+y
+import matplotlib.pyplot as plt
+exit()
+y
+import matplotlib.pyplot as plt
+exit()
+import matplotlib.pyplot as plt
+plt.use('TkAgg')
+import matplotlib
+matplotlib.use('GTKCairo')
+exit()
+y
+import matplotlib
+matplotlib.use('GTKCairo')
+import matplotlib.pyplot as plt
+exit()
+y

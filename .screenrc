@@ -1,0 +1,46 @@
+# basic settings... self explanatory
+nethack on
+#deflogin on
+autodetach on
+startup_message off
+
+# the dash makes it a login shell
+defshell -bash
+activity ""
+bell_msg ""
+vbell off
+vbell_msg ""
+defscrollback 2048
+nonblock on
+defutf8 on
+defbce on
+defflow off
+msgwait 1
+altscreen on
+
+# only Shift+k to kill - prevent accidents
+bind k
+bind ^k
+bind K kill
+
+# Use the \ key instead of "C-a" for commands
+escape ^\\\
+
+#term screen-256color
+#terminfo rxvt-unicode ti@:te@:
+ 
+# Here comes the pain...
+#backtick 1 0 0 $HOME/.screen/netinfo 2 wlan0
+#backtick 2 5 5 $HOME/.screen/batinfo
+#backtick 3 5 5 $HOME/.screen/cpuinfo
+#backtick 4 5 5 $HOME/.screen/meminfo
+caption always "%{=bu kb} %=< %?%-Lw%?%{kc}[:%n %t:]%{kb}%?%+Lw%? >%= "
+hardstatus alwayslastline "%{+b bw}[%H :: $USER]%{=b kw} %=[[ %1` | %2` | %3` | %4` ]]%=%{=b bw}[%m.%d.%y %0C%a]"
+  
+#screen bash
+
+#let pgup/pgdn scroll under urxvt (see .Xdefaults)
+#bindkey "^[[5;2~" eval "copy" "stuff ^u"
+#bindkey -m "^[[5;2~" stuff ^u
+#bindkey -m "^[[6;2~" stuff ^d
+select 1

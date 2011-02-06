@@ -1,0 +1,14 @@
+(dp1
+Vos.linesep='\u005cr'
+p2
+I742
+sVjunk[1]
+p3
+I33
+sVlat1
+p4
+I709
+sVlonraw = str(sheet.cell_value(rowx=3,colx=4))
+p5
+I274
+s.

@@ -1,0 +1,11 @@
+(dp1
+Va = sh.col_values[0]
+p2
+I519
+sVc.execute("""insert into turtles values (real(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+p3
+I569
+sV[int(s[0],date,s[3],float(s[4][0:-1]),float(s[5][0:-1]),float(s[6][0:-1]),float(s[7][0:-1])]
+p4
+I694
+s.

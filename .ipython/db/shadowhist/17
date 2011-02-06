@@ -1,0 +1,20 @@
+(dp1
+Vblank
+p2
+I253
+sVplt.plot(x,[xi**2 for xi in x])
+p3
+I775
+sVlonraw[0:3]
+p4
+I301
+sVcruise
+p5
+I114
+sVprint(int(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)
+p6
+I566
+sVf = open('EcoSimTrialRun.csv','r')
+p7
+I4
+s.

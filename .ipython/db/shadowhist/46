@@ -1,0 +1,14 @@
+(dp1
+Vs[3]
+p2
+I690
+sVif os.path.exists(infile):
+p3
+I334
+sVif not os.path.exists('blahhhh'):
+p4
+I337
+sVdata[spot]
+p5
+I425
+s.

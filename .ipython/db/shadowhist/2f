@@ -1,0 +1,20 @@
+(dp1
+Vreal(r[0])
+p2
+I570
+sV.execute('insert into turtles values (?,?,?,?,?,?,?,?,?,?,?,?,?)', t)
+p3
+I575
+sVdbname = path + '/LWTurtles.sql'
+p4
+I544
+sVstr(t).split()
+p5
+I231
+sVc.execute('select * from raw')
+p6
+I727
+sVlen(temp)
+p7
+I438
+s.

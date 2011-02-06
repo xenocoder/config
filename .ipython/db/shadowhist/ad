@@ -1,0 +1,17 @@
+(dp1
+Vlen(data)
+p2
+I18
+sVd = '%s-%s-%s'%(int(r[14]),int(r[13]),int(r[11]))
+p3
+I555
+sVrows = len(temp.split())
+p4
+I44
+sVdata[236][0]
+p5
+I421
+sVsheets[1][1:5]
+p6
+I183
+s.

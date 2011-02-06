@@ -1,0 +1,11 @@
+(dp1
+Vsheet.cell_value(rowx=1,colx=7)
+p2
+I338
+sVc.execute("select distinct(eventid) from turtles where eventid eq 17710")
+p3
+I607
+sVd = '%02d-%02d-%02d'%(r[14],r[13],r[11])
+p4
+I556
+s.

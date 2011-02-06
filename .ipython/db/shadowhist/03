@@ -1,0 +1,11 @@
+(dp1
+Vlatmin = latitude[19:25]
+p2
+I94
+sVstations = []
+p3
+I202
+sVtemp = array.array('f')
+p4
+I472
+s.

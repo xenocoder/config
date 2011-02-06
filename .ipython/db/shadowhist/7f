@@ -1,0 +1,20 @@
+(dp1
+Vhistory
+p2
+I480
+sVbtlfile
+p3
+I345
+sVa = data[237]
+p4
+I360
+sVc.execute("""insert into turtles values (float(r[0]),date,r[3],r[7],r[8],r[9],r[3],r[4],r[5],r[6],r[10],r[11],gender)""")
+p5
+I572
+sVunicode('\u005cxb0')
+p6
+I280
+sVfile = files[0]
+p7
+I446
+s.

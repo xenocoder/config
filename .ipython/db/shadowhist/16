@@ -1,0 +1,20 @@
+(dp1
+Vfor i in data:\u000a    if (j%3==0):print (i.split()[0])
+p2
+I56
+sVjunk = header[10]
+p3
+I100
+sVlen(temp.split())
+p4
+I47
+sVRb
+p5
+I266
+sVRb = float(sheet.cell_value(rowx=i,colx=6))
+p6
+I268
+sVls dirs[0]+'/'+files[0]
+p7
+I504
+s.

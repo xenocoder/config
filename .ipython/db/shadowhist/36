@@ -1,0 +1,14 @@
+(dp1
+Vproclon(float(s[5][0:-1]),"E")
+p2
+I707
+sVa1[0:9]
+p3
+I471
+sVa1[-1]
+p4
+I477
+sVc.execute("drop table if exists raw")
+p5
+I714
+s.

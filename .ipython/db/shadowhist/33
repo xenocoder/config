@@ -1,0 +1,11 @@
+(dp1
+Vstation
+p2
+I126
+sVcruise = str(sheet.cell_value(rowx=1,colx=7))
+p3
+I339
+sVprint proclineW
+p4
+I732
+s.

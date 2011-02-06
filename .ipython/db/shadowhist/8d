@@ -1,0 +1,8 @@
+(dp1
+Vofile='%s_odv.txt'%file.split(".")[0]
+p2
+I134
+sVxlrd.xldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+p3
+I239
+s.

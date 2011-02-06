@@ -1,0 +1,17 @@
+(dp1
+Vfp = open("file.2009_05_02.grd", 'rb')
+p2
+I466
+sVimport os,sys,time
+p3
+I86
+sVlatraw
+p4
+I312
+sVtemp.fromfile(fp,399*267*33)
+p5
+I484
+sVd[data2[0]] = data2[11:13]
+p6
+I397
+s.

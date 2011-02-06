@@ -1,0 +1,17 @@
+(dp1
+V87/3
+p2
+I7
+sVprint row[0]
+p3
+I539
+sVprint c
+p4
+I534
+sVj%3
+p5
+I59
+sVbottle = int(sheet.cell_value(rowx=i,colx=0))
+p6
+I263
+s.

@@ -1,0 +1,11 @@
+(dp1
+Vls /usr/share/zoneinfo
+p2
+I641
+sVtdate
+p3
+I87
+sVf = open(btlfile,'r')
+p4
+I353
+s.

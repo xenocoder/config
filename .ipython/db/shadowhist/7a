@@ -1,0 +1,17 @@
+(dp1
+Vdataout = loadbtl(btlfile)
+p2
+I384
+sVr[14]
+p3
+I616
+sVs[1][3:6]
+p4
+I682
+sVimport numpy as np
+p5
+I776
+sVcd Dropbox/2010_09_LeatherWatch/SatData/
+p6
+I584
+s.

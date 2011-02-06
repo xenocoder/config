@@ -1,0 +1,14 @@
+(dp1
+Vsheets[0].decode('ascii')
+p2
+I191
+sVdata[1,1]
+p3
+I19
+sVinfile[:-4]
+p4
+I211
+sVdata[235][3:10]
+p5
+I423
+s.

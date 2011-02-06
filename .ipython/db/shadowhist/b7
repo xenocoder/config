@@ -1,0 +1,26 @@
+(dp1
+Vline = data[0].rstrip()
+p2
+I650
+sVcd RemnantsofReason/
+p3
+I64
+sVprint u
+p4
+I299
+sVc.execute("select distinct(eventid) from turtles where lonmean>=170&lonmean<=235")
+p5
+I633
+sVtemp[8]
+p6
+I328
+sVa.split()
+p7
+I361
+sVfor sheet in temp:
+p8
+I204
+sVjunk[60:75]
+p9
+I117
+s.

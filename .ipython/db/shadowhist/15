@@ -1,0 +1,14 @@
+(dp1
+Vprint c.rowcount
+p2
+I595
+sVtemp[2]
+p3
+I382
+sVdata[235][5:10]
+p4
+I422
+sVif not os.path.exists(infile):
+p5
+I336
+s.

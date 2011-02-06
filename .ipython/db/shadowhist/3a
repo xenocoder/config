@@ -1,0 +1,11 @@
+(dp1
+Vjunk[56:60]
+p2
+I121
+sVc.execute("select distinct(indexid) from turtles")
+p3
+I604
+sVif append == "T":
+p4
+I581
+s.

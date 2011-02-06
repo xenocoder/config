@@ -1,0 +1,16 @@
+(dp1
+Vc.execute("select eventid,lonmean,latmean from turtles where eventid == 17710")
+p2
+I610
+sVproclineW(data[1:2],c)
+p3
+I735
+sV7
+I123
+sVa.rowcount
+p4
+I627
+sV'../SBE9plus/%s.hdr'%file.split(".")[0]
+p5
+I132
+s.

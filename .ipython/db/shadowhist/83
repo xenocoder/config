@@ -1,0 +1,14 @@
+(dp1
+Vls CCA_Raw_Folder/
+p2
+I740
+sVif (j%3 ==0):
+p3
+I60
+sVif (sheets[0] == 'Sheet1'):]
+p4
+I167
+sVsheet.row_slice(0, start_colx=0,end_colx=12)
+p5
+I224
+s.

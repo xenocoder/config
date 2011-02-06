@@ -1,0 +1,17 @@
+(dp1
+Vif (str(sheets[0])[0:3]=='Bla'):\u000a    print 'yes'
+p2
+I194
+sVtester = testline.split(",")[4][-1]
+p3
+I661
+sVxldate_as_tuple(int(sheet.cell_value(rowx=4,colx=1)), 0)
+p4
+I238
+sVimport unicodedata
+p5
+I287
+sVdata=csv.reader(open(infile, 'U'))
+p6
+I760
+s.

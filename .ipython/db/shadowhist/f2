@@ -1,0 +1,16 @@
+(dp1
+Vunicode(lonraw,'utf-8')
+p2
+I300
+sVdepth
+p3
+I320
+sVlon = int(lonraw[0:3]) + float(lonraw[4:6])/100
+p4
+I309
+sVs
+I667
+sVtemp = wb.sheet_names()
+p5
+I199
+s.

@@ -1,0 +1,88 @@
+SESSION STARTED at:  2009-09-30 09:04:39 HST -1000
+   Program Version:  NcFTP 3.1.9/190 Mar 24 2005, 07:18 PM
+   Library Version:  LibNcFTP 3.1.9 (March 19, 2005)
+        Process ID:  53347
+          Platform:  macosx10.6.1
+          Hostname:  204.sub-75-210-109.myvzw.com  (rc=2)
+          Terminal:  xterm-color
+09:04:39  Fw: firewall.local  Type: 0  User: ehowell  Pass: ********  Port: 21
+09:04:39  FwExceptions: .local,localhost,localdomain
+09:04:39  Resolving ftp.gfdl.noaa.gov...
+09:04:40  Connecting to 140.208.31.106...
+09:04:40  LibNcFTP 3.1.9 (March 19, 2005) compiled for macosx10.6.1
+09:04:40  Uname: Darwin|204.sub-75-210-109.myvzw.com|10.0.0|Darwin Kernel Version 10.0.0: Fri Jul 31 22:47:34 PDT 2009; root:xnu-1456.1.25~1/RELEASE_I386|i386
+09:04:40  Sysinfo: Mac OS X 10.6.1 (Build 10B504)
+09:04:41  Logging in...
+09:04:41  220: *************************************************************************
+09:04:41        *                               WARNING!                                *
+09:04:41        *************************************************************************
+09:04:41        * This is a United States Government computer system, which may be      *
+09:04:41        * accessed and used only for official Government business by authorized *
+09:04:41        * personnel.  Unauthorized access or use of this computer system may    *
+09:04:41        * subject violators to criminal, civil, and/or administrative action.   *
+09:04:41        *                                                                       *
+09:04:41        * All information on this computer system may be intercepted, recorded, *
+09:04:41        * read, copied, and disclosed by and to authorized personnel for        *
+09:04:41        * official purposes, including criminal investigations.  Access or use  *
+09:04:41        * of this computer system by any person, whether authorized or          *
+09:04:41        * unauthorized, constitutes consent to these terms.                     *
+09:04:41        *************************************************************************
+09:04:41        
+09:04:41       Welcome to ftp.gfdl.noaa.gov
+09:04:41  Connected to 140.208.31.106.
+09:04:41  Cmd: USER anonymous
+09:04:41  331: Anonymous login ok, send your complete email address as your password.
+09:04:41  Cmd: PASS NcFTP@
+09:04:42  Logging in...
+09:04:42  230: 
+09:04:42        *************************************************************************
+09:04:42        *                               WARNING!                                *
+09:04:42        *************************************************************************
+09:04:42        * This is a United States Government computer system, which may be      *
+09:04:42        * accessed and used only for official Government business by authorized *
+09:04:42        * personnel.  Unauthorized access or use of this computer system may    *
+09:04:42        * subject violators to criminal, civil, and/or administrative action.   *
+09:04:42        *                                                                       *
+09:04:42        * All information on this computer system may be intercepted, recorded, *
+09:04:42        * read, copied, and disclosed by and to authorized personnel for        *
+09:04:42        * official purposes, including criminal investigations.  Access or use  *
+09:04:42        * of this computer system by any person, whether authorized or          *
+09:04:42        * unauthorized, constitutes consent to these terms.                     *
+09:04:42        *************************************************************************
+09:04:42        
+09:04:42       Anonymous access granted, restrictions apply.
+09:04:42  Cmd: PWD
+09:04:42  257: "/" is current directory.
+09:04:42  Logged in to 140.208.31.106 as anonymous.
+09:04:42  Cmd: FEAT
+09:04:42  211: Features:
+09:04:42        MDTM
+09:04:42        REST STREAM
+09:04:42        SIZE
+09:04:42       End
+09:04:42  Cmd: HELP SITE
+09:04:43  214: HELP
+09:04:43        CHGRP
+09:04:43       CHMOD
+09:04:43  Logged in to ftp.gfdl.noaa.gov.
+09:04:43  Cmd: CWD pub/jpd/ESM2.1U_H4_SRES_A2
+09:04:43  250: CWD command successful
+09:04:43  Current remote directory is /pub/jpd/ESM2.1U_H4_SRES_A2.
+09:04:43  Cmd: CLNT NcFTP 3.1.9 macosx10.6.1
+09:04:43  500: CLNT not understood
+09:04:47  > get esm2.1_H4.2001-2020.o2_150_500_npac.nc
+
+09:04:47  Cmd: TYPE I
+09:04:47  200: Type set to I
+09:04:47  Cmd: MLST esm2.1_H4.2001-2020.o2_150_500_npac.nc
+09:04:47  500: MLST not understood
+09:04:47  Cmd: SIZE esm2.1_H4.2001-2020.o2_150_500_npac.nc
+09:04:48  213: 24087192
+09:04:48  Cmd: MDTM esm2.1_H4.2001-2020.o2_150_500_npac.nc
+09:04:48  213: 20090920215047
+09:04:50  Cmd: PASV
+09:04:50  227: Entering Passive Mode (140,208,31,106,219,168).
+09:04:50  Cmd: RETR esm2.1_H4.2001-2020.o2_150_500_npac.nc
+09:04:51  150: Opening BINARY mode data connection for esm2.1_H4.2001-2020.o2_150_500_npac.nc (24087192 bytes)
+09:09:00  Starting abort sequence.
+09:09:00  Cmd: ABOR

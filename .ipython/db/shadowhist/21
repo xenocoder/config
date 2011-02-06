@@ -1,0 +1,14 @@
+(dp1
+Vc.execute('''create table raw (eventid int, date text, lcode text, lat1 real, lon1 real, lat2 real, lon2 real)''')
+p2
+I715
+sVfile.split(".")[0]
+p3
+I131
+sVdata2 = data[239].split()
+p4
+I367
+sV(date text, trans text, symbol text,
+p5
+I529
+s.

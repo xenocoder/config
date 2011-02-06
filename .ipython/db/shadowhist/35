@@ -1,0 +1,14 @@
+(dp1
+Vbtlfile = 'CTD/Processed/' + cruise + '_' + stano + 'c.btl'
+p2
+I343
+sVtemp.split()
+p3
+I31
+sVlonraw[4:5]
+p4
+I304
+sVls
+p5
+I153
+s.

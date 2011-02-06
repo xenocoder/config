@@ -1,0 +1,11 @@
+(dp1
+Vc.execute('insert into raw values (?,?,?,?,?,?,?)', t)
+p2
+I726
+sVlongitude
+p3
+I107
+sVconn = sqlite3.connect(dbname)
+p4
+I548
+s.

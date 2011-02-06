@@ -1,0 +1,20 @@
+(dp1
+Vimport sys, os, glob, xlrd, sqlite3
+p2
+I634
+sVplt.show()
+p3
+I768
+sVprint('%d %d %d %d %6.2f %5.2f %d %d %5.3f %s %7.4f %s %7.4f %5.3f %s %s\u005cn'%(stano,rawdate[0],rawdate[1],rawdate[2],lon,lat,bottle,depth,blank,range_b,Rb,range_a,Ra,chla_meas,dataout[i-7][0],dataout[i-7][1]))
+p4
+I385
+sVsheets
+p5
+I170
+sVa1[-1:-10]
+p6
+I478
+sVc.execute('''drop table turtles''')
+p7
+I553
+s.

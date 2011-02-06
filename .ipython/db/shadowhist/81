@@ -1,0 +1,11 @@
+(dp1
+Vbtlfile = 'CTD/Processed/' + str(cruise) + '_' + str(stano) + 'c.btl'
+p2
+I344
+sVlatitude = float(lat) + latmin
+p3
+I96
+sVline = sdata[0]
+p4
+I141
+s.

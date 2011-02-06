@@ -1,0 +1,8 @@
+(dp1
+Vt = [int(s[0]),date,s[3],lat,lon,lat1,lon1]
+p2
+I725
+sVfor i in range(237,len(data)-1,2):\u000a    data2=data[i].split()\u000a    print data2
+p3
+I389
+s.

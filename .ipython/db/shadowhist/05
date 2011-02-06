@@ -1,0 +1,11 @@
+(dp1
+V'%4d-%s-%sT12:00Z'%(s[2],s[3],s[4])
+p2
+I673
+sVif latdir == 'S':
+p3
+I98
+sVprint a[0][0]
+p4
+I601
+s.

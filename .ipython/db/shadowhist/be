@@ -1,0 +1,17 @@
+(dp1
+Vsheet.row.slice(12, start_colx=0,end_colx=12)
+p2
+I220
+sVfloat(s[5][0:-1])
+p3
+I706
+sVsheets[0].decode('ascii','ignore')
+p4
+I192
+sVdata[238]
+p5
+I355
+sVline = line.rstrip()
+p6
+I143
+s.

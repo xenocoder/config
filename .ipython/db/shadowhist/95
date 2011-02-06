@@ -1,0 +1,17 @@
+(dp1
+Vlat = int(latraw[0:2]) + float(latraw[3:5])/100
+p2
+I314
+sVc.execute("select distinct(eventid) from turtles where lonmean>=170")
+p3
+I632
+sVsheet.row_slice(12, start_colx=0,end_colx=12)
+p4
+I221
+sVimport numarrays
+p5
+I48
+sVfp.seek(399*267*4)
+p6
+I485
+s.

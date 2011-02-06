@@ -1,0 +1,14 @@
+(dp1
+Vjunk = data[1]
+p2
+I25
+sVlongitude = junk[2:]
+p3
+I101
+sVfiles = os.popen("ls *.*").readlines()
+p4
+I445
+sVfor t in temp:
+p5
+I208
+s.

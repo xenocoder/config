@@ -1,0 +1,17 @@
+(dp1
+Vs[1][3:5]
+p2
+I683
+sVdata2
+p3
+I368
+sVjunk[1:5]
+p4
+I34
+sVr = line.rstrip()
+p5
+I665
+sVlonraw[4:7]
+p6
+I306
+s.
